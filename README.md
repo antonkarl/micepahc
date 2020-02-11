@@ -4,7 +4,7 @@ The Machine-Parsed IcePaHC, MIcePaHC is a treebank that builds on the IcePaHC pr
 
 # Version 0.1
 
-The current release is version 0.1. It is the first release of the corpus and it is a little rough around the edges but it is nevertheless quite usable for various types of studies. It contains the full text of all the Icelandic sagas as published by online publisher Netútgáfan. 
+The current release is version 0.1. It is the first release of the corpus and it is a little rough around the edges but it is nevertheless quite usable for various types of studies. It contains the full text of all the Icelandic sagas as published by online publisher Netútgáfan. Because it is an early 0.1 release, users should expect things to change in future versions.
 
 # Format
 
