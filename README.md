@@ -9,3 +9,7 @@ The current release is version 0.1. It is the first release of the corpus and it
 # Format
 
 The treebank contains the raw text used as input for the parser, machine-tokenized into (roughly) main clauses as in the IcePaHC corpus (txt directory), as well as full phrase structure parses of everything (psd directory). The psd files are in the same labeled bracketing format as many other similar treebanks, including IcePaHC and the Penn Treebank. They can be queried using tGrep or CorpusSearch.
+
+# Contact
+
+Contact Anton Karl Ingason, antoni@hi.is, for further information.
