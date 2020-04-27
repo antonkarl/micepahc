@@ -3,7 +3,7 @@
 	    (NP (NPR-D Gnúpa-Bárði)
 		(NP-PRN (N-D ok)
 			(NP-PRN (NS-D sonum)
-				(NP-POS (PRO-G hans))))))))
+				(NP-POS (PRO-G hans))))))) (ID 1824.HRANA.NAR-SAG,.1))
 
 ( (IP-MAT (NP-PRD (NPR-N Bárðr))
 	  (VBDI hét)
@@ -14,7 +14,7 @@
 				  (NP-PRN (N-G hersis))
 				  (PP (P úr)
 				      (NP (NPR-D Sogni))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.2))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI fór)
@@ -32,13 +32,13 @@
 	  (PP (P til)
 	      (NP (NPR-G Svartár))
 	      (PP (Q-G beggja) (P vegna)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.3))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI bjó)
 	  (PP (P at)
 	      (NP (NPR-D Lundarbrekku)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.4))
 
 ( (IP-MAT (NP-SBJ (NP-POS (PRO-G Hans))
 		  (NS-N synir))
@@ -51,7 +51,7 @@
 			  (CONJP (NP (NPR-N Nefsteinn)
 				     (NP-PRN (N-N ok))
 				     (NPR-N Egill)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.5))
 
 ( (IP-MAT (NP-SBJ (NPR-D Bárði))
 	  (VBDI þótti)
@@ -67,7 +67,7 @@
 			  (ADVP-LOC (ADV þar))
 			  (PP (P til)
 			      (NP (N-G lengdar)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.6))
 
 ( (IP-MAT (NP-TMP (ONE-A Eitt) (N-A vor))
 	  (VBDI sendi)
@@ -85,13 +85,13 @@
 			  (VBDS félli)
 			  (RP út)
 			  (NP-SBJ (N-N veðráttufar))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.7))
 
 ( (IP-MAT (BEDI Var)
 	  (NP-SBJ (PRO-N þat))
 	  (PP (P um)
 	      (NP (N-A gói)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.8))
 
 ( (IP-MAT (VBDI Kómu)
 	  (NP-SBJ (PRO-N þeir))
@@ -104,7 +104,7 @@
 			  (ADVP (ADV vel))
 			  (PP (P af)
 			      (NP (N-D landi)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.9))
 
 ( (IP-MAT (VBDI Fundu)
 	  (NP-SBJ (PRO-N þeir))
@@ -113,7 +113,7 @@
 	  (N-A ok)
 	  (OTHER-A annan)
 	  (ADJP-SPR (N-A gróðr))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.10))
 
 ( (IP-MAT (NP-TMP (OTHER-A Annat) (N-A vor))
 	  (VBDI tók)
@@ -133,7 +133,7 @@
 				(CP-REL (IP-SUB (ADVP-TMP (ADV nú))
 						(VBPI heitir)
 						(NP-PRD (NPR-N Bárðargata))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.11))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI nam)
@@ -150,7 +150,7 @@
 		      (PP (NP (PRO-D því)))
 		      (NP-PRD (NPR-N Gnúpa-Bárðr))
 		      (VAN kallaðr))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.12))
 
 ( (IP-MAT (CONJ En)
 	  (NP-SBJ (NPR-N Egill)
@@ -162,7 +162,7 @@
 	  (ADVP (ADV eftir))
 	  (PP (P at)
 	      (NP (NPR-D Lundarbrekku)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.13))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI átti)
@@ -173,7 +173,7 @@
 				  (NP-PRN (N-G snepils))
 				  (PP (P at)
 				      (NP (NPR-D Lundi))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.14))
 
 ( (IP-MAT (NP-SBJ (NP-POS (PRO-G Þeirra))
 		  (N-N sonr))
@@ -193,21 +193,21 @@
 				      (NP-OB1 (ADJ-A rauðan) (N-A hring))
 				      (PP (P á)
 					  (NP (ADJ-A vinstri) (N-A kinn))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.15))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (BEDI var)
 	  (ADVP-TMP (ADV snemma))
 	  (NP-PRD (NP-PRD (ADJ-N gerviligr) (N-N ok))
 		  (NP-PRN (D-N inn) (QS-N mesti) (N-N maðr)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.16))
 
 ( (META (LS (NUM-N 2) (NUM-N .))
 	(NP (N-N Útkoma)
 	    (NP-POS (NPR-G Helga)
 		    (NP-PRN (N-G króks)))
 	    (N-A ok)
-	    (N-A landnám))))
+	    (N-A landnám))) (ID 1824.HRANA.NAR-SAG,.17))
 
 ( (IP-MAT (NP-SBJ (N-N Maðr))
 	  (BEPI er)
@@ -220,7 +220,7 @@
 				  (NPR-G Ásgeirssonar)
 				  (PP (P úr)
 				      (NP (NPR-D Sogni))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.18))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI fór)
@@ -234,7 +234,7 @@
 			      (NP-POS (PRO-D sínu)))
 		      (PP (P í)
 			  (NP (NPR-D Skjálfandafljótsós))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.19))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (BEDI var)
@@ -246,7 +246,7 @@
 			    (NPR-D Þorsteini)
 			    (PP (P í)
 				(NP (NPR-D Reykjahlíð)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.20))
 
 ( (IP-MAT (NP-SBJ (NPR-N Helgi))
 	  (VBDI reið)
@@ -255,7 +255,7 @@
 		  (NP-POS (PRO-D sínu))))
 	  (PP (P at)
 	      (NP (NPR-D Lundarbrekku)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.21))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þeir)
 		  (NP-PRN (NS-N feðgar)))
@@ -270,7 +270,7 @@
 		      (ADVP-LOC (ADV þar))
 		      (PP (P um)
 			  (NP (N-A hríð))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.22))
 
 ( (IP-MAT (NP-TMP (ONE-A Eitt) (N-A sinn))
 	  (VBDI kom)
@@ -287,14 +287,14 @@
 			      (ADVP-LOC (ADV þar))
 			      (PP (P í)
 				  (NP (N-D dalnum)))))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.23))
 
 ( (IP-MAT (CONJ en)
 	  (ADVP-TMP (ADV þá))
 	  (BEDI var)
 	  (NP-SBJ (Q-N allr) (NPR-N Bárðardalr))
 	  (VAN byggðr)
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.24))
 
 ( (IP-MAT (NP-SBJ (NPR-N Egill))
 	  (VBDI mælti)
@@ -326,7 +326,7 @@
 					      (P til)
 					      (NP (NPR-G Sanda))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.25))
 
 ( (IP-MAT (PP (P Eftir)
 	      (NP (D-A þetta)))
@@ -347,7 +347,7 @@
 	  (RP fram)
 	  (PP (P með)
 	      (NP (N-D fljóti)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.26))
 
 ( (IP-MAT (NP-SBJ (NPR-N Helgi))
 	  (VBDI reisti)
@@ -357,7 +357,7 @@
 	  (IP-SUB-PRN (NP-PRN (N-A ok))
 		      (CP-REL (IP-SUB (VBDI kallaði)
 				      (IP-SMC (NP-PRD (NPR-A Helgastaði))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.27))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI átti)
@@ -367,7 +367,7 @@
 		  (CP-REL (C er)
 			  (IP-SUB (NP-PRD (NPR-N Hallveig))
 				  (VBDI hét))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.28))
 
 ( (IP-MAT (NP-SBJ (Q-N Mikill) (N-N vinskapr))
 	  (BEDI var)
@@ -383,7 +383,7 @@
 	  (ADVP-TMP (ADV oft))
 	  (PP (P með)
 	      (NP (NPR-D Helga)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.29))
 
 ( (IP-MAT (VBDI Gaf)
 	  (NP-SBJ (NPR-N Helgi))
@@ -399,7 +399,7 @@
 					  (ONE-N eitt)
 					  (, ,)
 					  (NP-PRN (D-N it) (ADJS-N bezta) (N-N þing))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.30))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI líða)
@@ -412,7 +412,7 @@
 			  (VBDI bar)
 			  (PP (P til)
 			      (NP (NS-G tíðenda)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.31))
 
 ( (IP-MAT (LS (NUM-N 3))
 	  (LS .)
@@ -421,7 +421,7 @@
 		      (NP-OB1 (NP-POS (NPR-G Vakrs))
 			      (N-A ok))
 		      (IP-MAT-PRN (VBDI vó)
-				  (NP-SBJ (NPR-N Sigfús))))))
+				  (NP-SBJ (NPR-N Sigfús))))) (ID 1824.HRANA.NAR-SAG,.32))
 
 ( (IP-MAT (NP-SBJ (ES Þat))
 	  (BEDI var)
@@ -435,7 +435,7 @@
 				  (NP-POS (PRO-G síns)))
 			  (PP (P til)
 			      (NP (NS-G fjalla)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.33))
 
 ( (IP-MAT (NP-PRD (NPR-N Vakr))
 	  (VBDI hét)
@@ -449,12 +449,12 @@
 				  (VBDI fór)
 				  (PP (P ásamt)
 				      (NP (OTHERS-D öðrum))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.34))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBDI fór)
 	  (ALSO líka)
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.35))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þeir))
 	  (VBDI áttu)
@@ -462,14 +462,14 @@
 	  (ADVP (ADV saman))
 	  (PP (P við)
 	      (NP (NPRS-A Mývetninga)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.36))
 
 ( (IP-MAT (ADVP-TMP (ADV Þá))
 	  (VBDI bjó)
 	  (NP-SBJ (NPR-N Gauti))
 	  (PP (P á)
 	      (NP (NPR-D Gautlandi)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.37))
 
 ( (IP-MAT (PP (P Hjá)
 	      (NP (PRO-D honum)))
@@ -488,7 +488,7 @@
 						  (NP-OB2 (Q-D mörgum))
 						  (NP-OB1 (N-A ójöfnuð)
 							  (NP-POS (PRO-A sinn))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.38))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI fór)
@@ -497,7 +497,7 @@
 	      (NP (N-A fjárleit)))
 	  (PP (P með)
 	      (NP (NPRS-D Mývetningum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.39))
 
 ( (IP-MAT (ADVP (ADVR Svo))
 	  (VBDI bar)
@@ -533,7 +533,7 @@
 							  (VBDI kómu)
 							  (PP (P at)
 							      (NP (N-D gjá) (ONE-D einni)))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.40))
 
 ( (IP-MAT (ADVP-LOC (ADV Þar))
 	  (VBDI náðu)
@@ -542,13 +542,13 @@
 	  (IP-MAT-PRN (NP-SBJ (PRO-N ok))
 		      (VBDI könnuðu)
 		      (ADVP-TMP (PRO-A þá)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.41))
 
 ( (IP-MAT (VBDI Átti)
 	  (NP-SBJ (NPR-N Helgi))
 	  (NP-OB2 (N-A krókr))
 	  (NP-OB1 (NS-A sauðina))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.42))
 
 ( (IP-MAT (PP (P Meðal)
 	      (NP (OTHER-G annarra)))
@@ -561,7 +561,7 @@
 		  (IP-SUB (NP-SBJ (NPR-N Vakr))
 			  (VBDI átti)
 			  (NP-PRN (PRO-N sjálfr))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.43))
 
 ( (IP-MAT (NP-SBJ (NP-POS (N-G Sigfúss))
 		  (ADJ-N falar)
@@ -575,7 +575,7 @@
 		  (PP (P fyrir)
 		      (NP (N-A ómak)
 			  (NP-POS (PRO-A sitt)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.44))
 
 ( (IP-MAT (NP-SBJ (N-N Vakr))
 	  (VBDI færðist)
@@ -585,7 +585,7 @@
 		      (NEG eigi)
 		      (VB láta)
 		      (NP-OB1 (N-A sauðinn)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.45))
 
 ( (IP-MAT (VBDI Kífuðu)
 	  (NP-SBJ (PRO-N þeir))
@@ -609,7 +609,7 @@
 				  (CP-ADV (IP-SUB (PP (P í)
 						      (NP (N-A heila)))
 						  (VBDI stóð)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.46))
 
 ( (IP-MAT (PP (P Í)
 	      (NP (PRO-D því)))
@@ -629,7 +629,7 @@
 				  (IP-SUB (NP-SBJ (NPR-N Vakr))
 					  (BEPI er)
 					  (VAN veginn)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.47))
 
 ( (IP-MAT (IP-MAT (VBPI Spyrr)
 		  (ADVP-TMP (ADV nú))
@@ -648,7 +648,7 @@
 						 (PP (P af)
 						     (NP (NS-D viðskiptum)
 							 (NP-POS (PRO-G þeirra)))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.48))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBDI mælti)
@@ -671,7 +671,7 @@
 		      (PP (P á)
 			  (NP (PRO-D þér))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.49))
 
 ( (IP-MAT (NP-SBJ (NPR-N Sigfúss))
 	  (VBDI mælti)
@@ -695,7 +695,7 @@
 								      (NP (PRO-G hans)))
 								  (PP (P með)
 								      (NP (N-D öxinni)))))))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.50))
 
 ( (IP-MAT (CONJ en)
 	  (NP-SBJ (PRO-N hann))
@@ -703,7 +703,7 @@
 	  (NP-OB1 (N-D skildi))
 	  (PP (P fyrir)
 	      (NP (PRO-A sik)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.51))
 
 ( (IP-MAT (VBDI Kom)
 	  (ADVP-TMP (ADV þá))
@@ -715,12 +715,12 @@
 		     (VAG renndi)
 		     (RP út)
 		     (RP af)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.52))
 
 ( (IP-MAT (RDDI Varð)
 	  (NP-SBJ (N-N þat))
 	  (NP-PRD (ADJ-N allstórt) (N-N sár))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.53))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI höggr)
@@ -730,7 +730,7 @@
 	      (NP (NPR-G Sigfúsar)))
 	  (NP-OB1 (N-D saxinu)
 		  (NP-PRN (NPR-A Helganaut)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.54))
 
 ( (IP-MAT (VBDI Kom)
 	  (NP-SBJ (D-N þat) (N-N högg))
@@ -750,7 +750,7 @@
 			  (NP (NS-D vonum)))
 		      (ADJP-SPR (ADJ-N dauðr))
 		      (RP niðr))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.55))
 
 ( (IP-MAT (RDDI Varð)
 	  (ADVP-TMP (ADV nú))
@@ -761,13 +761,13 @@
 	      (NP (NP (NPRS-G Mývetninga))
 		  (N-G ok)
 		  (NP-POS (NPR-G Hrana))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.56))
 
 ( (IP-MAT (VBDI Heygðu)
 	  (NP-SBJ (PRO-N þeir))
 	  (ADVP-LOC (ADV þar))
 	  (NP-OB1 (NPR-A Sigfús))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.57))
 
 ( (IP-MAT (NP (N-A Ok)
 	      (PP (P eftir)
@@ -783,7 +783,7 @@
 	  (CP-REL (C er)
 		  (IP-SUB (NP-OB1 (N-A fundit))
 			  (HVDI höfðu)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.58))
 
 ( (IP-MAT (NP (LS (NUM-N 4))
 	      (NUM-N .))
@@ -791,7 +791,7 @@
 		  (PP (P á)
 		      (NP (NPR-D Gautlandi))))
 	  (VBDI græddi)
-	  (NP-OB2 (NPR-A Hrana))))
+	  (NP-OB2 (NPR-A Hrana))) (ID 1824.HRANA.NAR-SAG,.59))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI ríðr)
@@ -807,7 +807,7 @@
 	  (, ,)
 	  (PP (P í)
 	      (NP (NPR-D Reykjahlíð)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.60))
 
 ( (IP-MAT (VBDI Tók)
 	  (NP-SBJ (NPR-N Þorsteinn))
@@ -816,7 +816,7 @@
 	  (NP-OB1 (N-A ok)
 		  (NS-A spyrr)
 		  (NP-POS (NS-G tíðenda)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.61))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBDI sagði)
@@ -830,7 +830,7 @@
 			  (NP-SBJ (PRO-N hann))
 			  (ADVP-TMP (ADV nú))
 			  (NP-OB1 (N-G ásjár))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.62))
 
 ( (IP-MAT (VBDI Sýndi)
 	  (NP-SBJ (NPR-D Hrani) (NPR-D Þorsteini))
@@ -868,7 +868,7 @@
 										  (NP (N-A víg)
 										      (NP-POS (NPR-G Sigfúsar))))))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.63))
 
 ( (IP-MAT (NP-SBJ (NPR-N Þorsteinn))
 	  (VBPI svarar)
@@ -889,7 +889,7 @@
 						      (NP (PRO-A hann)))
 						  (PP (P um)
 						      (NP (NS-A sættir)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.64))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N Hann))
 	      (BEPI er)
@@ -904,7 +904,7 @@
 					  (BEPI er)
 					  (VAN leitat))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.65))
 
 ( (IP-MAT (NP-OB1 (NP (N-A Ok))
 		  (PP (P eftir)
@@ -919,7 +919,7 @@
 		  (PP (P í)
 		      (NP (N-D útiskemmu)
 			  (NP-POS (PRO-D sinni)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.66))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBPI heilsar)
@@ -929,7 +929,7 @@
 	  (NP-OB2 (NP-MSR (NS-A ok))
 		  (ADJ-N spyrr)
 		  (NP-POS (NS-G tíðenda)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.67))
 
 ( (IP-MAT (NP-SBJ (NPR-N Þorsteinn))
 	  (VBDI mælti)
@@ -965,7 +965,7 @@
 							 (NP-PRN (N-D frænda)
 								 (NP-POS (PRO-D mínum))))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.68))
 
 ( (IP-MAT (VBDI Sagði)
 	  (NP-SBJ (NPR-N Þorsteinn))
@@ -992,7 +992,7 @@
 									     (CP-EOP (IP-INF (NP-OB2 (NPR-D Gauta))
 											     (TO at)
 											     (VB þiggja)))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.69))
 
 ( (IP-MAT (IP-MAT (NP-SBJ (N-D Bónda))
 		  (VBDI leizt)
@@ -1037,7 +1037,7 @@
 												    (PP (P um)
 													(NP (ADJ-A vígit)))))))))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.70))
 
 ( (IP-MAT (VBDI Þökkuðu)
 	  (NP-SBJ (PRO-N þeir))
@@ -1083,7 +1083,7 @@
 									     (PP (P at)
 										 (NP (N-D sárinu)))))))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.71))
 
 ( (IP-MAT (IP-MAT (NP-SBJ (NPR-N Gauti))
 		  (VBDI lofaði)
@@ -1100,7 +1100,7 @@
 			 (ADVP-DIR (ADV heim))
 			 (PP (P í)
 			     (NP (NPR-A Reykjahlíð)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.72))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI skoðar)
@@ -1111,7 +1111,7 @@
 		      (BEDI var)
 		      (NP-SBJ (VAN þat))
 		      (ADJP (N-N mjök) (ADJ-N vont)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.73))
 
 ( (IP-MAT (BEDI Var)
 	  (NP-SBJ (PRO-N hann))
@@ -1134,7 +1134,7 @@
 						     (PP (P til)
 							 (NP (N-G föður)
 							     (NP-POS (PRO-G síns))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.74))
 
 ( (IP-MAT (VBDI Bar)
 	  (ADVP-TMP (ADV nú))
@@ -1144,7 +1144,7 @@
 	      (NP (NS-G tíðenda)))
 	  (PP (P at)
 	      (NP (PRO-D sinni)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.75))
 
 ( (IP-MAT (LS (NUM-N 5))
 	  (NUM-N .)
@@ -1154,12 +1154,12 @@
 		  (NP-PRN (N-N ok)))
 	  (VBDI féll)
 	  (PP (P fyrir)
-	      (NP (NPR-A Hrana)))))
+	      (NP (NPR-A Hrana)))) (ID 1824.HRANA.NAR-SAG,.76))
 
 ( (IP-MAT (NP-PRD (NPR-N Hróaldr) (ADJ-N galti))
 	  (VBDI hét)
 	  (NP-SBJ (N-N maðr))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.77))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI bjó)
@@ -1167,7 +1167,7 @@
 	      (NP (NPRS-D Torfastöðum)
 		  (PP (P í)
 		      (NP (NPR-D Vopnafirði)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.78))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (BEDI var)
@@ -1183,13 +1183,13 @@
 			  (N-N ok)
 			  (ADJP (ADJ-N illr)
 				(NP (N-G viðrskiptis)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.79))
 
 ( (IP-MAT (VBDI Átti)
 	  (NP-SBJ (PRO-N hann))
 	  (NP-OB1 (N-A ok) (ADJ-A sökótt))
 	  (ADVP-LOC (ADV víða))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.80))
 
 ( (IP-MAT (VBDI Frétti)
 	  (NP-SBJ (PRO-N hann))
@@ -1205,7 +1205,7 @@
 		  (CONJP (IP-SUB (VBPI heitir)
 				 (ADVP-TMP (ADV nú))
 				 (IP-INF (TO at) (VB hefna)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.81))
 
 ( (IP-MAT (VBPI Býr)
 	  (NP-SBJ (PRO-N hann))
@@ -1223,7 +1223,7 @@
 	  (PP (NP-MSR (Q-A allt))
 	      (P at)
 	      (NP (NPR-D Mývatni)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.82))
 
 ( (IP-MAT (BEDI Var)
 	  (NP-SBJ (VAN þat))
@@ -1231,7 +1231,7 @@
 	  (PP (P eftir)
 	      (NP (N-A fall)
 		  (NP-POS (NPR-G Sigfúsar))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.83))
 
 ( (IP-MAT (VBPI Koma)
 	  (NP-SBJ (PRO-N þeir))
@@ -1239,7 +1239,7 @@
 		  (NP-POS (N-G dags)))
 	  (PP (P at)
 	      (NP (NPR-D Gautlandi)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.84))
 
 ( (IP-MAT (NP-SBJ (NPR-N Gauti))
 	  (BEDI var)
@@ -1247,7 +1247,7 @@
 	      (NP (N-D túni)
 		  (NP-COM (N-D ok))))
 	  (NP-PRN (NS-N húskarlar) (NUM-N þrír))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.85))
 
 ( (IP-MAT (NP-SBJ (NPR-N Gauti))
 	  (VBPI heilsar)
@@ -1257,14 +1257,14 @@
 	  (NP-OB1 (N-A gisting))
 	  (PP (P um)
 	      (NP (N-A nóttina)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.86))
 
 ( (IP-MAT (VBDI Kvaðst)
 	  (NP-SBJ (NPR-N Hróaldr))
 	  (IP-INF (NP-OB1 (N-A þat))
 		  (VB þiggja)
 		  (MD mundu))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.87))
 
 ( (CP-QUE-SPE (" ")
 	      (IP-SUB-SPE (HVPI Hefi)
@@ -1288,7 +1288,7 @@
 					     (, ,)
 					     (ADVP-LOC (ADV hér)))))
 	      (. ?)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.88))
 
 ( (IP-MAT (NP-SBJ (NPR-N Gauti))
 	  (VBDI mælti)
@@ -1299,7 +1299,7 @@
 		      (NP-SBJ (PRO-N hann))
 		      (ADVP-LOC (ADV hér)))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.89))
 
 ( (IP-MAT (NP (N-N Ok))
 	  (VBPI segir)
@@ -1318,7 +1318,7 @@
 			      (PP (P vegna)
 				  (NP (NP-POS (NPR-G Hrana))
 				      (N-G hrings)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.90))
 
 ( (IP-MAT (CONJ En)
 	  (NP-SBJ (NPR-N Galti))
@@ -1351,7 +1351,7 @@
 								 (NP-OB1 (N-G bróður)
 									 (NP-POS (PRO-G míns))))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.91))
 
 ( (IP-MAT (NP-SBJ (NPR-N Gauti))
 	  (VBPI svarar)
@@ -1382,7 +1382,7 @@
 					 (PP (P með)
 					     (NP (PRO-D honum))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.92))
 
 ( (IP-MAT (NP-SBJ (NPR-N Galti))
 	  (VBPI svarar)
@@ -1395,7 +1395,7 @@
 			  (NP (N-D máli)))
 		      (PP (P eftir)
 			  (NP (NPR-A Sigfús))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.93))
 
 ( (IP-MAT-SPE (IP-MAT-SPE (BEDI Var)
 			  (NP-SBJ (PRO-N hann))
@@ -1434,7 +1434,7 @@
 				      (PP (P at)
 					  (NP (Q-D nokkuru)))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.94))
 
 ( (IP-MAT (VBPI Reiðir)
 	  (NP-SBJ (PRO-N hann))
@@ -1456,7 +1456,7 @@
 	  (VBDI missti)
 	  (NP-SBJ (PRO-N hann))
 	  (NP-OB1 (N-G höggsins))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.95))
 
 ( (IP-MAT (IP-MAT (NP-SBJ (N-N Spjót))
 		  (VBDI stóð)
@@ -1471,7 +1471,7 @@
 	  (VBPI skýtr)
 	  (PP (P at)
 	      (NP (NPR-D Galta)))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.96))
 
 ( (IP-MAT (CONJ en)
 	  (NP-SBJ (PRO-N hann))
@@ -1481,7 +1481,7 @@
 	      (NP (N-A ok)))
 	  (VBDI sakaði)
 	  (NEG eigi)
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.97))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI hlaupa)
@@ -1508,7 +1508,7 @@
 								 (ONE-N einn)
 								 (N-N húskarl)
 								 (NP-POS (PRO-G hans)))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.98))
 
 ( (IP-MAT (CONJ En)
 	  (NP-OB1 (D-A hina) (NUM-A tvo))
@@ -1549,7 +1549,7 @@
 					     (IP-SUB (NP-SBJ (NPR-N Hrani))
 						     (BEDS væri)
 						     (ADVP-LOC (ADV þar)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.99))
 
 ( (IP-MAT (NP-SBJ (N-N Þrællinn))
 	  (VBDI fór)
@@ -1563,7 +1563,7 @@
 			  (BEDI var)
 			  (NEG eigi)
 			  (ADVP-LOC (ADV heima))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.100))
 
 ( (IP-MAT (HVDI Hafði)
 	  (NP-SBJ (PRO-N hann))
@@ -1573,7 +1573,7 @@
 		  (NP-PRN (N-A krók))))
 	  (PP (P um)
 	      (NP (N-A tíma)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.101))
 
 ( (IP-MAT (VBDI Lét)
 	  (ADVP-TMP (ADV nú))
@@ -1604,7 +1604,7 @@
 			  (NP (N-A þat)
 			      (PP (P á)
 				  (NP (NPRS-D Hrafnabjörgum))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.102))
 
 ( (IP-MAT (VBPI Ríða)
 	  (NP-SBJ (PRO-N þeir))
@@ -1619,20 +1619,20 @@
 			      (CP-QUE (WADVP (WADV hvar))
 				      (IP-SUB (NP-SBJ (NS-N viðarhlöss) (Q-N mörg))
 					      (BEDI vóru))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.103))
 
 ( (IP-MAT (ADVP-LOC (ADV Þar))
 	  (VBPI sjá)
 	  (NP-SBJ (PRO-N þeir))
 	  (NP-OB1 (N-A ok) (NUM-A þrjá) (NS-A menn))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.104))
 
 ( (IP-MAT (NP-SBJ (ONE-N Einn)
 		  (NP-POS (PRO-G þeirra)))
 	  (VBDI leizt)
 	  (NP-OB1 (PRO-D þeim))
 	  (ADJP-SPR (ADJ-N vaskligr))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.105))
 
 ( (IP-MAT (IP-MAT (NP-SBJ (PRO-N Hann))
 		  (VBPI gengr)
@@ -1655,7 +1655,7 @@
 				 (CP-QUE (WQ hvat)
 					 (IP-SUB (NP-SBJ (PRO-N hann))
 						 (VBPS heiti))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.106))
 
 ( (IP-MAT (CONJ En)
 	  (NP-SBJ (N-N maðr)
@@ -1673,7 +1673,7 @@
 				  (NP-POS (NPR-G Egils)
 					  (PP (P á)
 					      (NP (NPR-D Lundarbrekku)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.107))
 
 ( (IP-MAT (NP-SBJ (NPR-N Galti))
 	  (VBDI mælti)
@@ -1711,7 +1711,7 @@
 							  (NP-OB1 (PRO-G hans))
 							  (PP (P á)
 							      (NP (PRO-D þér)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.108))
 
 ( (IP-MAT-SPE (CP-ADV-SPE (IP-SUB-SPE (IP-MAT-SPE (HVPI Hefi)
 						  (NP-SBJ (PRO-N ek))
@@ -1742,7 +1742,7 @@
 		      (CP-CMP-SPE (C sem)
 				  (IP-SUB-SPE (NP-SBJ (PRO-N hann)))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.109))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBPI svarar)
@@ -1789,7 +1789,7 @@
 						      (PP (P at)
 							  (NP (N-D velli)))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.110))
 
 ( (IP-MAT (NP-SBJ (NPR-N Galti))
 	  (VBPI segir)
@@ -1816,7 +1816,7 @@
 		      (NP-OB1 (PRO-G hans))
 		      (ADVP-TMP (ADV nú)))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.111))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBDI mælti)
@@ -1840,7 +1840,7 @@
 									     (BEPI er)
 									     (VBN liðit))))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.112))
 
 ( (IP-MAT (NP-SBJ (NPR-N Galti))
 	  (VBPI svarar)
@@ -1865,7 +1865,7 @@
 								 (BEPS sért)
 								 (ADVP-TMP (ADV nú))
 								 (ADJP (ADJ-N feigr)))))))
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.113))
 
 ( (IP-MAT-SPE (" ")
 	      (ADVP (ADVR Svo))
@@ -1897,7 +1897,7 @@
 	      (ADVP (ADV undan))
 	      (VB renna)
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.114))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (HVDI hafði)
@@ -1934,7 +1934,7 @@
 						  (VBDI féll)
 						  (ADJP-SPR (ADJ-N dauðr))
 						  (RP niðr))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.115))
 
 ( (IP-MAT (ADVP-TMP (ADV Þá))
 	  (VBDI mælti)
@@ -1952,7 +1952,7 @@
 				      (ADVP-TMP (ADV nú))
 				      (PP (P á)
 					  (NP (ADJS-A lægsta) (N-A garð)))))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.116))
 
 ( (IP-MAT-SPE (CONJ en)
 	      (VBPI efar)
@@ -1964,7 +1964,7 @@
 		  (PP (P við)
 		      (NP (Q-A mik))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.117))
 
 ( (IP-MAT (NP-SBJ (NPR-N Galti))
 	  (VBDI mælti)
@@ -1977,7 +1977,7 @@
 				  (IP-SUB-SPE (NP-SBJ (N-N fylgjari)
 						      (NP-POS (PRO-N þinn))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.118))
 
 ( (IP-MAT (CONJ Ok)
 	  (PP (P í)
@@ -2002,7 +2002,7 @@
 							     (RDDI varð)
 							     (NEG eigi)
 							     (ADJP (ADJ-N sárr))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.119))
 
 ( (IP-MAT (ADVP-TMP (ADV Þá))
 	  (VBPI höggr)
@@ -2014,14 +2014,14 @@
 		  (NP-COM (N-A ok))))
 	  (VBDI klauf)
 	  (NP-SBJ (PRO-N hann))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.120))
 
 ( (IP-MAT (VBPI Fekk)
 	  (NP-SBJ (PRO-N hann))
 	  (NP-OB1 (N-A ok) (ADJ-A sár))
 	  (PP (P á)
 	      (NP (N-A lærit)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.121))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI eggjar)
@@ -2032,7 +2032,7 @@
 		  (VB sækja)
 		  (PP (P at)
 		      (NP (NPR-D Hrana))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.122))
 
 ( (IP-MAT (VBPI Þjóta)
 	  (NP-SBJ (PRO-N þeir))
@@ -2044,7 +2044,7 @@
 		  (VB sækja)
 		  (PP (P at)
 		      (NP (NPR-D Hrana))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.123))
 
 ( (IP-MAT (IP-MAT (VBPI Drepr)
 		  (NP-SBJ (PRO-N hann))
@@ -2058,7 +2058,7 @@
 		 (IP-MAT (NP-SBJ (NPR-N Galti))
 			 (VBPI hopar)
 			 (ADVP-DIR (ADV undan))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.124))
 
 ( (IP-MAT (ADVP-TMP (ADV Þá))
 	  (VBDI mælti)
@@ -2090,7 +2090,7 @@
 					  (IP-INF-SPE (TO at)
 						      (VB eggja)
 						      (NP-OB1 (OTHERS-A aðra))))))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.125))
 
 ( (IP-MAT-SPE (CONJ en)
 	      (VBPI þora)
@@ -2100,7 +2100,7 @@
 			  (TO at)
 			  (VB koma))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.126))
 
 ( (IP-MAT (ADVP-TMP (ADV Þá))
 	  (VBDI sagði)
@@ -2130,7 +2130,7 @@
 										      (NP-SBJ (Q-N jafnmargir) (NS-N menn))
 										      (NP-OB1 (ONE-D einum) (N-D manni))))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.127))
 
 ( (IP-MAT (BEDI Var)
 	  (ADVP-TMP (ADV nú))
@@ -2142,7 +2142,7 @@
 		  (N-N ok))
 	  (ADVP (ADV svo))
 	  (VBN fallinn)
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.128))
 
 ( (IP-MAT (IP-MAT (ADVP-TMP (ADV Nú))
 		  (VBPI hamast)
@@ -2156,7 +2156,7 @@
 	  (PP (P í)
 	      (NP (N-A skjöld)
 		  (NP-POS (PRO-G hans))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.129))
 
 ( (IP-MAT (IP-MAT (NP-OB1 (D-N Þat) (N-N högg))
 		  (VBDI skaðaði)
@@ -2166,7 +2166,7 @@
 	  (CONJP (CONJ en)
 		 (IP-MAT (NP-SBJ (NPR-A Hrana))
 			 (NP-OB1 (Q-A ekkert))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.130))
 
 ( (IP-MAT (IP-MAT (NP-SBJ (NPR-N Hrani))
 		  (VBDI hjó)
@@ -2190,7 +2190,7 @@
 			 (, ,)
 			 (PP (P til)
 			     (NP (NPR-G Hrana)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.131))
 
 ( (IP-MAT (NP-SBJ (D-N Þat) (N-N högg))
 	  (VBDI lenti)
@@ -2208,7 +2208,7 @@
 				     (IP-SUB (NEG eigi)
 					     (VBDI særðist)
 					     (NP-SBJ (PRO-N hann)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.132))
 
 ( (IP-MAT (CONJ En)
 	  (PP (P með)
@@ -2243,7 +2243,7 @@
 			  (PP (P svo)
 			      (CP-ADV (IP-SUB (NP-SBJ (PRO-N hann))
 					      (VBDI féll))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.133))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI sækja)
@@ -2253,7 +2253,7 @@
 	  (Q-N allir)
 	  (PP (P í)
 	      (ADVP (ADV senn)))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.134))
 
 ( (IP-MAT (CONJ en)
 	  (NP-SBJ (PRO-N hann))
@@ -2261,7 +2261,7 @@
 	  (ADVP (ADV vel))
 	  (NP-OB1 (N-A ok))
 	  (ADVP (ADV drengiliga))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.135))
 
 ( (IP-MAT (VBPI Drepr)
 	  (NP-SBJ (PRO-N hann))
@@ -2288,7 +2288,7 @@
 			  (PP (P í)
 			      (NP (NS-A herðar)))
 			  (RP niðr)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.136))
 
 ( (IP-MAT (VBDI Féll)
 	  (NP-SBJ (PRO-N hann))
@@ -2306,7 +2306,7 @@
 			 (NP-OB1 (NPR-G Hrana))
 			 (PP (P um)
 			     (NP (N-A líf)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.137))
 
 ( (IP-MAT (BEDI Var)
 	  (NP-SBJ (PRO-N þat))
@@ -2318,7 +2318,7 @@
 		  (IP-SUB (ADVP-TMP (ADVR fyrr))
 			  (BEDI var)
 			  (VAN getit)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.138))
 
 ( (IP-MAT (IP-MAT (BEDI Var)
 		  (ADVP-TMP (ADV nú))
@@ -2328,7 +2328,7 @@
 	  (CONJP (CONJ en)
 		 (IP-MAT (ADJP (NP-MSR (Q lítt))
 			       (ADJ-N sárr))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.139))
 
 ( (IP-MAT (VBPI Hvílist)
 	  (NP-SBJ (PRO-N hann))
@@ -2345,7 +2345,7 @@
 			  (PP (P um)
 			      (NP (N-A fall)
 				  (NP-POS (NPR-G Gauta))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.140))
 
 ( (IP-MAT (LS (LS (NUM-N 6))
 	      (NUM-N .))
@@ -2353,7 +2353,7 @@
 	  (VBPI fekkst)
 	  (PP (P við)
 	      (NP (NPR-A Nípu)
-		  (NP-PRN (N-A tröllkonu))))))
+		  (NP-PRN (N-A tröllkonu))))) (ID 1824.HRANA.NAR-SAG,.141))
 
 ( (IP-MAT (ADVP-TMP (NP-MSR (Q-D Litlu))
 		    (ADVR síðar))
@@ -2362,7 +2362,7 @@
 		  (NP-PRN (N-N krókr)))
 	  (PP (P með)
 	      (NP (ADJ-A fjórða) (N-A mann)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.142))
 
 ( (IP-MAT (HVDI Hafði)
 	  (NP-SBJ (PRO-N hann))
@@ -2375,7 +2375,7 @@
 			  (MDDS mundi)
 			  (NP-OB1 (N-G liðs))
 			  (VB þurfa)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.143))
 
 ( (IP-MAT (RDDI Varð)
 	  (ADVP-TMP (ADV nú))
@@ -2401,7 +2401,7 @@
 					      (NP (N-D afli)))
 					  (N21 ok)
 					  (VBDI fimleik)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.144))
 
 ( (IP-MAT (BEDI Var)
 	  (ADVP-TMP (ADV nú))
@@ -2417,7 +2417,7 @@
 		      (PP (P af)
 			  (NP (PRO-D honum)))
 		      (NP-OB1 (N-A höfuð)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.145))
 
 ( (IP-MAT (ADVP (ADV Svo))
 	  (VBDI dysjuðu)
@@ -2444,14 +2444,14 @@
 			     (NP (NPRS-G Helgastaða)))
 			 (PP (P með)
 			     (NP (NS-A viðarhlössin)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.146))
 
 ( (IP-MAT (VBDI Ræmdist)
 	  (NP-SBJ (D-N þetta))
 	  (ADVP-LOC (ADV víða))
 	  (PP (P um)
 	      (NP (NS-A sveitir)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.147))
 
 ( (IP-MAT (NEG Eigi)
 	  (BEPI er)
@@ -2471,14 +2471,14 @@
 						    (NP-OB1 (N-A frændr) (N-A mjök))
 						    (ADJP (ADJ-A nána)
 							  (NP (PRO-D sér))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.148))
 
 ( (IP-MAT (PP (ADVP (ADV Þar))
 	      (P með))
 	  (BEDI var)
 	  (NP-SBJ (PRO-N hann))
 	  (NP-PRD (N-N ok) (ADJ-N óvinsæll) (N-N mjök))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.149))
 
 ( (IP-MAT (VBDI Sat)
 	  (ADVP-TMP (ADV nú))
@@ -2493,17 +2493,17 @@
 		      (NEG eigi)
 		      (PP (P til)
 			  (NP (NS-G tíðenda))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.150))
 
 ( (IP-MAT (NP-SBJ (NPR-N Helgi))
 	  (BEDI var)
 	  (NP-PRD (QS-N mesti) (N-N búsýslumaðr))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.151))
 
 ( (IP-MAT (VBDI Átti)
 	  (NP-SBJ (PRO-N hann))
 	  (NP-OB1 (ADJ-A gott) (N-A bú) (N-A ok) (N-A fé) (Q-A margt))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.152))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (HVDI hafði)
@@ -2512,7 +2512,7 @@
 	  (PP (P fyrir)
 	      (PP (P austan)
 		  (NP (NPR-A Skjálfandafljót))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.153))
 
 ( (IP-MAT (NP-TMP (ONE-A Eitt) (N-A sumar))
 	  (VBDI bar)
@@ -2535,7 +2535,7 @@
 						  (NP-SBJ (NP-SBJ (N-N dagrinn))
 							  (VBI ok)
 							  (NP (N-A nóttin))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.154))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI láta)
@@ -2554,7 +2554,7 @@
 						 (Q-A allt)
 						 (ADVP-DIR (ADV heim))
 						 (VBN komit))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.155))
 
 ( (IP-MAT (VBPI Undrast)
 	  (ADVP-TMP (ADV nú))
@@ -2570,7 +2570,7 @@
 			      (IP-INF-PRP (TO at)
 					  (VB leita)
 					  (NP-OB1 (PRO-G hans)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.156))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þeir))
 	  (VBDI fóru)
@@ -2599,7 +2599,7 @@
 		      (IP-INF-PRP (TO at)
 				  (VB gæta)
 				  (NP-OB1 (N-G fjárins))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.157))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBDI leið)
@@ -2624,7 +2624,7 @@
 						      (ADVP (ADVR heldr)
 							    (PP (P en)
 								(CP-CMP (IP-SUB (NP-SBJ (D-N inn) (ADJR-N fyrri))))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.158))
 
 ( (IP-MAT (NP-MSR (ADV Stórum))
 	  (VBPI undrar)
@@ -2659,7 +2659,7 @@
 						   (NP (PRO-G þá)))
 					       (PP (P um)
 						   (NP (N-A hríð))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.159))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI ferr)
@@ -2676,7 +2676,7 @@
 			      (NP-SBJ (Q-N neitt))
 			      (PP (P til)
 				  (NP (NS-G tíðenda))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.160))
 
 ( (IP-MAT (NP-TMP (ONE-A Eitt) (N-A kvöld))
 	  (VBDI rekr)
@@ -2694,12 +2694,12 @@
 		    (CP-REL (C sem)
 			    (IP-SUB (VBPI hættir)
 				    (NP-SBJ (N-D rekstrinum)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.161))
 
 ( (IP-MAT (VBPI Sækir)
 	  (NP-SBJ (PRO-N hann))
 	  (NP-OB1 (ADJ-A svefn) (N-D mjök))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.162))
 
 ( (IP-MAT (VBPI Kemr)
 	  (NP-SBJ (PRO-D honum))
@@ -2720,7 +2720,7 @@
 					      (NP-OB1 (D-A þetta))
 					      (PP (P af)
 						  (NP (PRO-D sér))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.163))
 
 ( (IP-MAT (CONJ En)
 	  (CP-ADV (C sem)
@@ -2740,7 +2740,7 @@
 				      (NP (N-D ysi)
 					  (NP-COM (N-A ok)
 						  (QP (N-D þysi) (Q-D miklum))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.164))
 
 ( (IP-MAT (VBPI Rennr)
 	  (ADVP-TMP (ADV nú))
@@ -2761,13 +2761,13 @@
 					  (VBPI hleypr)
 					  (PP (P eftir)
 					      (NP (N-D fénu)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.165))
 
 ( (IP-MAT (VBPI Nálgast)
 	  (ADVP-TMP (ADV nú))
 	  (NP-SBJ (D-N þetta))
 	  (ADVP (ADV skjótt))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.166))
 
 ( (IP-MAT-SPE (BEPI Er)
 	      (NP-OB1 (VAN þat))
@@ -2775,7 +2775,7 @@
 			  (VB sjá)
 			  (IP-SMC-SPE (NP-SBJ (NS-A tröllskessa))
 				      (ADJP (ADJ-A ferlig))))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.167))
 
 ( (IP-MAT (IP-MAT (VBPI Stígr)
 		  (NP-SBJ (PRO-N hún))
@@ -2786,7 +2786,7 @@
 	  (CONJP (CONJ en)
 		 (IP-MAT (NP-SBJ (NS-N þjóhnappar))
 			 (VBPI berir)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.168))
 
 ( (IP-MAT (N-N Ok)
 	  (CP-ADV (C er)
@@ -2815,7 +2815,7 @@
 		      (VB bíða)
 		      (NP-OB1 (PRO-G mín)))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.169))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hringr))
 	  (VBDI mælti)
@@ -2836,7 +2836,7 @@
 						     (NP-SBJ (NS-N hýbýli)
 							     (NP-POS (PRO-N þín)))))))
 	  (. ?)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.170))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hún))
 	  (VBPI segir)
@@ -2849,7 +2849,7 @@
 		      (IP-INF-SPE (NP-OB1 (PRO-A þat))
 				  (TO at)
 				  (VB vita)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.171))
 
 ( (IP-MAT-SPE (NEG Ek)
 	      (VBPS heiti)
@@ -2867,7 +2867,7 @@
 					      (NP-POS (PRO-G okkar))))
 				      (PP (P í)
 					  (NP (N-D kör)))))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.172))
 
 ( (IP-MAT-SPE (IP-MAT-SPE (BEPI Er)
 			  (NP-SBJ (PRO-N ek))
@@ -2879,7 +2879,7 @@
 					 (NP-POS (PRO-G okkar)))
 				 (BEPI er)
 				 (ADJP (ADJ-N dauð))))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.173))
 
 ( (IP-MAT (NP-SBJ (NPRS-N Atsetr))
 	  (VBPI eigum)
@@ -2888,7 +2888,7 @@
 	      (NP (NPR-D Fljótsdal)))
 	  (ADVP-LOC (ADV hér))
 	  (RP fram)
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.174))
 
 ( (IP-MAT (IP-IMP-SPE (HVPI Höfum)
 		      (NP-OB1 (N-A vit))
@@ -2908,7 +2908,7 @@
 			      (PP (P á)
 				  (NP (NS-D haustum)))
 			      (NP-OB1 (N-A fé) (N21 ok) (N22 hross)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.175))
 
 ( (IP-MAT-SPE (HVPI Hefi)
 	      (NP-SBJ (PRO-N ek))
@@ -2933,7 +2933,7 @@
 						      (NP (N-G snæðu)))
 						  (PP (P á)
 						      (NP (N-A morgun))))))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.176))
 
 ( (IP-MAT-SPE (IP-MAT-SPE (HVPI Hefir)
 			  (ADVP (ADV þó))
@@ -2962,7 +2962,7 @@
 								   (ADV eftir)
 								   (IP-SMC-SPE (ADJP (ADV ólifat))))))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.177))
 
 ( (IP-MAT (PP (P At)
 	      (IP-SMC (NP-SBJ (PRO-D því))
@@ -2971,7 +2971,7 @@
 	  (NP-SBJ (PRO-N hún))
 	  (PP (P á)
 	      (NP (NPR-D Hrana)))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.178))
 
 ( (IP-MAT (CONJ en)
 	  (NP-SBJ (PRO-N hann))
@@ -2982,7 +2982,7 @@
 	      (NP (PRO-A hana)))
 	  (PP (P undir)
 	      (NP (NS-D höndum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.179))
 
 ( (IP-MAT (VBDI Þrýsti)
 	  (NP-SBJ (PRO-N hún))
@@ -3001,7 +3001,7 @@
 					 (ADJP-LOC (ADJ-N nær) (N-N aflvana))
 					 (PP (P fyrir)
 					     (NP (PRO-D henni)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.180))
 
 ( (IP-MAT (ADJS-N Verst)
 	  (NP-SBJ (PRO-N hann))
@@ -3034,7 +3034,7 @@
 										  (CP-REL (C er)
 											  (IP-SUB (ADVP-LOC (ADV þar))
 												  (VBDI stóð)))))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.181))
 
 ( (IP-MAT (NP-OB1 (PRO-A Þat))
 	  (VBPI finnr)
@@ -3047,7 +3047,7 @@
 			      (NP-OB1 (PRO-D honum))
 			      (PP (P á)
 				  (NP (N-A steininn)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.182))
 
 ( (IP-MAT (NP-LFD (N-N Ok)
 		  (CP-ADV (C er)
@@ -3074,7 +3074,7 @@
 	  (NP-OB1 (N-D bakinu))
 	  (PP (P við)
 	      (NP (N-D steininum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.183))
 
 ( (IP-MAT (VBPI Neytir)
 	  (NP-SBJ (PRO-N hann))
@@ -3091,7 +3091,7 @@
 	      (N-A ok))
 	  (VBPI hryggbrýtr)
 	  (NP-OB1 (PRO-A hana))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.184))
 
 ( (IP-MAT (ADVP-TMP (ADV Þá))
 	  (VBPI segir)
@@ -3115,7 +3115,7 @@
 						     (NP (ONE-D einum) (N-D manni)))
 					      (VAN drepnar)
 					      (RD verða))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.185))
 
 ( (IP-MAT-SPE (CP-ADV-SPE (IP-SUB-SPE (HVPI Hefir)
 				      (NP-SBJ (PRO-N þú))
@@ -3129,7 +3129,7 @@
 	      (NP-OB1 (N-A hrós))
 	      (HV hafa)
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.186))
 
 ( (IP-MAT (MDPI Vill)
 	  (ADVP-TMP (ADV nú))
@@ -3139,7 +3139,7 @@
 	  (NP-MSR (ADVR lengr))
 	  (NP-OB1 (N-A raus)
 		  (NP-POS (PRO-G hennar)))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.187))
 
 ( (IP-MAT (CONJ en)
 	  (MDDI gat)
@@ -3162,7 +3162,7 @@
 						      (NP-SBJ (PRO-N hann))
 						      (VB hræra)
 						      (NP-ADT (FP nema) (NS-D höndum))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.188))
 
 ( (IP-MAT (VBPI Brýst)
 	  (NP-SBJ (PRO-N hann))
@@ -3173,7 +3173,7 @@
 	      (P til)
 	      (CP-ADV (IP-SUB (NP-SBJ (PRO-N hann))
 			      (VBPI losnar))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.189))
 
 ( (IP-MAT (HVPI Hefir)
 	  (NP-SBJ (PRO-N hún))
@@ -3183,7 +3183,7 @@
 	      (NP (PRO-D honum)))
 	  (NP-OB1 (NS-A klæði)
 		  (NP-POS (PRO-G hans)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.190))
 
 ( (IP-MAT (CONJ Ok)
 	  (ADVP-TMP (ADV nú))
@@ -3203,7 +3203,7 @@
 						    (PP (P í)
 							(NP (N-D tuski)
 							    (NP-POS (PRO-G þeirra)))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.191))
 
 ( (IP-MAT (VBI Grípr)
 	  (NP-SBJ-RSP (PRO-N hann))
@@ -3240,7 +3240,7 @@
 					      (IP-SUB (PP (P úr)
 							  (NP (PRO-D honum)))
 						      (VBDI gaus))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.192))
 
 ( (IP-MAT (CONJ En)
 	  (PP (P eftir)
@@ -3253,7 +3253,7 @@
 		      (IP-SUB (ADVP-TMP (ADV þá))
 			      (VBPI stirðr)
 			      (NP-OB1 (N-A mjök)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.193))
 
 ( (IP-MAT (VBPI Gengr)
 	  (NP-SBJ (PRO-N hann))
@@ -3263,12 +3263,12 @@
 		  (NP-SBJ (N-A selit) (N-A ok)))
 	      (VBPI leggst)
 	      (RP niðr))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.194))
 
 ( (META (NP (LS (NUM-N 7))
 	    (NUM-N .))
 	(NP (N-N Heimkoma)
-	    (NP-POS (NPR-G Hrana)))))
+	    (NP-POS (NPR-G Hrana)))) (ID 1824.HRANA.NAR-SAG,.195))
 
 ( (IP-IMP (PP (P Um)
 	      (NP (N-A morguninn)))
@@ -3311,7 +3311,7 @@
 				  (ADVP-TMP (ADV þegar))
 				  (PP (P fyrir)
 				      (NP (N-A rismál))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.196))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI liggr)
@@ -3319,13 +3319,13 @@
 	  (PP (NP-MSR (Q-N allt))
 	      (P til)
 	      (NP (N-G hádegis)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.197))
 
 ( (IP-MAT (ADVP-TMP (ADV Svo))
 	  (VBPI ríss)
 	  (NP-SBJ (PRO-N hann))
 	  (RP upp)
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.198))
 
 ( (IP-MAT (VBPI Sjá)
 	  (NP-SBJ (PRO-N þær))
@@ -3336,7 +3336,7 @@
 		  (VAN-A rifin)
 		  (PP (P í)
 		      (ADVP (N-A sundr))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.199))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI lætr)
@@ -3359,7 +3359,7 @@
 		  (CONJP (IP-SUB (VBPI finnr)
 				 (ADVP-TMP (ADV nú))
 				 (NP-OB1 (NPR-A Helga)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.200))
 
 ( (IP-MAT (VBPI Fagnar)
 	  (NP-SBJ (N-N bóndi))
@@ -3368,7 +3368,7 @@
 	  (NP-OB1 (N-A ok))
 	  (ADJP-SPR (ADJ-N spyrr)
 		    (NP-POS (NS-G tíðenda)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.201))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBPI segir)
@@ -3382,7 +3382,7 @@
 						  (NP-PRN (NPR-G Nípu)
 							  (N-G ok)
 							  (NP-POS (PRO-G sín)))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.202))
 
 ( (IP-MAT (VBPI Þykkir)
 	  (NP-SBJ (NPR-N Helga))
@@ -3395,7 +3395,7 @@
 	      (NP (Q-D mörgum) (ADJ-D fögrum) (NS-D orðum)))
 	  (NP-OB1 (N-A framgöngu)
 		  (NP-POS (PRO-A sína)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.203))
 
 ( (IP-MAT (VBDI Sýndi)
 	  (NP-SBJ (NPR-N Hrani))
@@ -3423,7 +3423,7 @@
 					      (NP (NS-A hnykla)))
 					  (ADV saman)
 					  (N22 hlaupit))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.204))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (BEPI er)
@@ -3438,7 +3438,7 @@
 			      (RD verða)
 			      (PP (P í)
 				  (NP (NPR-D Króksseli)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.205))
 
 ( (IP-MAT (BEPI Er)
 	  (ADVP (ADV svo))
@@ -3446,7 +3446,7 @@
 	  (ADVP-DIR (ADV heim))
 	  (PP (P ór)
 	      (NP (N-D selinu)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.206))
 
 ( (IP-IMP-SPE (VBPI Berr)
 	      (ADVP-TMP (ADV nú))
@@ -3456,7 +3456,7 @@
 	      (PP (PP (P at)
 		      (NP (NP-POS (PRO-D sinni))))
 		  (NP-MSR (ADVR framar)))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.207))
 
 ( (IP-MAT (CONJ En)
 	  (PP (P um)
@@ -3466,7 +3466,7 @@
 	  (PP (P í)
 	      (NP (NS-A fjallgöngur)))
 	  (CONJP (NP (N-A ok) (N-D fjárleit)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.208))
 
 ( (IP-MAT (BEPI Er)
 	  (ADVP-LOC (ADV þar))
@@ -3474,7 +3474,7 @@
 	  (ADJP (ONE-N einn))
 	  (PP (P með)
 	      (NP (OTHER-D öðrum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.209))
 
 ( (IP-MAT (LS (LS (NUM-N 8))
 	      (NUM-N .))
@@ -3482,13 +3482,13 @@
 		  (NP-PRN (NPR-N Hrani)))
 	  (VBDI unnu)
 	  (PP (P á)
-	      (NP (NS-D tröllum)))))
+	      (NP (NS-D tröllum)))) (ID 1824.HRANA.NAR-SAG,.210))
 
 ( (IP-MAT (NP-SBJ (N-N Maðr))
 	  (BEPI er)
 	  (VAN nefndr)
 	  (NP-PRD (NPR-N Sölvi))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.211))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI bjó)
@@ -3496,7 +3496,7 @@
 	      (NP (NPRS-D Stóruvöllum)
 		  (PP (P í)
 		      (NP (NPR-D Bárðardal)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.212))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI átti)
@@ -3505,7 +3505,7 @@
 		  (CP-REL (C er)
 			  (IP-SUB (NP-PRD (NPR-N Einarr))
 				  (VBDI hét))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.213))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (BEDI var)
@@ -3517,7 +3517,7 @@
 				  (IP-SUB (ADVP-LOC (ADV þar))
 					  (VBDI uxu)
 					  (RP upp)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.214))
 
 ( (IP-MAT (ADVP-TMP (ADV Þá))
 	  (VBDI bjó)
@@ -3526,7 +3526,7 @@
 	      (NP (NPRS-D Hofgörðum)
 		  (PP (P í)
 		      (NP (NPR-D Rangárdal)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.215))
 
 ( (IP-MAT (NP-SBJ (NP-POS (PRO-G Hans))
 		  (N-N sonr))
@@ -3537,7 +3537,7 @@
 		  (NP-PRN (Q-N mikill)
 			  (N-N maðr)
 			  (ADJP (N-N ok) (ADJ-N sterkr))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.216))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI gekk)
@@ -3553,7 +3553,7 @@
 			      (ADVP (ADV vel))
 			      (PP (P með)
 				  (NP (PRO-D þeim))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.217))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI fór)
@@ -3562,7 +3562,7 @@
 	      (NP (N-A fjárleit)))
 	  (PP (P með)
 	      (NP (D-D hinum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.218))
 
 ( (IP-MAT (VBPI Fylgjast)
 	  (NP-SBJ (PRO-N þeir))
@@ -3581,7 +3581,7 @@
 		  (IP-INF (TO at)
 			  (VB ganga)
 			  (NP-DIR (NPR-A Fljótsdal))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.219))
 
 ( (IP-MAT (CP-ADV (C Sem)
 		  (IP-SUB (NP-SBJ (PRO-N þeir))
@@ -3605,7 +3605,7 @@
 				(VBDI sá)
 				(PP (P frá)
 				    (NP (PRO-D sér))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.220))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBPI segir)
@@ -3628,7 +3628,7 @@
 					      (IP-SUB-SPE (NP (NS-D höndum))
 							  (VBPI kemr)))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.221))
 
 ( (IP-MAT (NP-OB1 (N-A Ok))
 	  (ADVP (ADV svo))
@@ -3653,7 +3653,7 @@
 			 (ADVP-TMP (ADV svo))
 			 (PP (ADVP (ADV þar))
 			     (P at))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.222))
 
 ( (IP-MAT (N-N Ok)
 	  (CP-ADV (C er)
@@ -3667,7 +3667,7 @@
 	  (VBPI ferr)
 	  (NP-SBJ (NPR-N Einarr))
 	  (IP-INF (TO at) (VB líta) (RP út))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.223))
 
 ( (IP-MAT (VBPI Sér)
 	  (NP-SBJ (PRO-N hann))
@@ -3696,7 +3696,7 @@
 									 (PP (P at)
 									     (NP (N-D byrgi)
 										 (NP-POS (PRO-G þeirra))))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.224))
 
 ( (IP-MAT (IP-MAT (NP-SBJ (PRO-N Hann))
 		  (VBPI segir)
@@ -3715,7 +3715,7 @@
 			 (NP-SBJ (D-N hinir) (NUM-N tveir))
 			 (PP (P með)
 			     (NP (PRO-D honum)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.225))
 
 ( (IP-MAT (IP-MAT (PP (P Í)
 		      (NP (D-D þessu)))
@@ -3734,7 +3734,7 @@
 			 (VBPI snýr)
 			 (PP (P at)
 			     (NP (NPR-D Einari)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.226))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (BEPI er)
@@ -3750,7 +3750,7 @@
 			  (IP-SUB (NP-SBJ (PRO-N þau))
 				  (VBPI sviptast)
 				  (NP-MSR (ADV lengi)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.227))
 
 ( (IP-MAT (VBPI Finnr)
 	  (NP-SBJ (PRO-N hann))
@@ -3762,7 +3762,7 @@
 				  (NP-MSR (Q-D miklu))
 				  (QR-A meira))
 			  (NP-OB2 (D-D hinni))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.228))
 
 ( (IP-MAT (VBPI Bregðr)
 	  (NP-SBJ (PRO-N hann))
@@ -3782,7 +3782,7 @@
 			      (PP (ADV ofan)
 				  (P á)
 				  (NP (PRO-D henni))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.229))
 
 ( (IP-MAT-SPE (HVPI Hefir)
 	      (NP-SBJ (PRO-N hann))
@@ -3822,7 +3822,7 @@
 										       (ADJP-SPR (ADJ-D föstum))
 										       (PP (P at)
 											   (NP (PRO-D sér)))))))))))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.230))
 
 ( (IP-MAT (IP-SUB (MDPI Getr)
 		  (NP-SBJ (PRO-N hann))
@@ -3848,7 +3848,7 @@
 				  (NP-OB1 (D-D hinum) (Q-D báðum))
 				  (PP (P undir)
 				      (NP (N-A sik))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.231))
 
 ( (IP-MAT (NP-SBJ (NPR-N Grípr) (PRO-N hann))
 	  (ADVP-TMP (ADV nú))
@@ -3891,7 +3891,7 @@
 						     (NP (PRO-D sér)))
 						 (PP (P um)
 						     (NP (N-A stund))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.232))
 
 ( (IP-MAT (CONJ En)
 	  (NP-SBJ (NPR-N Einarr))
@@ -3921,7 +3921,7 @@
 		      (BEDI var)
 		      (NP-SBJ (PRO-N hann))
 		      (ADJP (ADJ-N dauðr)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.233))
 
 ( (IP-MAT (VBPI Ferr)
 	  (ADVP-TMP (ADV nú))
@@ -3939,13 +3939,13 @@
 			  (NP-SBJ (PRO-N hann))
 			  (ADVP-TMP (ADV þá))
 			  (RP við)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.234))
 
 ( (IP-MAT (BEDI Var)
 	  (NP-SBJ (PRO-D honum))
 	  (IP-SMC (NP-SBJ (N-N mjök))
 		  (ADJP (ADJ-N óþægt)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.235))
 
 ( (IP-MAT (VBPI Sækir)
 	  (ADVP-TMP (ADV nú))
@@ -3954,14 +3954,14 @@
 			  (NP-PRN (N-A ok)))
 		  (N-A gefr)
 		  (NP-COM (PRO-D honum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.236))
 
 ( (IP-MAT (ADVP (ADV Svo))
 	  (VBPI batnar)
 	  (NP-SBJ (NPR-D Hrana))
 	  (ADVP (ADV smám) (ADV saman))
 	  (NP-OB1 (N-N víman))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.237))
 
 ( (IP-MAT-SPE (VBPI Birtir)
 	      (ADVP-TMP (ADV nú))
@@ -3970,7 +3970,7 @@
 	      (NP-SBJ (N-N ok))
 	      (VBPI kemr)
 	      (NP-SBJ (ADJ-N gott) (N-N veðr))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.238))
 
 ( (IP-MAT (BEDI Vóru)
 	  (NP-SBJ (PRO-N þeir))
@@ -3985,13 +3985,13 @@
 	  (NP-OB1 (N-A ok) (D-A þær))
 	  (PP (P í)
 	      (NP (OTHER-D öðrum) (N-D stað)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.239))
 
 ( (IP-MAT (VBPI Heita)
 	  (ADVP-LOC (ADV þar))
 	  (ADVP-TMP (ADV síðan))
 	  (NP-SBJ (NPRS-N Skessudysjar))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.240))
 
 ( (IP-MAT (PP (P Eftir)
 	      (NP (D-A þetta)))
@@ -4008,7 +4008,7 @@
 			      (NP-SBJ (PRO-N þeir))
 			      (PP (P at)
 				  (NP (NS-D gljúfrum) (Q-D nokkurum)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.241))
 
 ( (IP-MAT (BEDI Var)
 	  (ADVP-LOC (ADV þar))
@@ -4017,7 +4017,7 @@
 	      (N-N ok)
 	      (ADJP (ADJ-N illt)
 		    (NP-POS (N-G atgöngu))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.242))
 
 ( (IP-MAT (VBPI Sjá)
 	  (NP-SBJ (PRO-N þeir))
@@ -4030,7 +4030,7 @@
 				  (RP á)
 				  (PP (P í)
 				      (NP (ONE-D einum) (N-D stað)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.243))
 
 ( (IP-MAT (VBPI Klifra)
 	  (NP-SBJ (PRO-N þeir))
@@ -4038,7 +4038,7 @@
 	  (IP-INF (NP-OB1 (N-A ok))
 		  (VB vaða)
 		  (ADVP-DIR (ADV þangat)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.244))
 
 ( (IP-MAT (CP-ADV (C Er)
 		  (IP-SUB (NP-SBJ (PRO-N þeir))
@@ -4050,7 +4050,7 @@
 	  (NP-SBJ (ADJ-N dyrr) (NS-N ok) (N-N hurð))
 	  (PP (P í)
 	      (NP (NUM-A hálfa) (N-A gátt)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.245))
 
 ( (IP-MAT (VBPI Ganga)
 	  (NP-SBJ (PRO-N þeir))
@@ -4068,7 +4068,7 @@
 			      (ADVP-TMP (ADV enn) (ADV nú))
 			      (NP-OB1 (N21-A dyrr) (N-A ok) (N-A járnhurð))
 			      (RP fyrir))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.246))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI heyra)
@@ -4082,7 +4082,7 @@
 			      (IP-INF (NP-OB1 (SUCH-A þvílíkt))
 				      (VBN heyrt)
 				      (HV hafa)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.247))
 
 ( (IP-MAT (VBPI Leitast)
 	  (NP-SBJ (PRO-N þeir))
@@ -4108,7 +4108,7 @@
 			     (CP-ADV (IP-SUB (NP-SBJ (PRO-N hún))
 					     (VBDI hrökk)
 					     (RP upp))))
-			 (. .)))))
+			 (. .)))) (ID 1824.HRANA.NAR-SAG,.248))
 
 ( (IP-MAT (BEDI Var)
 	  (ADVP-LOC (ADV þar))
@@ -4124,7 +4124,7 @@
 				  (BEDI var)
 				  (PP (ADVP (ADV austan))
 				      (P til)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.249))
 
 ( (IP-MAT (PP (P Í)
 	      (NP (PRO-D því)))
@@ -4137,7 +4137,7 @@
 		      (ADJP (ADJP (ADV næsta) (ADJ-N stórr))
 			    (N-N ok)
 			    (ADJ-N illúðligr)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.250))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBPI spyrr)
@@ -4187,7 +4187,7 @@
 								    (NP-OB1 (N-A höfuð)
 									    (NP-POS (NPR-G Hrana)))))))))
 	  (. ?)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.251))
 
 ( (IP-MAT (NP (PRO-A Þat))
 	  (VBDI þóttust)
@@ -4199,7 +4199,7 @@
 				      (MDDS mundi)
 				      (ADJP (ADJ-N blindr))
 				      (BE vera))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.252))
 
 ( (IP-MAT (VBPI Hleypr)
 	  (ADVP-TMP (ADV nú))
@@ -4246,14 +4246,14 @@
 					     (, ,)
 					     (CP-REL (C er)
 						     (IP-SUB (RP fyrir) (RDDI varð))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.253))
 
 ( (IP-MAT (VBDI Drapst)
 	  (NP-SBJ (PRO-N hann))
 	  (ADVP-TMP (ADV svo))
 	  (PP (P um)
 	      (NP (NS-A síðir)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.254))
 
 ( (IP-MAT (VBDI Fór)
 	  (ADVP-TMP (ADV þá))
@@ -4284,7 +4284,7 @@
 									      (MDDI gátu)
 									      (VBN komizt)
 									      (RP með))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.255))
 
 ( (IP-MAT (VBDI Gekk)
 	  (NP-SBJ (PRO-D þeim))
@@ -4292,7 +4292,7 @@
 	  (IP-INF (ADVP-DIR (ADV þaðan))
 		  (TO at)
 		  (VB fara))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.256))
 
 ( (IP-MAT (VBDI Lágu)
 	  (NP-SBJ (PRO-N þeir))
@@ -4300,7 +4300,7 @@
 	  (ADVP (ADV nærri))
 	  (PP (P um)
 	      (NP (N-A nóttina) (ADV eftir)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.257))
 
 ( (IP-MAT (CONJ En)
 	  (PP (P um)
@@ -4312,7 +4312,7 @@
 	  (PP (P með)
 	      (NP (N-A bagga)
 		  (NP-POS (PRO-A sína))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.258))
 
 ( (IP-MAT (NP (Q-A Enga) (VAG-A lifandi) (N-A skepnu))
 	  (VBPI sjá)
@@ -4324,7 +4324,7 @@
 		  (VBDI gengu)
 		  (ADVP-TMP (ADV síðan))
 		  (ADVP-DIR (ADV heim)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.259))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI segja)
@@ -4335,7 +4335,7 @@
 	  (PP (P frá)
 	      (NP (NS-D ferðum)
 		  (NP-POS (PRO-D sínum))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.260))
 
 ( (IP-MAT (VBDI Þótti)
 	  (NP-SBJ (Q-D öllum) (NS-D mönnum))
@@ -4345,7 +4345,7 @@
 	  (IP-PPL (VAN-D lofuðu)
 		  (NP-OB1 (N-A hreysti)
 			  (NP-POS (NPR-G Hrana))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.261))
 
 ( (IP-MAT (NP-OB1 (Q-A Mikit) (N-A fé))
 	  (VBDI vantaði)
@@ -4370,7 +4370,7 @@
 					      (NEG eigi)
 					      (ADJP (ADJ-N varir))
 					      (RP við))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.262))
 
 ( (IP-MAT (VBPI Líðr)
 	  (ADVP-TMP (ADV nú))
@@ -4382,11 +4382,11 @@
 			  (ADJP (ADJ-N berr))
 			  (PP (P til)
 			      (NP (NS-G tíðenda)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.263))
 
 ( (META (NP (NUM-N 9) (NUM-N .))
 	(NP (N-N Draumr)
-	    (NP-POS (NPR-N Hrana)))))
+	    (NP-POS (NPR-N Hrana)))) (ID 1824.HRANA.NAR-SAG,.264))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú)
 		    (CP-REL (C sem)
@@ -4413,7 +4413,7 @@
 					      (NP-PRN-ELAB (NP-PRN (NS-G höfðingja))
 							   (CONJP (NP (NP-MSR (N-A ok))
 								      (N-A siðferði))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.265))
 
 ( (IP-MAT (NP-SBJ (ES Þat))
 	  (BEDI var)
@@ -4444,12 +4444,12 @@
 					      (NP (N-D túni)))
 					  (PP (P á)
 					      (NP (NPRS-D Helgastöðum)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.266))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBPI lítr)
 	  (NP-OB1 (N-A mann) (ADJ-A gamlan))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.267))
 
 ( (IP-MAT (CONJ en)
 	  (PP (P þó)
@@ -4465,7 +4465,7 @@
 			  (VB spyrja)
 			  (PP (P at)
 			      (NP (N-D nafni)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.268))
 
 ( (IP-MAT (NP-SBJ (N-N Komumaðr))
 	  (VBPI tekr)
@@ -4476,7 +4476,7 @@
 	  (VBPI kveðst)
 	  (IP-INF (NP-PRD (NPR-N Þórir))
 		  (VB heita))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.269))
 
 ( (IP-MAT-SPE (" ")
 	      (ADJP (ADJ-N Óspurt))
@@ -4496,7 +4496,7 @@
 				  (BEPI ert)
 				  (NP-PRD (N-N dóttursonr)
 					  (NP-POS (PRO-N minn)))))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.270))
 
 ( (CP-QUE (VBI Stendr)
 	  (NP-SBJ (PRO-N þú))
@@ -4526,7 +4526,7 @@
 						     (NP-MSR (ADVR framar)
 							     (PP (P en)
 								 (CP-CMP (IP-SUB (VBN komit) (BEPI er)))))))))))
-	  (. ?)))
+	  (. ?)) (ID 1824.HRANA.NAR-SAG,.271))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV Nú))
 	      (BEPI er)
@@ -4559,7 +4559,7 @@
 																 (NP (N-G frægðar)))
 															     (VB vinna))))))))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.272))
 
 ( (IP-MAT (NP (CONJ Ok))
 	  (RDDI urðu)
@@ -4568,50 +4568,50 @@
 	  (NP (NS-N ljóð))
 	  (PP (P af)
 	      (NP (N-D munni)))
-	  (. :)))
+	  (. :)) (ID 1824.HRANA.NAR-SAG,.273))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N Þér))
 	      (RDPI verðr)
 	      (ADVP-LOC (ADV frami))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.274))
 
-( (IP-MAT (VBDI Farðu) (. ,)))
+( (IP-MAT (VBDI Farðu) (. ,)) (ID 1824.HRANA.NAR-SAG,.275))
 
 ( (IP-MAT (VBPI fljótr)
 	  (PP (P at)
 	      (NP (NP-POS (N-G hildar))
 		  (NS-D mótum)))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.276))
 
 ( (FRAG (NP (NS-N Fjörgynjar))
 	(PP (P frá)
-	    (NP (N-D ofbergi)))))
+	    (NP (N-D ofbergi)))) (ID 1824.HRANA.NAR-SAG,.277))
 
 ( (IP-MAT (VBPI flotnum)
 	  (PP (P á)
 	      (NP (NS-A byrgota)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.278))
 
-( (QTP (NP (FW Herteits) (ADJ-N harða) (N-N snæra))))
+( (QTP (NP (FW Herteits) (ADJ-N harða) (N-N snæra))) (ID 1824.HRANA.NAR-SAG,.279))
 
 ( (QTP (NP (CONJ ok)
 	   (N-N hryðja)
 	   (NP-POS (NP-POS (PRO-G þíns))
-		   (N-G tugviðar)))))
+		   (N-G tugviðar)))) (ID 1824.HRANA.NAR-SAG,.280))
 
 ( (IP-MAT (VBPI fellir)
 	  (NP-OB1 (NP-POS (NS-G sæmána))
-		  (N-A fjallit))))
+		  (N-A fjallit))) (ID 1824.HRANA.NAR-SAG,.281))
 
 ( (IP-MAT (NP-SBJ (NS-G fólka))
 	  (RP á)
 	  (VBDI þóftu)
 	  (NP (NS-D kjálkum))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.282))
 
 ( (IP-MAT (NP-OB1 (FW Illvættum))
 	  (HVPI hefir)
-	  (VBN hallat)))
+	  (VBN hallat)) (ID 1824.HRANA.NAR-SAG,.283))
 
 ( (QTP (NP (N-N hreysti)
 	   (NP-POS (PRO-N þín)))
@@ -4619,39 +4619,39 @@
        (NP-VOC (NS-N börr)
 	       (NP-POS (N-G ljóss)
 		       (NP-POS (NPR-G Rínar))))
-       (. .)))
+       (. .)) (ID 1824.HRANA.NAR-SAG,.284))
 
 ( (CODE (NP (NP-POS (NPR-G Galta) (N-G hels))
 	    (N-A gin))
 	(PP (P í)
-	    (NP (NS-A veltir)))))
+	    (NP (NS-A veltir)))) (ID 1824.HRANA.NAR-SAG,.285))
 
 ( (IP-MAT (CONJ ok)
 	  (VBDI glópum)
 	  (NP-OB1 (PRO-D þeim))
 	  (PP (P með)
 	      (NP (N-D hljópu)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.286))
 
 ( (IP-MAT-SPE (NP-OB1 (N-N Ágang))
 	      (MDPI mun)
 	      (ADVP (ADVR eins))
-	      (NP-SBJ (NS-D víkingum))))
+	      (NP-SBJ (NS-D víkingum))) (ID 1824.HRANA.NAR-SAG,.287))
 
 ( (IP-MAT (VBPI orka)
 	  (NP-OB2 (NPR-D Hrani))
-	  (NP-OB1 (N-A bana))))
+	  (NP-OB1 (N-A bana))) (ID 1824.HRANA.NAR-SAG,.288))
 
 ( (IP-MAT (VBPI bandgoðs)
 	  (PP (P í)
-	      (NP (ADJ-D bráðum) (N-D vindi)))))
+	      (NP (ADJ-D bráðum) (N-D vindi)))) (ID 1824.HRANA.NAR-SAG,.289))
 
 ( (IP-MAT (NP-SBJ (CONJ ok))
 	  (VBPI blik)
 	  (NP-SBJ (NP-POS (N-G sjóðs))
 		  (N-N fága)
 		  (Q-N mikit))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.290))
 
 ( (IP-MAT (IP-MAT (PP (P At)
 		      (IP-SMC (ADVP (ADV svo))
@@ -4665,7 +4665,7 @@
 				 (CP-THT (IP-SUB (NP-MSR (N-N ok))
 						 (MDDS mundi)
 						 (NP-SBJ (NS-N vísurnar)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.291))
 
 ( (IP-MAT (VBPI Segir)
 	  (NP-SBJ (PRO-N hann))
@@ -4673,7 +4673,7 @@
 	  (NP-OB2 (NPR-A Helga))
 	  (PP (P frá)
 	      (NP (N-D draumnum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.292))
 
 ( (IP-MAT (NP-SBJ (NPR-N Helgi))
 	  (VBDI mælti)
@@ -4706,7 +4706,7 @@
 										 (PP (P um)
 										     (NP (D-A þessi) (NS-A efni)))))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.293))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBDI kvaðst)
@@ -4723,7 +4723,7 @@
 				  (PP (P í)
 				      (NP (N-A þat)
 					  (NP-POS (PRO-A sinn)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.294))
 
 ( (IP-MAT (LS (NUM-N 10))
 	  (NUM .)
@@ -4731,7 +4731,7 @@
 		  (NP-PRN (N-N ok) (NPR-N Einarr)))
 	  (VBDI bjuggust)
 	  (PP (P til)
-	      (NP (N-G utanfarar)))))
+	      (NP (N-G utanfarar)))) (ID 1824.HRANA.NAR-SAG,.295))
 
 ( (IP-MAT (CONJ En)
 	  (IP-MAT (PP (NP-MSR (ADJ-D stuttu))
@@ -4781,7 +4781,7 @@
 	  (" ")
 	  (IP-MAT-PRN (VBPI segir)
 		      (NP-SBJ (PRO-N hann)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.296))
 
 ( (IP-MAT (NP-SBJ (NPR-N Egill))
 	  (VBPI svarar)
@@ -4839,7 +4839,7 @@
 								      (NP (PRO-D þér)))))
 							  (VB liggja)
 							  (NP-SBJ (Q-A nokkura) (N-A gæfu)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.297))
 
 ( (IP-MAT-SPE (VBPI Þykkir)
 	      (NP-SBJ (PRO-D mér))
@@ -4856,7 +4856,7 @@
 					  (NP (N-G utanferðar)))
 				      (PP (P með)
 					  (NP (PRO-D þér)))))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.298))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N Þit))
 	      (BEPI eruð)
@@ -4869,7 +4869,7 @@
 			  (CP-ADV-SPE (IP-SUB-SPE (NP-SBJ (Q-D nokkuru))
 						  (BEPS sé)
 						  (IP-INF-SPE (RP at) (MD mæta))))))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.299))
 
 ( (IP-MAT (NP-SBJ (ES Þat))
 	  (BEPI er)
@@ -4915,7 +4915,7 @@
 					      (ADVP (ADV vel))
 					      (RP niðr)
 					      (VBN komit))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.300))
 
 ( (IP-MAT-SPE (CONJ En)
 	      (NP-SBJ (N-N ætlan)
@@ -4939,7 +4939,7 @@
 							     (NP (NPR-G Íslands)))
 							 (VB koma)
 							 (ADVP-TMP (ADV síðan))))))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.301))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV Nú))
 	      (MDDS vilda)
@@ -4964,7 +4964,7 @@
 								      (PP (P þótt)
 									  (CP-ADV-SPE (IP-SUB-SPE (NEG eigi) (RP aftr) (VBDS kæmir)))))))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.302))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBDI gladdist)
@@ -4976,7 +4976,7 @@
 	  (NP-OB2 (N-D föður)
 		  (NP-POS (PRO-D sínum)))
 	  (ADVP (ADV blíðliga))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.303))
 
 ( (IP-MAT (VBPI Skilja)
 	  (NP-SBJ (PRO-N þeir))
@@ -4984,7 +4984,7 @@
 	  (PP (P at)
 	      (IP-SMC (ADVP (ADV svo))
 		      (VAN-D mæltu)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.304))
 
 ( (IP-MAT (VBPI Ferr)
 	  (ADVP-TMP (ADV nú))
@@ -5002,7 +5002,7 @@
 				      (NP-PRN (NS-A tillögur)
 					      (NP-POS (N-G föður)
 						      (NP-POS (PRO-G síns)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.305))
 
 ( (IP-MAT (NP-SBJ (NPR-D Einari))
 	  (VBDI leizt)
@@ -5015,7 +5015,7 @@
 			      (PP (P með)
 				  (NP (PRO-D honum)))
 			      (VB fara)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.306))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI kemr)
@@ -5059,7 +5059,7 @@
 									  (CONJP (CONJ né)
 										 (IP-SUB (ADVP (ADVR heldr))
 											 (NP-SBJ (NPR-N Einarr))))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.307))
 
 ( (IP-MAT-SPE (" ")
 	      (ADVP-TMP (ADV Þá))
@@ -5085,7 +5085,7 @@
 	      (CP-ADV-SPE (C sem)
 			  (IP-SUB-SPE (NP-SBJ (PRO-N ykkr)
 					      (NP-PRN (NS-D feðgum)))))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.308))
 
 ( (IP-IMP-SPE (RDPI Verðr)
 	      (NP-SBJ (PRO-D mér))
@@ -5117,7 +5117,7 @@
 														(VBDI hreysti)
 														(NP-OB1 (N-A ok))
 														(NP-ADT (NS-D listum))))))))))))
-	      (. ,)))
+	      (. ,)) (ID 1824.HRANA.NAR-SAG,.309))
 
 ( (IP-MAT-SPE (CONJ en)
 	      (ADVP (ADV þó))
@@ -5146,7 +5146,7 @@
 							      (CP-ADV-SPE (C sem)
 									  (IP-SUB-SPE (NP-OB1 (QR-D fleirum) (OTHER-D öðrum)))))))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.310))
 
 ( (IP-MAT-SPE (" ")
 	      (ADVP (ADV Vel))
@@ -5162,7 +5162,7 @@
 	      (IP-PPL-SPE (NP (N-A ok) (ADJ-D slitu))
 			  (ADVP (ADV svo))
 			  (VAN talit))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.311))
 
 ( (META (NP (NP (NUM-N 11))
 	    (NUM-N .))
@@ -5172,7 +5172,7 @@
 	(NP-OB2 (PRO-D sér))
 	(NP-OB1 (N-A far))
 	(PP (P með)
-	    (NP (NPR-D Kaupa-Rauði)))))
+	    (NP (NPR-D Kaupa-Rauði)))) (ID 1824.HRANA.NAR-SAG,.312))
 
 ( (IP-MAT (NP-PRD (ADJ-N Rauðr))
 	  (BEPI er)
@@ -5180,7 +5180,7 @@
 	  (VAN nefndr)
 	  (, ,)
 	  (CONJP (IP-MAT (ADJP (ADJ-N suðreyskr))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.313))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (BEDI var)
@@ -5191,14 +5191,14 @@
 			      (HVDI hafði)
 			      (NP-OB1 (NP-POS (Q-G ýmissa) (NS-G landa))
 				      (N-A vöru)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.314))
 
 ( (IP-MAT (BEDI Var)
 	  (NP-SBJ (PRO-N hann))
 	  (PP (NP (PRO-D því)))
 	  (VAN auknefndr)
 	  (IP-SMC (NP-PRD (NPR-N Kaupa-Rauðr)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.315))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI kom)
@@ -5206,7 +5206,7 @@
 	  (PP (P á)
 	      (NP (NPR-A Skjálfandafjörð)))
 	  (ADVP-TMP (ADV snemma))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.316))
 
 ( (IP-MAT (NP-SBJ (NUM-N Tvö) (NS-N skip))
 	  (VBDI kómu)
@@ -5215,7 +5215,7 @@
 	      (ADVP (ADVR eins)))
 	  (PP (P á)
 	      (NP (NPR-A Eyjafjörð)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.317))
 
 ( (IP-MAT (CONJ En)
 	  (CP-ADV (C sem)
@@ -5232,7 +5232,7 @@
 	  (IP-INF-PRP (TO at)
 		      (VB finna)
 		      (NP-OB1 (NS-A kaupmenn)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.318))
 
 ( (IP-MAT (RDDI Urðu)
 	  (ADVP-TMP (ADV nú))
@@ -5264,7 +5264,7 @@
 				      (NP-OB1 (N-A ok)
 					      (NP-POS (N-G vöru)
 						      (NP-POS (PRO-G hans))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.319))
 
 ( (IP-MAT (VBDI Kómu)
 	  (NP-SBJ (PRO-N þeir)
@@ -5309,7 +5309,7 @@
 										  (NP (N-A ok)))
 									      (NEG eigi)
 									      (ADJP (ADVR svo) (ADJ-N þæglyndir)))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.320))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (DODI gerði)
@@ -5345,7 +5345,7 @@
 					      (VBN skort)
 					      (PP (P á)
 						  (NP (N-D skotsilfri)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.321))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þeir)
 		  (NP-PRN (NPR-N Egill) (CONJ ok) (NPR-N Helgi)))
@@ -5366,14 +5366,14 @@
 		  (ADJ-D góðum)
 		  (NP-POS (N-G hjartans))
 		  (NS-D óskum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.322))
 
 ( (META (NP (NUM-N 12) (NUM-N .))
 	(NP-SBJ (PRO-N Þeir)
 		(NP-PRN (NPR-N Rauðr)))
 	(VBDI kómu)
 	(PP (P til)
-	    (NP (NPR-G Suðreyja)))))
+	    (NP (NPR-G Suðreyja)))) (ID 1824.HRANA.NAR-SAG,.323))
 
 ( (IP-MAT (ADVP-TMP (NP-MSR (ADJ-D Skömmu))
 		    (P eftir)
@@ -5399,7 +5399,7 @@
 			      (NP-SBJ (PRO-N þeir))
 			      (PP (P í)
 				  (NP (N-A haf)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.324))
 
 ( (IP-MAT (CONJ En)
 	  (NP-SBJ (PRO-A þat))
@@ -5413,7 +5413,7 @@
 				      (NP-POS (PRO-G þeirra)))
 			      (VBDI tók)
 			      (IP-INF (TO at) (VB minnka)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.325))
 
 ( (IP-MAT (VBDI Áttu)
 	  (NP-SBJ (PRO-N þeir))
@@ -5424,7 +5424,7 @@
 		(CP-REL (IP-SUB (NP-SBJ (N-N útivist))
 				(RDDI varð)
 				(NP-SBJ (ADJ-N löng) (N-N ok) (ADJ-N þver)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.326))
 
 ( (IP-MAT (VBDI Gengu)
 	  (ADVP-TMP (ADV nú))
@@ -5433,7 +5433,7 @@
 	  (RP fram)
 	  (PP (P í)
 	      (NP (D-D því) (N-D verki)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.327))
 
 ( (IP-MAT (CONJ En)
 	  (CP-ADV (C sem)
@@ -5464,7 +5464,7 @@
 		      (NP (D-D þeim) (N-D öfund)))
 		  (PP (P við)
 		      (NP (NS-A fóstbræðr))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.328))
 
 ( (IP-MAT (CONJ En)
 	  (CONJ bæði)
@@ -5496,7 +5496,7 @@
 									     (NP (NP (NS-D vopnaskiptum))
 										 (CONJP (CONJ eða)
 											(NP (OTHER-D öðrum) (NS-D atvikum) (ADJ-D stórfelldum)))))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.329))
 
 ( (IP-MAT (CONJ En)
 	  (NP-TMP (ONE-A eitt) (N-A sinn))
@@ -5567,7 +5567,7 @@
 																			    (PP (P í)
 																				(NP (N-A samför)
 																				    (NP-POS (PRO-A vora))))))))))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.330))
 
 ( (IP-MAT-SPE (NP-ADV (OTHER-G Annars))
 	      (VBPI held)
@@ -5580,7 +5580,7 @@
 				      (PP (P til)
 					  (NP (NS-G mótparta)))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.331))
 
 ( (IP-MAT (PP (P Eftir)
 	      (NP (D-A þetta)))
@@ -5591,7 +5591,7 @@
 	      (NP (NS-D hnýfilyrðum)
 		  (NP-POS (NP-POS (NPR-G Rauðs))
 			  (NS-G manna))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.332))
 
 ( (IP-MAT (CONJ En)
 	  (PP (P um)
@@ -5602,7 +5602,7 @@
 	  (VBDI náðu)
 	  (NP-SBJ (PRO-N þeir))
 	  (NP-OB1 (NPR-A Suðreyjum))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.333))
 
 ( (IP-MAT (BEDI Var)
 	  (NP-SBJ (N-D kaupmanni))
@@ -5623,14 +5623,14 @@
 			      (BEDS væri)
 			      (NP-PRD (N-N mál)
 				      (CP-EOP (IP-INF (TO at) (VB skilja))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.334))
 
 ( (META (NP (NUM-N 13) (NUM-N .))
 	(PP (PP (P Frá)
 		(NP (NPR-D Signýju))
 		(CONJP (CONJ ok) (NPR-D Ölrúnu))
 		(N-A ok))
-	    (NP-PRN (D-D þeim) (NS-D fóstbræðrum)))))
+	    (NP-PRN (D-D þeim) (NS-D fóstbræðrum)))) (ID 1824.HRANA.NAR-SAG,.335))
 
 ( (IP-MAT (NP-SBJ (ES Þat))
 	  (BEPI er)
@@ -5656,7 +5656,7 @@
 				  (NP-PRN (N-A hánefr))
 				  (PP (P at)
 				      (NP (N-D viðrnafni))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.336))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI átti)
@@ -5666,14 +5666,14 @@
 		  (CP-REL (C er)
 			  (IP-SUB (NP-PRD (NPR-N Geirþrúðr))
 				  (VBDI hét))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.337))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þau))
 	  (VBDI tóku)
 	  (ADVP (ADV vel))
 	  (PP (P við)
 	      (NP (NS-D gestum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.338))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þeir))
 	  (VBDI sýndu)
@@ -5681,7 +5681,7 @@
 			  (IP-SMC (NP-PRD (ADJ-A óáleitna) (N-A ok))))
 		  (ADJP (ADJ-A þæga)
 			(NP (Q-D hverjum) (N-D manni))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.339))
 
 ( (IP-MAT (NP-SBJ (NS-N Hjónin))
 	  (VBDI áttu)
@@ -5691,7 +5691,7 @@
 		  (CP-REL (C er)
 			  (IP-SUB (NP-PRD (NPR-N Signý))
 				  (VBDI hét))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.340))
 
 ( (IP-MAT (IP-MAT (BEDI Var)
 		  (NP-SBJ (PRO-N hún))
@@ -5714,7 +5714,7 @@
 			      (ADVP-LOC (ADV þar))
 			      (PP (P í)
 				  (NP (N-D grennd))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.341))
 
 ( (IP-MAT (BEDI Var)
 	  (NP-SBJ (PRO-N hún))
@@ -5723,7 +5723,7 @@
 	  (IP-SMC (ADJP (ADJ-N ljósbrá)))
 	  (PP (P at)
 	      (NP (N-D tilnafni)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.342))
 
 ( (IP-MAT (ADVP-TMP (ADV Brátt))
 	  (VBDI fannst)
@@ -5743,14 +5743,14 @@
 						      (NP-OB1 (PRO-D því))
 						      (PP (P með)
 							  (NP (N-D kurteisi) (N22 ok) (N22 blíðu)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.343))
 
 ( (IP-MAT (PP (P Í)
 	      (NP (NS-D húsum)
 		  (NP-POS (NPR-G Högna) (NPR-G hánefs))))
 	  (BEDI vóru)
 	  (NP-SBJ (N-N ok) (NUM-N tvær) (NS-N mæðgur))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.344))
 
 ( (IP-MAT (VBDI Hét)
 	  (NP-SBJ (D-N sú) (ADJR-N eldri))
@@ -5762,7 +5762,7 @@
 		  (IP-SUB (ADVP-TMP (ADV þá))
 			  (BEDI var)
 			  (ADJP (ADJ-N nýfulltíða))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.345))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hún))
 	  (BEDI var)
@@ -5803,7 +5803,7 @@
 											    (ADJP (ADJ-N enskar))
 											    (PP (P at)
 												(NP (N-D ætt)))))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.346))
 
 ( (IP-MAT (NP-PRD (NPR-N Gautr))
 	  (VBDI hét)
@@ -5815,7 +5815,7 @@
 		  (, ,)
 		  (RRC (VAN kallaðr)
 		       (IP-SMC (NP-PRD (D-N inn) (ADJ-N stórhenti)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.347))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (BEDI var)
@@ -5832,7 +5832,7 @@
 					  (BEDI vóru)
 					  (ADJP (ADJ-N fulltíða))
 					  (QS-N flestir)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.348))
 
 ( (IP-MAT (NP-SBJ (ES Þat))
 	  (VBDI bar)
@@ -5866,7 +5866,7 @@
 			      (NP (ONE-D einum) (N-D stað)))
 			  (PP (P við)
 			      (NP (NPR-A England)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.349))
 
 ( (IP-MAT (CONJ En)
 	  (CP-ADV (C sem)
@@ -5897,7 +5897,7 @@
 	  (NP-PRD (N-N ok)
 		  (Q-N fátt)
 		  (NP-POS (OTHERS-G annarra) (NS-G karlmanna)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.350))
 
 ( (IP-MAT (NP-SBJ (NS-N Feðgar))
 	  (HVDI höfðu)
@@ -5910,7 +5910,7 @@
 	      (NP (N-D landit)))
 	  (PP (P í)
 	      (NP (Q-D einhverjum) (N-D stað)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.351))
 
 ( (IP-MAT (IP-MAT (NP-SBJ (NS-N Mæðgur))
 		  (BEDI vóru)
@@ -5930,7 +5930,7 @@
 						   (PP (P til)
 						       (NP (NP-POS (NPR-G Gríms))
 							   (NS-G ferða))))))))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.352))
 
 ( (IP-MAT (CONJ en)
 	  (NP-OB1 (PRO-N hann)
@@ -5973,7 +5973,7 @@
 						 (NP (N-D grennd)))
 					     (HVDI höfðu)
 					     (VBN tekit))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.353))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI siglir)
@@ -6002,7 +6002,7 @@
 	  (NP-SBJ (NS-N hermenn))
 	  (PP (P á)
 	      (NP (NUM-D þrem) (NS-D skipum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.354))
 
 ( (IP-MAT (HVDI Höfðu)
 	  (NEG eigi)
@@ -6024,7 +6024,7 @@
 			      (, ,)
 			      (CP-REL (C er)
 				      (IP-SUB (RP fyrir) (BEDI var))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.355))
 
 ( (IP-MAT (VBDI Sló)
 	  (ADVP-TMP (ADV nú))
@@ -6033,7 +6033,7 @@
 	  (PP (P með)
 	      (NP (PRO-D þeim)
 		  (NP-PRN (NPR-D Grími))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.356))
 
 ( (IP-MAT (VBDI Féll)
 	  (NP-SBJ (PRO-N hann))
@@ -6042,7 +6042,7 @@
 			  (NP-POS (PRO-G hans))))
 	  (PP (P í)
 	      (NP (D-D þeirri) (N-D orrustu)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.357))
 
 ( (IP-MAT (BEDI Var)
 	  (ADVP-TMP (ADV þá))
@@ -6060,7 +6060,7 @@
 					      (PP (P á)
 						  (NP (PRO-A hann)))
 					      (VB bíta)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.358))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þeir)
 		  (NP-PRN (NPR-N Eysteinn)))
@@ -6093,7 +6093,7 @@
 				  (NP (NPRS-D Suðreyjum)))
 			      (PP (P með)
 				  (NP (Q-D nokkurum) (N-D fjárhlut))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.359))
 
 ( (IP-MAT (ADVP-TMP (ADV Þá))
 	  (VBDI staðnæmdust)
@@ -6102,7 +6102,7 @@
 	  (PP (P hjá)
 	      (NP (PRO-D þeim)
 		  (NP-PRN (NPR-D Högna) (N-A ok) (NPR-D Geirþrúði))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.360))
 
 ( (IP-MAT (IP-MAT (NP-SBJ (NPR-N Einarr))
 		  (VBDI lagði)
@@ -6120,7 +6120,7 @@
 			      (PP (P en)
 				  (CP-CMP (IP-SUB (PP (P hjá)
 						      (NP (PRO-D þeim) (NS-D stallsystrum))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.361))
 
 ( (IP-MAT (IP-MAT (BEDI Var)
 		  (ADVP-LOC (ADV þar))
@@ -6135,21 +6135,21 @@
 		      (ADVP (ADV svo))
 		      (PP (P at)
 			  (NP (N-D sumarkomu))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.362))
 
 ( (META (NP (NUM-N 14) (NUM-N .))
 	(PP (P Af)
 	    (NP (N-D framgöngu)
 		(NPR-G Hrana)
 		(NP-PRN (N-A ok)
-			(NP-POS (NPR-G Einars)))))))
+			(NP-POS (NPR-G Einars)))))) (ID 1824.HRANA.NAR-SAG,.363))
 
 ( (IP-MAT (NP-SBJ (NS-N Bræðr) (NUM-N tveir))
 	  (BEPI eru)
 	  (VAN nefndir)
 	  (PP (P til)
 	      (NP (N-G sögunnar)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.364))
 
 ( (IP-MAT (IP-MAT (VBDI Hét)
 		  (NP-SBJ (OTHER-N annarr))
@@ -6167,7 +6167,7 @@
 	  (HVDI höfðu)
 	  (NP-TMP (NS-D stundum))
 	  (NP-OB1 (N-A berserksgang))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.365))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þeir))
 	  (VBDI herjuðu)
@@ -6185,7 +6185,7 @@
 			      (BEDI var)
 			      (PP (P í)
 				  (NP (N-D námi))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.366))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þeir))
 	  (VBDI stýrðu)
@@ -6201,7 +6201,7 @@
 						  (NP-TMP (ADJS-A fyrsta)
 							  (N-A dag)
 							  (NP-POS (N-G sumars))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.367))
 
 ( (IP-MAT (ADVP-TMP (ADV Þá))
 	  (BEDI var)
@@ -6228,7 +6228,7 @@
 			  (, ,)
 			  (PP (P ásamt)
 			      (NP (Q-D allmörgum) (ADV þar) (ADJ-D innlendum)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.368))
 
 ( (IP-MAT (NP-SBJ (NS-N Eyjamenn))
 	  (VBDI sáu)
@@ -6252,7 +6252,7 @@
 				      (NP-SBJ (NS-N gestir) (D-N þessir))
 				      (N-A mjök)
 				      (ADVP (ADV óþýðliga)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.369))
 
 ( (IP-MAT (BEDI Var)
 	  (ADVP-TMP (ADV nú))
@@ -6277,7 +6277,7 @@
 					  (NP-PRN (NPR-N Arnhöfði)
 						  (NP-PRN (N-N ok)
 							  (NP-POS (NPRS-N Hildir)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.370))
 
 ( (IP-MAT (PP (P Við)
 	      (NP (PRO-A þetta)))
@@ -6290,7 +6290,7 @@
 	      (NP (NPR-N Hrani)
 		  (NP-PRN (N-N ok))
 		  (NP-POS (NPR-G Einarr))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.371))
 
 ( (IP-MAT (VBPI Tekr)
 	  (ADVP-TMP (ADV nú))
@@ -6309,7 +6309,7 @@
 				  (NP-VOC (NPR-N Einarr)
 					  (NP-POS (PRO-N minn)))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.372))
 
 ( (IP-MAT (NP-SBJ (NPR-N Einarr))
 	  (VBPI svarar)
@@ -6330,7 +6330,7 @@
 		      (IP-INF-SPE (ADVP (ADV eftir))
 				  (TO at)
 				  (VB sitja)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.373))
 
 ( (IP-MAT-SPE (MDDI Vildi)
 	      (NP-SBJ (PRO-N ek))
@@ -6350,7 +6350,7 @@
 				      (PP (P ef)
 					  (CP-ADV-SPE (IP-SUB-SPE (RP á) (VBPI liggr))))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.374))
 
 ( (IP-MAT (VBDI Gengu)
 	  (NP-SBJ (NS-N menn))
@@ -6368,7 +6368,7 @@
 		      (RP á)
 		      (CP-CMP (C sem)
 			      (IP-SUB (RP til) (BEDI var) (VAN getit))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.375))
 
 ( (IP-MAT (BEDI Var)
 	  (PP (NP (PRO-D því)))
@@ -6380,7 +6380,7 @@
 			  (NP-PRN (NPR-D Hrana) (CONJ ok) (NPR-D Einari)))))
 	  (PP (P úr)
 	      (NP (ADJS-D næstu) (NS-D stöðum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.376))
 
 ( (IP-MAT (NP-SBJ (NS-A Víkingana))
 	  (VBDI bar)
@@ -6396,7 +6396,7 @@
 				    (BEDI var)
 				    (NP-PRD (N-N ok))
 				    (NP-PRN (D-N hinir) (Q-N allir)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.377))
 
 ( (IP-MAT (HVDI Höfðu)
 	  (NP-SBJ (PRO-N þeir))
@@ -6407,7 +6407,7 @@
 	      (NP (NP-POS (NS-G manna))
 		  (N-A ádráttinn)))
 	  (, ,)
-	  (ADVP-TMP (ADVR fyrr))))
+	  (ADVP-TMP (ADVR fyrr))) (ID 1824.HRANA.NAR-SAG,.378))
 
 ( (IP-MAT (CONJ en)
 	  (NP-SBJ (PRO-N þeir))
@@ -6420,7 +6420,7 @@
 			  (IP-SUB (NP-SBJ (N-N fólkit))
 				  (VBDI stóð)
 				  (PP (P undir))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.379))
 
 ( (IP-MAT (BEDI Var)
 	  (ADVP-LOC (ADV þar))
@@ -6431,7 +6431,7 @@
 			     (NUM-N tveir)
 			     (NPRS-N Bárðdælingar)
 			     (NP-PRN (N-N ok) (NUM-N átján) (NS-N menn) (OTHERS-N aðrir)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.380))
 
 ( (IP-MAT (BEDI Vóru)
 	  (ADVP-TMP (ADV þá))
@@ -6439,7 +6439,7 @@
 	  (ADJP (ADJS-N vígligastir))
 	  (PP (P af)
 	      (NP (Q-D öllum) (PRO-D þeim)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.381))
 
 ( (IP-MAT (PP (P Með)
 	      (NP (NPR-D Rauði)))
@@ -6461,14 +6461,14 @@
 			      (NEG ekki)
 			      (PP (P í)
 				  (NP (D-D þeirri) (N-D list))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.382))
 
 ( (IP-MAT (BEDI Var)
 	  (NP-SBJ (PRO-N hann))
 	  (PP (NP (PRO-D því)))
 	  (NP-PRD (NPR-N Dal-Þórðr))
 	  (VAN kallaðr)
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.383))
 
 ( (IP-MAT (NP-SBJ (Q-N Nokkurir))
 	  (BEDI vóru)
@@ -6480,7 +6480,7 @@
 				  (NP (PRO-D honum)))
 			      (HVDI höfðu)
 			      (VBN lært))))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.384))
 
 ( (IP-MAT (CONJ en)
 	  (VBDI kunnu)
@@ -6490,7 +6490,7 @@
 	      (ADJP (ADJ-G jafns)
 		    (PP (P við)
 			(NP (PRO-A hann)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.385))
 
 ( (IP-MAT (CONJ En)
 	  (CP-ADV (C sem)
@@ -6522,7 +6522,7 @@
 							 (NP (N-D hnappi)))
 						     (, ,)
 						     (NP-VOC (NS-N eyjamenn))))))
-	  (. ?)))
+	  (. ?)) (ID 1824.HRANA.NAR-SAG,.386))
 
 ( (IP-MAT (NP-SBJ (PRO-N Vit)
 		  (NP-PRN (NS-N bræðr)
@@ -6539,7 +6539,7 @@
 		      (ADVP-DIR (ADV heim)))
 	  (, ,)
 	  (NP-VOC (NPR-N Kaupa-Rauðr))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.387))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N Þú))
 	      (BEPI ert)
@@ -6552,7 +6552,7 @@
 				 (PP (P við)
 				     (NP (NS-D gestum)))))
 	      (. ,)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.388))
 
 ( (IP-MAT-SPE (" ")
 	      (ADVP (ADVR Svo))
@@ -6569,7 +6569,7 @@
 	      (" ")
 	      (IP-MAT-PRN (VBDI sagði)
 			  (NP-SBJ (NPR-N Rauðr)))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.389))
 
 ( (IP-MAT-SPE (" ")
 	      (ADVP-TMP (ADV Nú))
@@ -6584,7 +6584,7 @@
 	      (" ")
 	      (IP-MAT-PRN (VBDI sagði)
 			  (NP-SBJ (NPR-N Hildir)))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.390))
 
 ( (IP-MAT-SPE (" ")
 	      (ADVP (ADV Líkt))
@@ -6599,7 +6599,7 @@
 	      (" ")
 	      (IP-MAT-PRN (VBPI segir)
 			  (NP-SBJ (NPR-N Rauðr)))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.391))
 
 ( (IP-MAT-SPE (" ")
 	      (IP-MAT-SPE (NEG Eigi)
@@ -6634,7 +6634,7 @@
 						     (IP-SUB-SPE (VBPI heitir)
 								 (NP-PRD (NPR-N Svaf)))))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.392))
 
 ( (IP-MAT (VBDI Tóku)
 	  (ADVP-TMP (ADV þá))
@@ -6644,7 +6644,7 @@
 		  (ADVP (ADV æsiliga))
 		  (NP-SBJ (N-A ok))
 		  (VBDI grenjuðu))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.393))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þeir)
 		  (NP-PRN (NP-PRN (NPR-N Hrani)
@@ -6658,7 +6658,7 @@
 	  (PP (P at)
 	      (NP (D-D þeim)
 		  (NP-PRN (NS-D bræðrum))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.394))
 
 ( (IP-MAT-SPE (" ")
 	      (NP-SBJ (PRO-N Við))
@@ -6673,7 +6673,7 @@
 	      (" ")
 	      (IP-MAT-PRN (VBPI segir)
 			  (NP-SBJ (NPR-N Hrani)))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.395))
 
 ( (IP-MAT (IP-MAT (NP-SBJ (NPR-N Arnhöfði))
 		  (VBPI snýr)
@@ -6685,16 +6685,16 @@
 		 (IP-MAT (NP-SBJ (NPR-N Hildir))
 			 (PP (P at)
 			     (NP (NPR-D Einari)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.396))
 
 ( (IP-MAT (VBPI Höggr)
 	  (NP-SBJ (NPR-N Arnhöfði))
 	  (PP (P í)
 	      (NP (N-A skjöld)
 		  (NP-POS (NPR-G Hrana))))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.397))
 
-( (IP-MAT (CONJ en) (VBDI tók) (NEG eigi) (RP á) (. .)))
+( (IP-MAT (CONJ en) (VBDI tók) (NEG eigi) (RP á) (. .)) (ID 1824.HRANA.NAR-SAG,.398))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBDI hjó)
@@ -6704,7 +6704,7 @@
 	  (N-A skjöld)
 	  (PP (P fyrir)
 	      (NP (NPR-A Arnhöfða)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.399))
 
 ( (IP-MAT (IP-MAT (PP (P Í)
 		      (NP (OTHER-A annat) (N-A sinn)))
@@ -6723,14 +6723,14 @@
 		 (IP-MAT (NEG eigi)
 			 (VBDI særðist)
 			 (NP-SBJ (PRO-N hann))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.400))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBDI hjó)
 	  (NP-OB1 (N-A ok))
 	  (PP (P í)
 	      (NP (ADJ-A annat) (N-A sinn)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.401))
 
 ( (IP-MAT (VBDI Kom)
 	  (NP-SBJ (D-N þat) (N-N högg))
@@ -6750,7 +6750,7 @@
 		      (NP-MSR (ADVR framar))
 		      (PP (P af)
 			  (NP (PRO-D honum))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.402))
 
 ( (IP-MAT (CONJ En)
 	  (NP-SBJ (N-N sameign)
@@ -6772,7 +6772,7 @@
 				(NP-OB1 (PRO-A hann))
 				(PP (P í)
 				    (NP (ADJS-D fyrsta) (N-D bragði))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.403))
 
 ( (IP-MAT (NP-SBJ (NPR-N Einarr))
 	  (VBDI hjó)
@@ -6785,14 +6785,14 @@
 		  (PP (P af)
 		      (NP (N-D skildi)
 			  (NP-POS (PRO-G hans)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.404))
 
 ( (IP-MAT (NP-SBJ (N-N Berserkrinn))
 	  (VBDI hjó)
 	  (NP-OB1 (N-A aftr))
 	  (PP (P til)
 	      (NP (PRO-G hans)))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.405))
 
 ( (IP-MAT (CONJ en)
 	  (NP-SBJ (PRO-N hann))
@@ -6821,7 +6821,7 @@
 				    (VBDI laut)
 				    (PP (P eftir)
 					(NP (D-D þessu) (ADJ-D jötunliga) (N-D höggi)))))
-		 (. .))))
+		 (. .))) (ID 1824.HRANA.NAR-SAG,.406))
 
 ( (IP-MAT (PP (P Á)
 	      (ADVP (ADV meðan)))
@@ -6844,7 +6844,7 @@
 			  (NP (N-D sögunni)))
 		      (CP-ADV (C sem)
 			      (IP-SUB (NP-SBJ (D-N hinn)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.407))
 
 ( (IP-MAT (CONJ En)
 	  (PP (P á)
@@ -6866,7 +6866,7 @@
 				  (VB berast)
 				  (PP (P á)
 				      (NP (PRO-A þá))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.408))
 
 ( (IP-MAT (VBDI Skaut)
 	  (ADVP-TMP (ADV þá))
@@ -6877,7 +6877,7 @@
 	  (NP-OB1 (Q-A margan) (N-D skelmi))
 	  (PP (P til)
 	      (NP (N-G bana)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.409))
 
 ( (IP-MAT (CONJ En)
 	  (CP-ADV (C sem)
@@ -6903,7 +6903,7 @@
 	  (NP-OB1 (N-A hlut)
 		  (NP-POS (NS-G manna)
 			  (NP-POS (PRO-G sinna))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.410))
 
 ( (IP-MAT (CONJ En)
 	  (CP-ADV (C er)
@@ -6929,7 +6929,7 @@
 	  (VAN-D lögðu)
 	  (PP (P at)
 	      (NP (NPRS-D Suðreyingum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.411))
 
 ( (IP-MAT (VBDI Tóku)
 	  (NP-SBJ (NPRS-N Íslendingar))
@@ -6938,7 +6938,7 @@
 	  (ADVP (ADV drengiliga))
 	  (PP (P við)
 	      (NP (PRO-D þeim)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.412))
 
 ( (IP-MAT (NP-SBJ (NS-N Bogmenn))
 	  (VBDI spöruðu)
@@ -6946,14 +6946,14 @@
 	  (NEG eigi)
 	  (ADVP (ADVR heldr))
 	  (NP-OB1 (NS-A skotin))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.413))
 
 ( (IP-MAT (VBDI Harðnaði)
 	  (ADVP-TMP (ADV þá))
 	  (NP-SBJ (N-N orrustan))
 	  (PP (P at)
 	      (ADJP (ADJ-D nýju)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.414))
 
 ( (IP-MAT (VBDI Tóku)
 	  (ADVP-TMP (ADV þá))
@@ -6962,13 +6962,13 @@
 		  (VB særast)
 		  (IP-INF (NP-SBJ (N-A ok))
 			  (VB falla)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.415))
 
 ( (IP-MAT (RDDI Varð)
 	  (NP-SBJ (NP-POS (PRO-G þeirra))
 		  (N-N framgangr))
 	  (NP-PRD (N-N linr))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.416))
 
 ( (IP-MAT (CONJ En)
 	  (NP-SBJ (PRO-N þeir)
@@ -6991,7 +6991,7 @@
 					     (VB flýja)
 					     (PP (P til)
 						 (NP (N-G skips))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.417))
 
 ( (IP-MAT (NP-SBJ (NS-N Fóstbræðr))
 	  (VBDI vörðu)
@@ -7004,14 +7004,14 @@
 			      (VBDI stóð)
 			      (ADVP (ADV eftir))
 			      (ADVP-TMP (ADVS síðast)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.418))
 
 ( (IP-MAT (BEDI Var)
 	  (ADVP-TMP (ADV þá))
 	  (NP-SBJ (N-N dagr))
 	  (PP (P á)
 	      (NP (N-D enda)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.419))
 
 ( (IP-MAT (HVDI Hafði)
 	  (NP-SBJ (N-N orrustan))
@@ -7020,7 +7020,7 @@
 	      (NP (PRO-D því)))
 	  (PP (P fyrir)
 	      (NP (N-A miðdegi)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.420))
 
 ( (IP-MAT (IP-MAT (VBDI Féllu)
 		  (ADVP-LOC (ADV þar))
@@ -7038,7 +7038,7 @@
 		 (IP-MAT (PP (P af)
 			     (NP (ADJ-D suðreyskum)))
 			 (NP-OB1 (NUM-A sjö))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.421))
 
 ( (IP-MAT (NP-SBJ (Q-N Lítit))
 	  (BEPI er)
@@ -7053,7 +7053,7 @@
 				    (BEDI var)
 				    (NEG eigi)
 				    (NP-PRD (N-N bardagamaðr)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.422))
 
 ( (IP-MAT (IP-MAT (BEDI Vóru)
 		  (ADVP-TMP (ADV nú))
@@ -7066,7 +7066,7 @@
 		 (IP-MAT (NP-SBJ (ADJP (ADV ákafliga) (VAN lúnir))
 				 (N-N ok)
 				 (N-N móðir))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.423))
 
 ( (IP-MAT (VBDI Fóru)
 	  (ADVP-TMP (ADV þá))
@@ -7104,7 +7104,7 @@
 			     (IP-MAT (NP-SBJ (OTHER-N aðrir))
 				     (VBDI dysjuðu)
 				     (NP-OB1 (N-A val)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.424))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBDI lögðu)
@@ -7137,7 +7137,7 @@
 			  (CONJP (N-A ok)
 				 (IP-SUB (ADVP (ADV svo))
 					 (RDDI varð)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.425))
 
 ( (IP-MAT (VBDI Lofuðu)
 	  (ADVP-TMP (ADV nú))
@@ -7162,7 +7162,7 @@
 					  (NP-SBJ (PRO-N þeir))
 					  (ADVP (ADVR svo) (ADV vel))
 					  (VBN dugat)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.426))
 
 ( (IP-MAT (BEDI Vóru)
 	  (ADVP-TMP (ADV nú))
@@ -7173,7 +7173,7 @@
 		(ADV lystugt)
 		(PP (P eftir)
 		    (NP (Q-A allan) (D-A þenna) (N-A fjárfeng))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.427))
 
 ( (IP-MAT (VBDI Kvað)
 	  (ADVP-TMP (ADV nú))
@@ -7188,13 +7188,13 @@
 	  (PP (P í)
 	      (NP (N-D drauminum)))
 	  (ADVP-TMP (ADV forðum))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.428))
 
 ( (IP-MAT (NP-SBJ (LS (NUM-N 15) (ADJ-N .))
 		  (NP-SBJ (NPR-N Hrani)))
 	  (VBDI staðfestist)
 	  (PP (P í)
-	      (NP (NPRS-D Suðreyjum)))))
+	      (NP (NPRS-D Suðreyjum)))) (ID 1824.HRANA.NAR-SAG,.429))
 
 ( (IP-MAT (NP-TMP (Q-D Fám)
 		  (NS-D dögum)
@@ -7202,7 +7202,7 @@
 		      (NP (D-A þetta))))
 	  (VBDI sigldi)
 	  (NP-SBJ (NPR-N Rauðr))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.430))
 
 ( (IP-MAT (CONJ En)
 	  (NP-TMP (ADJS-A næsta) (N-A dag) (ADV eftir))
@@ -7210,7 +7210,7 @@
 	  (NP-SBJ (N-N skip))
 	  (PP (P til)
 	      (NP (NS-G eyjanna)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.431))
 
 ( (IP-MAT (BEDI Vóru)
 	  (VAN þat)
@@ -7231,7 +7231,7 @@
 							  (NP (NPRS-D Suðreyjum)))
 						      (IP-PPL (NP-SBJ (ADJ-N heilt) (N-N ok))
 							      (VAG lifandi))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.432))
 
 ( (IP-MAT (VBDI Fór)
 	  (ADVP-TMP (ADV þá))
@@ -7248,7 +7248,7 @@
 		      (NP-SBJ (N-D frásögn))
 		      (PP (P um)
 			  (NP (PRO-A hann))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.433))
 
 ( (IP-MAT (NP-SBJ (ES Þat))
 	  (BEPI er)
@@ -7272,7 +7272,7 @@
 						  (BEDI var)
 						  (ADJP (NP-CMP (OTHERS-D öðrum))
 							(ADJR-N frægri)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.434))
 
 ( (IP-MAT (HVDI Hafði)
 	  (NP-SBJ (PRO-N hann))
@@ -7302,7 +7302,7 @@
 							      (VB sjá)
 							      (PP (P af)
 								  (NP (PRO-D honum))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.435))
 
 ( (IP-MAT-SPE (" ")
 	      (BEPI Er)
@@ -7335,7 +7335,7 @@
 							     (PP (P í)
 								 (NP (D-D þessu) (N-D takmarki)))))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.436))
 
 ( (IP-MAT (VBDI Féllst)
 	  (NP-SBJ (PRO-N hann))
@@ -7351,13 +7351,13 @@
 		  (VB eiga)
 		  (NP-OB1 (PRO-A hana))
 		  (NP-TMP (D-A þetta) (N-A sumar)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.437))
 
 ( (IP-MAT (NP-SBJ (N-N Samvist)
 		  (NP-POS (PRO-G þeirra)))
 	  (RDDI varð)
 	  (ADJP (ADJ-N góð) (N-N ok) (ADJ-N löng))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.438))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (BEDI var)
@@ -7424,7 +7424,7 @@
 												  (ADJ-N fimi)))
 										  (, ,)
 										  (NP-PRN (Q-N báðir) (ADJ-N íslenzkir))))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.439))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þeir))
 	  (VBDI fylgdu)
@@ -7432,7 +7432,7 @@
 	  (ADVP (ADV ævilangt))
 	  (PP (P eftir)
 	      (NP (PRO-A þat)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.440))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (HVDI hafði)
@@ -7441,7 +7441,7 @@
 	  (PP (P af)
 	      (NP (N-D skipbroti)
 		  (NP-POS (PRO-G þeirra))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.441))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBDI kom)
@@ -7456,18 +7456,18 @@
 					(NP-POS (PRO-G hans)))
 				(HVDI hafði)
 				(NP-OB1 (N-A spát)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.442))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þau)
 		  (NP-PRN (NPR-N Signý)))
 	  (VBDI áttu)
 	  (NP-OB1 (ONE-A eina) (N-A dóttur))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.443))
 
 ( (QTP (NP (FW Hallveigu))
        (PP (P at)
 	   (NP (N-D heiti)))
-       (. .)))
+       (. .)) (ID 1824.HRANA.NAR-SAG,.444))
 
 ( (IP-MAT (NP-SBJ (QR-N Fleiri)
 		  (NP-POS (NS-G barna)))
@@ -7480,7 +7480,7 @@
 			  (PP (RP upp)
 			      (P á)
 			      (ADJP (ADJ-A víst)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.445))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBDI andaðist)
@@ -7491,7 +7491,7 @@
 		    (CP-REL (IP-SUB (ADJP (ADJ-N gamall))
 				    (BEDI var)
 				    (RDN orðinn))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.446))
 
 ( (IP-MAT (HVDI Hafði)
 	  (NP-SBJ (PRO-N hann))
@@ -7514,7 +7514,7 @@
 				      (ADVP-LOC (CP-FRL (WADVP (WADV áðr))
 							(IP-SUB (NP-SBJ (PRO-N hann))
 								(VBDI sigldi)))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.447))
 
 ( (IP-MAT (NP-SBJ (PRO-N Ok))
 	  (VBPI endar)
@@ -7525,14 +7525,14 @@
 	      (NP (NPR-D Hrana)
 		  (NP-PRN (N-D hring))
 		  (NPR-D Egilssyni)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.448))
 
 ( (META (NP (NUM-N 1) (NUM-N .))
 	(PP (P Frá)
 	    (NP (NPR-D Gnúpa-Bárði)
 		(NP-PRN (N-D ok)
 			(NP-PRN (NS-D sonum)
-				(NP-POS (PRO-G hans))))))))
+				(NP-POS (PRO-G hans))))))) (ID 1824.HRANA.NAR-SAG,.449))
 
 ( (IP-MAT (NP-PRD (NPR-N Bárðr))
 	  (VBDI hét)
@@ -7543,7 +7543,7 @@
 				  (NP-PRN (N-G hersis))
 				  (PP (P úr)
 				      (NP (NPR-D Sogni))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.450))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI fór)
@@ -7561,13 +7561,13 @@
 	  (PP (P til)
 	      (NP (NPR-G Svartár))
 	      (PP (Q-G beggja) (P vegna)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.451))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI bjó)
 	  (PP (P at)
 	      (NP (NPR-D Lundarbrekku)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.452))
 
 ( (IP-MAT (NP-SBJ (NP-POS (PRO-G Hans))
 		  (NS-N synir))
@@ -7580,7 +7580,7 @@
 			  (CONJP (NP (NPR-N Nefsteinn)
 				     (NP-PRN (N-N ok))
 				     (NPR-N Egill)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.453))
 
 ( (IP-MAT (NP-SBJ (NPR-D Bárði))
 	  (VBDI þótti)
@@ -7596,7 +7596,7 @@
 			  (ADVP-LOC (ADV þar))
 			  (PP (P til)
 			      (NP (N-G lengdar)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.454))
 
 ( (IP-MAT (NP-TMP (ONE-A Eitt) (N-A vor))
 	  (VBDI sendi)
@@ -7614,13 +7614,13 @@
 			  (VBDS félli)
 			  (RP út)
 			  (NP-SBJ (N-N veðráttufar))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.455))
 
 ( (IP-MAT (BEDI Var)
 	  (NP-SBJ (PRO-N þat))
 	  (PP (P um)
 	      (NP (N-A gói)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.456))
 
 ( (IP-MAT (VBDI Kómu)
 	  (NP-SBJ (PRO-N þeir))
@@ -7633,7 +7633,7 @@
 			  (ADVP (ADV vel))
 			  (PP (P af)
 			      (NP (N-D landi)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.457))
 
 ( (IP-MAT (VBDI Fundu)
 	  (NP-SBJ (PRO-N þeir))
@@ -7642,7 +7642,7 @@
 	  (N-A ok)
 	  (OTHER-A annan)
 	  (ADJP-SPR (N-A gróðr))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.458))
 
 ( (IP-MAT (NP-TMP (OTHER-A Annat) (N-A vor))
 	  (VBDI tók)
@@ -7662,7 +7662,7 @@
 				(CP-REL (IP-SUB (ADVP-TMP (ADV nú))
 						(VBPI heitir)
 						(NP-PRD (NPR-N Bárðargata))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.459))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI nam)
@@ -7679,7 +7679,7 @@
 		      (PP (NP (PRO-D því)))
 		      (NP-PRD (NPR-N Gnúpa-Bárðr))
 		      (VAN kallaðr))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.460))
 
 ( (IP-MAT (CONJ En)
 	  (NP-SBJ (NPR-N Egill)
@@ -7691,7 +7691,7 @@
 	  (ADVP (ADV eftir))
 	  (PP (P at)
 	      (NP (NPR-D Lundarbrekku)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.461))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI átti)
@@ -7702,7 +7702,7 @@
 				  (NP-PRN (N-G snepils))
 				  (PP (P at)
 				      (NP (NPR-D Lundi))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.462))
 
 ( (IP-MAT (NP-SBJ (NP-POS (PRO-G Þeirra))
 		  (N-N sonr))
@@ -7722,21 +7722,21 @@
 				      (NP-OB1 (ADJ-A rauðan) (N-A hring))
 				      (PP (P á)
 					  (NP (ADJ-A vinstri) (N-A kinn))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.463))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (BEDI var)
 	  (ADVP-TMP (ADV snemma))
 	  (NP-PRD (NP-PRD (ADJ-N gerviligr) (N-N ok))
 		  (NP-PRN (D-N inn) (QS-N mesti) (N-N maðr)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.464))
 
 ( (META (LS (NUM-N 2) (NUM-N .))
 	(NP (N-N Útkoma)
 	    (NP-POS (NPR-G Helga)
 		    (NP-PRN (N-G króks)))
 	    (N-A ok)
-	    (N-A landnám))))
+	    (N-A landnám))) (ID 1824.HRANA.NAR-SAG,.465))
 
 ( (IP-MAT (NP-SBJ (N-N Maðr))
 	  (BEPI er)
@@ -7749,7 +7749,7 @@
 				  (NPR-G Ásgeirssonar)
 				  (PP (P úr)
 				      (NP (NPR-D Sogni))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.466))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI fór)
@@ -7763,7 +7763,7 @@
 			      (NP-POS (PRO-D sínu)))
 		      (PP (P í)
 			  (NP (NPR-D Skjálfandafljótsós))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.467))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (BEDI var)
@@ -7775,7 +7775,7 @@
 			    (NPR-D Þorsteini)
 			    (PP (P í)
 				(NP (NPR-D Reykjahlíð)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.468))
 
 ( (IP-MAT (NP-SBJ (NPR-N Helgi))
 	  (VBDI reið)
@@ -7784,7 +7784,7 @@
 		  (NP-POS (PRO-D sínu))))
 	  (PP (P at)
 	      (NP (NPR-D Lundarbrekku)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.469))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þeir)
 		  (NP-PRN (NS-N feðgar)))
@@ -7799,7 +7799,7 @@
 		      (ADVP-LOC (ADV þar))
 		      (PP (P um)
 			  (NP (N-A hríð))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.470))
 
 ( (IP-MAT (NP-TMP (ONE-A Eitt) (N-A sinn))
 	  (VBDI kom)
@@ -7816,14 +7816,14 @@
 			      (ADVP-LOC (ADV þar))
 			      (PP (P í)
 				  (NP (N-D dalnum)))))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.471))
 
 ( (IP-MAT (CONJ en)
 	  (ADVP-TMP (ADV þá))
 	  (BEDI var)
 	  (NP-SBJ (Q-N allr) (NPR-N Bárðardalr))
 	  (VAN byggðr)
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.472))
 
 ( (IP-MAT (NP-SBJ (NPR-N Egill))
 	  (VBDI mælti)
@@ -7855,7 +7855,7 @@
 					      (P til)
 					      (NP (NPR-G Sanda))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.473))
 
 ( (IP-MAT (PP (P Eftir)
 	      (NP (D-A þetta)))
@@ -7876,7 +7876,7 @@
 	  (RP fram)
 	  (PP (P með)
 	      (NP (N-D fljóti)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.474))
 
 ( (IP-MAT (NP-SBJ (NPR-N Helgi))
 	  (VBDI reisti)
@@ -7886,7 +7886,7 @@
 	  (IP-SUB-PRN (NP-PRN (N-A ok))
 		      (CP-REL (IP-SUB (VBDI kallaði)
 				      (IP-SMC (NP-PRD (NPR-A Helgastaði))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.475))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI átti)
@@ -7896,7 +7896,7 @@
 		  (CP-REL (C er)
 			  (IP-SUB (NP-PRD (NPR-N Hallveig))
 				  (VBDI hét))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.476))
 
 ( (IP-MAT (NP-SBJ (Q-N Mikill) (N-N vinskapr))
 	  (BEDI var)
@@ -7912,7 +7912,7 @@
 	  (ADVP-TMP (ADV oft))
 	  (PP (P með)
 	      (NP (NPR-D Helga)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.477))
 
 ( (IP-MAT (VBDI Gaf)
 	  (NP-SBJ (NPR-N Helgi))
@@ -7928,7 +7928,7 @@
 					  (ONE-N eitt)
 					  (, ,)
 					  (NP-PRN (D-N it) (ADJS-N bezta) (N-N þing))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.478))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI líða)
@@ -7941,7 +7941,7 @@
 			  (VBDI bar)
 			  (PP (P til)
 			      (NP (NS-G tíðenda)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.479))
 
 ( (IP-MAT (LS (NUM-N 3))
 	  (LS .)
@@ -7950,7 +7950,7 @@
 		      (NP-OB1 (NP-POS (NPR-G Vakrs))
 			      (N-A ok))
 		      (IP-MAT-PRN (VBDI vó)
-				  (NP-SBJ (NPR-N Sigfús))))))
+				  (NP-SBJ (NPR-N Sigfús))))) (ID 1824.HRANA.NAR-SAG,.480))
 
 ( (IP-MAT (NP-SBJ (ES Þat))
 	  (BEDI var)
@@ -7964,7 +7964,7 @@
 				  (NP-POS (PRO-G síns)))
 			  (PP (P til)
 			      (NP (NS-G fjalla)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.481))
 
 ( (IP-MAT (NP-PRD (NPR-N Vakr))
 	  (VBDI hét)
@@ -7978,12 +7978,12 @@
 				  (VBDI fór)
 				  (PP (P ásamt)
 				      (NP (OTHERS-D öðrum))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.482))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBDI fór)
 	  (ALSO líka)
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.483))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þeir))
 	  (VBDI áttu)
@@ -7991,14 +7991,14 @@
 	  (ADVP (ADV saman))
 	  (PP (P við)
 	      (NP (NPRS-A Mývetninga)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.484))
 
 ( (IP-MAT (ADVP-TMP (ADV Þá))
 	  (VBDI bjó)
 	  (NP-SBJ (NPR-N Gauti))
 	  (PP (P á)
 	      (NP (NPR-D Gautlandi)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.485))
 
 ( (IP-MAT (PP (P Hjá)
 	      (NP (PRO-D honum)))
@@ -8017,7 +8017,7 @@
 						  (NP-OB2 (Q-D mörgum))
 						  (NP-OB1 (N-A ójöfnuð)
 							  (NP-POS (PRO-A sinn))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.486))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI fór)
@@ -8026,7 +8026,7 @@
 	      (NP (N-A fjárleit)))
 	  (PP (P með)
 	      (NP (NPRS-D Mývetningum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.487))
 
 ( (IP-MAT (ADVP (ADVR Svo))
 	  (VBDI bar)
@@ -8062,7 +8062,7 @@
 							  (VBDI kómu)
 							  (PP (P at)
 							      (NP (N-D gjá) (ONE-D einni)))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.488))
 
 ( (IP-MAT (ADVP-LOC (ADV Þar))
 	  (VBDI náðu)
@@ -8071,13 +8071,13 @@
 	  (IP-MAT-PRN (NP-SBJ (PRO-N ok))
 		      (VBDI könnuðu)
 		      (ADVP-TMP (PRO-A þá)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.489))
 
 ( (IP-MAT (VBDI Átti)
 	  (NP-SBJ (NPR-N Helgi))
 	  (NP-OB2 (N-A krókr))
 	  (NP-OB1 (NS-A sauðina))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.490))
 
 ( (IP-MAT (PP (P Meðal)
 	      (NP (OTHER-G annarra)))
@@ -8090,7 +8090,7 @@
 		  (IP-SUB (NP-SBJ (NPR-N Vakr))
 			  (VBDI átti)
 			  (NP-PRN (PRO-N sjálfr))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.491))
 
 ( (IP-MAT (NP-SBJ (NP-POS (N-G Sigfúss))
 		  (ADJ-N falar)
@@ -8104,7 +8104,7 @@
 		  (PP (P fyrir)
 		      (NP (N-A ómak)
 			  (NP-POS (PRO-A sitt)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.492))
 
 ( (IP-MAT (NP-SBJ (N-N Vakr))
 	  (VBDI færðist)
@@ -8114,7 +8114,7 @@
 		      (NEG eigi)
 		      (VB láta)
 		      (NP-OB1 (N-A sauðinn)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.493))
 
 ( (IP-MAT (VBDI Kífuðu)
 	  (NP-SBJ (PRO-N þeir))
@@ -8138,7 +8138,7 @@
 				  (CP-ADV (IP-SUB (PP (P í)
 						      (NP (N-A heila)))
 						  (VBDI stóð)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.494))
 
 ( (IP-MAT (PP (P Í)
 	      (NP (PRO-D því)))
@@ -8158,7 +8158,7 @@
 				  (IP-SUB (NP-SBJ (NPR-N Vakr))
 					  (BEPI er)
 					  (VAN veginn)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.495))
 
 ( (IP-MAT (IP-MAT (VBPI Spyrr)
 		  (ADVP-TMP (ADV nú))
@@ -8177,7 +8177,7 @@
 						 (PP (P af)
 						     (NP (NS-D viðskiptum)
 							 (NP-POS (PRO-G þeirra)))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.496))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBDI mælti)
@@ -8200,7 +8200,7 @@
 		      (PP (P á)
 			  (NP (PRO-D þér))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.497))
 
 ( (IP-MAT (NP-SBJ (NPR-N Sigfúss))
 	  (VBDI mælti)
@@ -8224,7 +8224,7 @@
 								      (NP (PRO-G hans)))
 								  (PP (P með)
 								      (NP (N-D öxinni)))))))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.498))
 
 ( (IP-MAT (CONJ en)
 	  (NP-SBJ (PRO-N hann))
@@ -8232,7 +8232,7 @@
 	  (NP-OB1 (N-D skildi))
 	  (PP (P fyrir)
 	      (NP (PRO-A sik)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.499))
 
 ( (IP-MAT (VBDI Kom)
 	  (ADVP-TMP (ADV þá))
@@ -8244,12 +8244,12 @@
 		     (VAG renndi)
 		     (RP út)
 		     (RP af)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.500))
 
 ( (IP-MAT (RDDI Varð)
 	  (NP-SBJ (N-N þat))
 	  (NP-PRD (ADJ-N allstórt) (N-N sár))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.501))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI höggr)
@@ -8259,7 +8259,7 @@
 	      (NP (NPR-G Sigfúsar)))
 	  (NP-OB1 (N-D saxinu)
 		  (NP-PRN (NPR-A Helganaut)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.502))
 
 ( (IP-MAT (VBDI Kom)
 	  (NP-SBJ (D-N þat) (N-N högg))
@@ -8279,7 +8279,7 @@
 			  (NP (NS-D vonum)))
 		      (ADJP-SPR (ADJ-N dauðr))
 		      (RP niðr))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.503))
 
 ( (IP-MAT (RDDI Varð)
 	  (ADVP-TMP (ADV nú))
@@ -8290,13 +8290,13 @@
 	      (NP (NP (NPRS-G Mývetninga))
 		  (N-G ok)
 		  (NP-POS (NPR-G Hrana))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.504))
 
 ( (IP-MAT (VBDI Heygðu)
 	  (NP-SBJ (PRO-N þeir))
 	  (ADVP-LOC (ADV þar))
 	  (NP-OB1 (NPR-A Sigfús))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.505))
 
 ( (IP-MAT (NP (N-A Ok)
 	      (PP (P eftir)
@@ -8312,7 +8312,7 @@
 	  (CP-REL (C er)
 		  (IP-SUB (NP-OB1 (N-A fundit))
 			  (HVDI höfðu)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.506))
 
 ( (IP-MAT (NP (LS (NUM-N 4))
 	      (NUM-N .))
@@ -8320,7 +8320,7 @@
 		  (PP (P á)
 		      (NP (NPR-D Gautlandi))))
 	  (VBDI græddi)
-	  (NP-OB2 (NPR-A Hrana))))
+	  (NP-OB2 (NPR-A Hrana))) (ID 1824.HRANA.NAR-SAG,.507))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI ríðr)
@@ -8336,7 +8336,7 @@
 	  (, ,)
 	  (PP (P í)
 	      (NP (NPR-D Reykjahlíð)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.508))
 
 ( (IP-MAT (VBDI Tók)
 	  (NP-SBJ (NPR-N Þorsteinn))
@@ -8345,7 +8345,7 @@
 	  (NP-OB1 (N-A ok)
 		  (NS-A spyrr)
 		  (NP-POS (NS-G tíðenda)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.509))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBDI sagði)
@@ -8359,7 +8359,7 @@
 			  (NP-SBJ (PRO-N hann))
 			  (ADVP-TMP (ADV nú))
 			  (NP-OB1 (N-G ásjár))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.510))
 
 ( (IP-MAT (VBDI Sýndi)
 	  (NP-SBJ (NPR-D Hrani) (NPR-D Þorsteini))
@@ -8397,7 +8397,7 @@
 										  (NP (N-A víg)
 										      (NP-POS (NPR-G Sigfúsar))))))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.511))
 
 ( (IP-MAT (NP-SBJ (NPR-N Þorsteinn))
 	  (VBPI svarar)
@@ -8418,7 +8418,7 @@
 						      (NP (PRO-A hann)))
 						  (PP (P um)
 						      (NP (NS-A sættir)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.512))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N Hann))
 	      (BEPI er)
@@ -8433,7 +8433,7 @@
 					  (BEPI er)
 					  (VAN leitat))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.513))
 
 ( (IP-MAT (NP-OB1 (NP (N-A Ok))
 		  (PP (P eftir)
@@ -8448,7 +8448,7 @@
 		  (PP (P í)
 		      (NP (N-D útiskemmu)
 			  (NP-POS (PRO-D sinni)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.514))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBPI heilsar)
@@ -8458,7 +8458,7 @@
 	  (NP-OB2 (NP-MSR (NS-A ok))
 		  (ADJ-N spyrr)
 		  (NP-POS (NS-G tíðenda)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.515))
 
 ( (IP-MAT (NP-SBJ (NPR-N Þorsteinn))
 	  (VBDI mælti)
@@ -8494,7 +8494,7 @@
 							 (NP-PRN (N-D frænda)
 								 (NP-POS (PRO-D mínum))))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.516))
 
 ( (IP-MAT (VBDI Sagði)
 	  (NP-SBJ (NPR-N Þorsteinn))
@@ -8521,7 +8521,7 @@
 									     (CP-EOP (IP-INF (NP-OB2 (NPR-D Gauta))
 											     (TO at)
 											     (VB þiggja)))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.517))
 
 ( (IP-MAT (IP-MAT (NP-SBJ (N-D Bónda))
 		  (VBDI leizt)
@@ -8566,7 +8566,7 @@
 												    (PP (P um)
 													(NP (ADJ-A vígit)))))))))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.518))
 
 ( (IP-MAT (VBDI Þökkuðu)
 	  (NP-SBJ (PRO-N þeir))
@@ -8612,7 +8612,7 @@
 									     (PP (P at)
 										 (NP (N-D sárinu)))))))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.519))
 
 ( (IP-MAT (IP-MAT (NP-SBJ (NPR-N Gauti))
 		  (VBDI lofaði)
@@ -8629,7 +8629,7 @@
 			 (ADVP-DIR (ADV heim))
 			 (PP (P í)
 			     (NP (NPR-A Reykjahlíð)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.520))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI skoðar)
@@ -8640,7 +8640,7 @@
 		      (BEDI var)
 		      (NP-SBJ (VAN þat))
 		      (ADJP (N-N mjök) (ADJ-N vont)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.521))
 
 ( (IP-MAT (BEDI Var)
 	  (NP-SBJ (PRO-N hann))
@@ -8663,7 +8663,7 @@
 						     (PP (P til)
 							 (NP (N-G föður)
 							     (NP-POS (PRO-G síns))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.522))
 
 ( (IP-MAT (VBDI Bar)
 	  (ADVP-TMP (ADV nú))
@@ -8673,7 +8673,7 @@
 	      (NP (NS-G tíðenda)))
 	  (PP (P at)
 	      (NP (PRO-D sinni)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.523))
 
 ( (IP-MAT (LS (NUM-N 5))
 	  (NUM-N .)
@@ -8683,12 +8683,12 @@
 		  (NP-PRN (N-N ok)))
 	  (VBDI féll)
 	  (PP (P fyrir)
-	      (NP (NPR-A Hrana)))))
+	      (NP (NPR-A Hrana)))) (ID 1824.HRANA.NAR-SAG,.524))
 
 ( (IP-MAT (NP-PRD (NPR-N Hróaldr) (ADJ-N galti))
 	  (VBDI hét)
 	  (NP-SBJ (N-N maðr))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.525))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI bjó)
@@ -8696,7 +8696,7 @@
 	      (NP (NPRS-D Torfastöðum)
 		  (PP (P í)
 		      (NP (NPR-D Vopnafirði)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.526))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (BEDI var)
@@ -8712,13 +8712,13 @@
 			  (N-N ok)
 			  (ADJP (ADJ-N illr)
 				(NP (N-G viðrskiptis)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.527))
 
 ( (IP-MAT (VBDI Átti)
 	  (NP-SBJ (PRO-N hann))
 	  (NP-OB1 (N-A ok) (ADJ-A sökótt))
 	  (ADVP-LOC (ADV víða))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.528))
 
 ( (IP-MAT (VBDI Frétti)
 	  (NP-SBJ (PRO-N hann))
@@ -8734,7 +8734,7 @@
 		  (CONJP (IP-SUB (VBPI heitir)
 				 (ADVP-TMP (ADV nú))
 				 (IP-INF (TO at) (VB hefna)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.529))
 
 ( (IP-MAT (VBPI Býr)
 	  (NP-SBJ (PRO-N hann))
@@ -8752,7 +8752,7 @@
 	  (PP (NP-MSR (Q-A allt))
 	      (P at)
 	      (NP (NPR-D Mývatni)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.530))
 
 ( (IP-MAT (BEDI Var)
 	  (NP-SBJ (VAN þat))
@@ -8760,7 +8760,7 @@
 	  (PP (P eftir)
 	      (NP (N-A fall)
 		  (NP-POS (NPR-G Sigfúsar))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.531))
 
 ( (IP-MAT (VBPI Koma)
 	  (NP-SBJ (PRO-N þeir))
@@ -8768,7 +8768,7 @@
 		  (NP-POS (N-G dags)))
 	  (PP (P at)
 	      (NP (NPR-D Gautlandi)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.532))
 
 ( (IP-MAT (NP-SBJ (NPR-N Gauti))
 	  (BEDI var)
@@ -8776,7 +8776,7 @@
 	      (NP (N-D túni)
 		  (NP-COM (N-D ok))))
 	  (NP-PRN (NS-N húskarlar) (NUM-N þrír))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.533))
 
 ( (IP-MAT (NP-SBJ (NPR-N Gauti))
 	  (VBPI heilsar)
@@ -8786,14 +8786,14 @@
 	  (NP-OB1 (N-A gisting))
 	  (PP (P um)
 	      (NP (N-A nóttina)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.534))
 
 ( (IP-MAT (VBDI Kvaðst)
 	  (NP-SBJ (NPR-N Hróaldr))
 	  (IP-INF (NP-OB1 (N-A þat))
 		  (VB þiggja)
 		  (MD mundu))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.535))
 
 ( (CP-QUE-SPE (" ")
 	      (IP-SUB-SPE (HVPI Hefi)
@@ -8817,7 +8817,7 @@
 					     (, ,)
 					     (ADVP-LOC (ADV hér)))))
 	      (. ?)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.536))
 
 ( (IP-MAT (NP-SBJ (NPR-N Gauti))
 	  (VBDI mælti)
@@ -8828,7 +8828,7 @@
 		      (NP-SBJ (PRO-N hann))
 		      (ADVP-LOC (ADV hér)))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.537))
 
 ( (IP-MAT (NP (N-N Ok))
 	  (VBPI segir)
@@ -8847,7 +8847,7 @@
 			      (PP (P vegna)
 				  (NP (NP-POS (NPR-G Hrana))
 				      (N-G hrings)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.538))
 
 ( (IP-MAT (CONJ En)
 	  (NP-SBJ (NPR-N Galti))
@@ -8880,7 +8880,7 @@
 								 (NP-OB1 (N-G bróður)
 									 (NP-POS (PRO-G míns))))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.539))
 
 ( (IP-MAT (NP-SBJ (NPR-N Gauti))
 	  (VBPI svarar)
@@ -8911,7 +8911,7 @@
 					 (PP (P með)
 					     (NP (PRO-D honum))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.540))
 
 ( (IP-MAT (NP-SBJ (NPR-N Galti))
 	  (VBPI svarar)
@@ -8924,7 +8924,7 @@
 			  (NP (N-D máli)))
 		      (PP (P eftir)
 			  (NP (NPR-A Sigfús))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.541))
 
 ( (IP-MAT-SPE (IP-MAT-SPE (BEDI Var)
 			  (NP-SBJ (PRO-N hann))
@@ -8963,7 +8963,7 @@
 				      (PP (P at)
 					  (NP (Q-D nokkuru)))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.542))
 
 ( (IP-MAT (VBPI Reiðir)
 	  (NP-SBJ (PRO-N hann))
@@ -8985,7 +8985,7 @@
 	  (VBDI missti)
 	  (NP-SBJ (PRO-N hann))
 	  (NP-OB1 (N-G höggsins))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.543))
 
 ( (IP-MAT (IP-MAT (NP-SBJ (N-N Spjót))
 		  (VBDI stóð)
@@ -9000,7 +9000,7 @@
 	  (VBPI skýtr)
 	  (PP (P at)
 	      (NP (NPR-D Galta)))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.544))
 
 ( (IP-MAT (CONJ en)
 	  (NP-SBJ (PRO-N hann))
@@ -9010,7 +9010,7 @@
 	      (NP (N-A ok)))
 	  (VBDI sakaði)
 	  (NEG eigi)
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.545))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI hlaupa)
@@ -9037,7 +9037,7 @@
 								 (ONE-N einn)
 								 (N-N húskarl)
 								 (NP-POS (PRO-G hans)))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.546))
 
 ( (IP-MAT (CONJ En)
 	  (NP-OB1 (D-A hina) (NUM-A tvo))
@@ -9078,7 +9078,7 @@
 					     (IP-SUB (NP-SBJ (NPR-N Hrani))
 						     (BEDS væri)
 						     (ADVP-LOC (ADV þar)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.547))
 
 ( (IP-MAT (NP-SBJ (N-N Þrællinn))
 	  (VBDI fór)
@@ -9092,7 +9092,7 @@
 			  (BEDI var)
 			  (NEG eigi)
 			  (ADVP-LOC (ADV heima))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.548))
 
 ( (IP-MAT (HVDI Hafði)
 	  (NP-SBJ (PRO-N hann))
@@ -9102,7 +9102,7 @@
 		  (NP-PRN (N-A krók))))
 	  (PP (P um)
 	      (NP (N-A tíma)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.549))
 
 ( (IP-MAT (VBDI Lét)
 	  (ADVP-TMP (ADV nú))
@@ -9133,7 +9133,7 @@
 			  (NP (N-A þat)
 			      (PP (P á)
 				  (NP (NPRS-D Hrafnabjörgum))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.550))
 
 ( (IP-MAT (VBPI Ríða)
 	  (NP-SBJ (PRO-N þeir))
@@ -9148,20 +9148,20 @@
 			      (CP-QUE (WADVP (WADV hvar))
 				      (IP-SUB (NP-SBJ (NS-N viðarhlöss) (Q-N mörg))
 					      (BEDI vóru))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.551))
 
 ( (IP-MAT (ADVP-LOC (ADV Þar))
 	  (VBPI sjá)
 	  (NP-SBJ (PRO-N þeir))
 	  (NP-OB1 (N-A ok) (NUM-A þrjá) (NS-A menn))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.552))
 
 ( (IP-MAT (NP-SBJ (ONE-N Einn)
 		  (NP-POS (PRO-G þeirra)))
 	  (VBDI leizt)
 	  (NP-OB1 (PRO-D þeim))
 	  (ADJP-SPR (ADJ-N vaskligr))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.553))
 
 ( (IP-MAT (IP-MAT (NP-SBJ (PRO-N Hann))
 		  (VBPI gengr)
@@ -9184,7 +9184,7 @@
 				 (CP-QUE (WQ hvat)
 					 (IP-SUB (NP-SBJ (PRO-N hann))
 						 (VBPS heiti))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.554))
 
 ( (IP-MAT (CONJ En)
 	  (NP-SBJ (N-N maðr)
@@ -9202,7 +9202,7 @@
 				  (NP-POS (NPR-G Egils)
 					  (PP (P á)
 					      (NP (NPR-D Lundarbrekku)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.555))
 
 ( (IP-MAT (NP-SBJ (NPR-N Galti))
 	  (VBDI mælti)
@@ -9240,7 +9240,7 @@
 							  (NP-OB1 (PRO-G hans))
 							  (PP (P á)
 							      (NP (PRO-D þér)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.556))
 
 ( (IP-MAT-SPE (CP-ADV-SPE (IP-SUB-SPE (IP-MAT-SPE (HVPI Hefi)
 						  (NP-SBJ (PRO-N ek))
@@ -9271,7 +9271,7 @@
 		      (CP-CMP-SPE (C sem)
 				  (IP-SUB-SPE (NP-SBJ (PRO-N hann)))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.557))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBPI svarar)
@@ -9318,7 +9318,7 @@
 						      (PP (P at)
 							  (NP (N-D velli)))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.558))
 
 ( (IP-MAT (NP-SBJ (NPR-N Galti))
 	  (VBPI segir)
@@ -9345,7 +9345,7 @@
 		      (NP-OB1 (PRO-G hans))
 		      (ADVP-TMP (ADV nú)))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.559))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBDI mælti)
@@ -9369,7 +9369,7 @@
 									     (BEPI er)
 									     (VBN liðit))))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.560))
 
 ( (IP-MAT (NP-SBJ (NPR-N Galti))
 	  (VBPI svarar)
@@ -9394,7 +9394,7 @@
 								 (BEPS sért)
 								 (ADVP-TMP (ADV nú))
 								 (ADJP (ADJ-N feigr)))))))
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.561))
 
 ( (IP-MAT-SPE (" ")
 	      (ADVP (ADVR Svo))
@@ -9426,7 +9426,7 @@
 	      (ADVP (ADV undan))
 	      (VB renna)
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.562))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (HVDI hafði)
@@ -9463,7 +9463,7 @@
 						  (VBDI féll)
 						  (ADJP-SPR (ADJ-N dauðr))
 						  (RP niðr))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.563))
 
 ( (IP-MAT (ADVP-TMP (ADV Þá))
 	  (VBDI mælti)
@@ -9481,7 +9481,7 @@
 				      (ADVP-TMP (ADV nú))
 				      (PP (P á)
 					  (NP (ADJS-A lægsta) (N-A garð)))))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.564))
 
 ( (IP-MAT-SPE (CONJ en)
 	      (VBPI efar)
@@ -9493,7 +9493,7 @@
 		  (PP (P við)
 		      (NP (Q-A mik))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.565))
 
 ( (IP-MAT (NP-SBJ (NPR-N Galti))
 	  (VBDI mælti)
@@ -9506,7 +9506,7 @@
 				  (IP-SUB-SPE (NP-SBJ (N-N fylgjari)
 						      (NP-POS (PRO-N þinn))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.566))
 
 ( (IP-MAT (CONJ Ok)
 	  (PP (P í)
@@ -9531,7 +9531,7 @@
 							     (RDDI varð)
 							     (NEG eigi)
 							     (ADJP (ADJ-N sárr))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.567))
 
 ( (IP-MAT (ADVP-TMP (ADV Þá))
 	  (VBPI höggr)
@@ -9543,14 +9543,14 @@
 		  (NP-COM (N-A ok))))
 	  (VBDI klauf)
 	  (NP-SBJ (PRO-N hann))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.568))
 
 ( (IP-MAT (VBPI Fekk)
 	  (NP-SBJ (PRO-N hann))
 	  (NP-OB1 (N-A ok) (ADJ-A sár))
 	  (PP (P á)
 	      (NP (N-A lærit)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.569))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI eggjar)
@@ -9561,7 +9561,7 @@
 		  (VB sækja)
 		  (PP (P at)
 		      (NP (NPR-D Hrana))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.570))
 
 ( (IP-MAT (VBPI Þjóta)
 	  (NP-SBJ (PRO-N þeir))
@@ -9573,7 +9573,7 @@
 		  (VB sækja)
 		  (PP (P at)
 		      (NP (NPR-D Hrana))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.571))
 
 ( (IP-MAT (IP-MAT (VBPI Drepr)
 		  (NP-SBJ (PRO-N hann))
@@ -9587,7 +9587,7 @@
 		 (IP-MAT (NP-SBJ (NPR-N Galti))
 			 (VBPI hopar)
 			 (ADVP-DIR (ADV undan))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.572))
 
 ( (IP-MAT (ADVP-TMP (ADV Þá))
 	  (VBDI mælti)
@@ -9619,7 +9619,7 @@
 					  (IP-INF-SPE (TO at)
 						      (VB eggja)
 						      (NP-OB1 (OTHERS-A aðra))))))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.573))
 
 ( (IP-MAT-SPE (CONJ en)
 	      (VBPI þora)
@@ -9629,7 +9629,7 @@
 			  (TO at)
 			  (VB koma))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.574))
 
 ( (IP-MAT (ADVP-TMP (ADV Þá))
 	  (VBDI sagði)
@@ -9659,7 +9659,7 @@
 										      (NP-SBJ (Q-N jafnmargir) (NS-N menn))
 										      (NP-OB1 (ONE-D einum) (N-D manni))))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.575))
 
 ( (IP-MAT (BEDI Var)
 	  (ADVP-TMP (ADV nú))
@@ -9671,7 +9671,7 @@
 		  (N-N ok))
 	  (ADVP (ADV svo))
 	  (VBN fallinn)
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.576))
 
 ( (IP-MAT (IP-MAT (ADVP-TMP (ADV Nú))
 		  (VBPI hamast)
@@ -9685,7 +9685,7 @@
 	  (PP (P í)
 	      (NP (N-A skjöld)
 		  (NP-POS (PRO-G hans))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.577))
 
 ( (IP-MAT (IP-MAT (NP-OB1 (D-N Þat) (N-N högg))
 		  (VBDI skaðaði)
@@ -9695,7 +9695,7 @@
 	  (CONJP (CONJ en)
 		 (IP-MAT (NP-SBJ (NPR-A Hrana))
 			 (NP-OB1 (Q-A ekkert))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.578))
 
 ( (IP-MAT (IP-MAT (NP-SBJ (NPR-N Hrani))
 		  (VBDI hjó)
@@ -9719,7 +9719,7 @@
 			 (, ,)
 			 (PP (P til)
 			     (NP (NPR-G Hrana)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.579))
 
 ( (IP-MAT (NP-SBJ (D-N Þat) (N-N högg))
 	  (VBDI lenti)
@@ -9737,7 +9737,7 @@
 				     (IP-SUB (NEG eigi)
 					     (VBDI særðist)
 					     (NP-SBJ (PRO-N hann)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.580))
 
 ( (IP-MAT (CONJ En)
 	  (PP (P með)
@@ -9772,7 +9772,7 @@
 			  (PP (P svo)
 			      (CP-ADV (IP-SUB (NP-SBJ (PRO-N hann))
 					      (VBDI féll))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.581))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI sækja)
@@ -9782,7 +9782,7 @@
 	  (Q-N allir)
 	  (PP (P í)
 	      (ADVP (ADV senn)))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.582))
 
 ( (IP-MAT (CONJ en)
 	  (NP-SBJ (PRO-N hann))
@@ -9790,7 +9790,7 @@
 	  (ADVP (ADV vel))
 	  (NP-OB1 (N-A ok))
 	  (ADVP (ADV drengiliga))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.583))
 
 ( (IP-MAT (VBPI Drepr)
 	  (NP-SBJ (PRO-N hann))
@@ -9817,7 +9817,7 @@
 			  (PP (P í)
 			      (NP (NS-A herðar)))
 			  (RP niðr)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.584))
 
 ( (IP-MAT (VBDI Féll)
 	  (NP-SBJ (PRO-N hann))
@@ -9835,7 +9835,7 @@
 			 (NP-OB1 (NPR-G Hrana))
 			 (PP (P um)
 			     (NP (N-A líf)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.585))
 
 ( (IP-MAT (BEDI Var)
 	  (NP-SBJ (PRO-N þat))
@@ -9847,7 +9847,7 @@
 		  (IP-SUB (ADVP-TMP (ADVR fyrr))
 			  (BEDI var)
 			  (VAN getit)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.586))
 
 ( (IP-MAT (IP-MAT (BEDI Var)
 		  (ADVP-TMP (ADV nú))
@@ -9857,7 +9857,7 @@
 	  (CONJP (CONJ en)
 		 (IP-MAT (ADJP (NP-MSR (Q lítt))
 			       (ADJ-N sárr))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.587))
 
 ( (IP-MAT (VBPI Hvílist)
 	  (NP-SBJ (PRO-N hann))
@@ -9874,7 +9874,7 @@
 			  (PP (P um)
 			      (NP (N-A fall)
 				  (NP-POS (NPR-G Gauta))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.588))
 
 ( (IP-MAT (LS (LS (NUM-N 6))
 	      (NUM-N .))
@@ -9882,7 +9882,7 @@
 	  (VBPI fekkst)
 	  (PP (P við)
 	      (NP (NPR-A Nípu)
-		  (NP-PRN (N-A tröllkonu))))))
+		  (NP-PRN (N-A tröllkonu))))) (ID 1824.HRANA.NAR-SAG,.589))
 
 ( (IP-MAT (ADVP-TMP (NP-MSR (Q-D Litlu))
 		    (ADVR síðar))
@@ -9891,7 +9891,7 @@
 		  (NP-PRN (N-N krókr)))
 	  (PP (P með)
 	      (NP (ADJ-A fjórða) (N-A mann)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.590))
 
 ( (IP-MAT (HVDI Hafði)
 	  (NP-SBJ (PRO-N hann))
@@ -9904,7 +9904,7 @@
 			  (MDDS mundi)
 			  (NP-OB1 (N-G liðs))
 			  (VB þurfa)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.591))
 
 ( (IP-MAT (RDDI Varð)
 	  (ADVP-TMP (ADV nú))
@@ -9930,7 +9930,7 @@
 					      (NP (N-D afli)))
 					  (N21 ok)
 					  (VBDI fimleik)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.592))
 
 ( (IP-MAT (BEDI Var)
 	  (ADVP-TMP (ADV nú))
@@ -9946,7 +9946,7 @@
 		      (PP (P af)
 			  (NP (PRO-D honum)))
 		      (NP-OB1 (N-A höfuð)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.593))
 
 ( (IP-MAT (ADVP (ADV Svo))
 	  (VBDI dysjuðu)
@@ -9973,14 +9973,14 @@
 			     (NP (NPRS-G Helgastaða)))
 			 (PP (P með)
 			     (NP (NS-A viðarhlössin)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.594))
 
 ( (IP-MAT (VBDI Ræmdist)
 	  (NP-SBJ (D-N þetta))
 	  (ADVP-LOC (ADV víða))
 	  (PP (P um)
 	      (NP (NS-A sveitir)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.595))
 
 ( (IP-MAT (NEG Eigi)
 	  (BEPI er)
@@ -10000,14 +10000,14 @@
 						    (NP-OB1 (N-A frændr) (N-A mjök))
 						    (ADJP (ADJ-A nána)
 							  (NP (PRO-D sér))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.596))
 
 ( (IP-MAT (PP (ADVP (ADV Þar))
 	      (P með))
 	  (BEDI var)
 	  (NP-SBJ (PRO-N hann))
 	  (NP-PRD (N-N ok) (ADJ-N óvinsæll) (N-N mjök))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.597))
 
 ( (IP-MAT (VBDI Sat)
 	  (ADVP-TMP (ADV nú))
@@ -10022,17 +10022,17 @@
 		      (NEG eigi)
 		      (PP (P til)
 			  (NP (NS-G tíðenda))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.598))
 
 ( (IP-MAT (NP-SBJ (NPR-N Helgi))
 	  (BEDI var)
 	  (NP-PRD (QS-N mesti) (N-N búsýslumaðr))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.599))
 
 ( (IP-MAT (VBDI Átti)
 	  (NP-SBJ (PRO-N hann))
 	  (NP-OB1 (ADJ-A gott) (N-A bú) (N-A ok) (N-A fé) (Q-A margt))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.600))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (HVDI hafði)
@@ -10041,7 +10041,7 @@
 	  (PP (P fyrir)
 	      (PP (P austan)
 		  (NP (NPR-A Skjálfandafljót))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.601))
 
 ( (IP-MAT (NP-TMP (ONE-A Eitt) (N-A sumar))
 	  (VBDI bar)
@@ -10064,7 +10064,7 @@
 						  (NP-SBJ (NP-SBJ (N-N dagrinn))
 							  (VBI ok)
 							  (NP (N-A nóttin))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.602))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI láta)
@@ -10083,7 +10083,7 @@
 						 (Q-A allt)
 						 (ADVP-DIR (ADV heim))
 						 (VBN komit))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.603))
 
 ( (IP-MAT (VBPI Undrast)
 	  (ADVP-TMP (ADV nú))
@@ -10099,7 +10099,7 @@
 			      (IP-INF-PRP (TO at)
 					  (VB leita)
 					  (NP-OB1 (PRO-G hans)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.604))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þeir))
 	  (VBDI fóru)
@@ -10128,7 +10128,7 @@
 		      (IP-INF-PRP (TO at)
 				  (VB gæta)
 				  (NP-OB1 (N-G fjárins))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.605))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBDI leið)
@@ -10153,7 +10153,7 @@
 						      (ADVP (ADVR heldr)
 							    (PP (P en)
 								(CP-CMP (IP-SUB (NP-SBJ (D-N inn) (ADJR-N fyrri))))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.606))
 
 ( (IP-MAT (NP-MSR (ADV Stórum))
 	  (VBPI undrar)
@@ -10188,7 +10188,7 @@
 						   (NP (PRO-G þá)))
 					       (PP (P um)
 						   (NP (N-A hríð))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.607))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI ferr)
@@ -10205,7 +10205,7 @@
 			      (NP-SBJ (Q-N neitt))
 			      (PP (P til)
 				  (NP (NS-G tíðenda))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.608))
 
 ( (IP-MAT (NP-TMP (ONE-A Eitt) (N-A kvöld))
 	  (VBDI rekr)
@@ -10223,12 +10223,12 @@
 		    (CP-REL (C sem)
 			    (IP-SUB (VBPI hættir)
 				    (NP-SBJ (N-D rekstrinum)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.609))
 
 ( (IP-MAT (VBPI Sækir)
 	  (NP-SBJ (PRO-N hann))
 	  (NP-OB1 (ADJ-A svefn) (N-D mjök))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.610))
 
 ( (IP-MAT (VBPI Kemr)
 	  (NP-SBJ (PRO-D honum))
@@ -10249,7 +10249,7 @@
 					      (NP-OB1 (D-A þetta))
 					      (PP (P af)
 						  (NP (PRO-D sér))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.611))
 
 ( (IP-MAT (CONJ En)
 	  (CP-ADV (C sem)
@@ -10269,7 +10269,7 @@
 				      (NP (N-D ysi)
 					  (NP-COM (N-A ok)
 						  (QP (N-D þysi) (Q-D miklum))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.612))
 
 ( (IP-MAT (VBPI Rennr)
 	  (ADVP-TMP (ADV nú))
@@ -10290,13 +10290,13 @@
 					  (VBPI hleypr)
 					  (PP (P eftir)
 					      (NP (N-D fénu)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.613))
 
 ( (IP-MAT (VBPI Nálgast)
 	  (ADVP-TMP (ADV nú))
 	  (NP-SBJ (D-N þetta))
 	  (ADVP (ADV skjótt))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.614))
 
 ( (IP-MAT-SPE (BEPI Er)
 	      (NP-OB1 (VAN þat))
@@ -10304,7 +10304,7 @@
 			  (VB sjá)
 			  (IP-SMC-SPE (NP-SBJ (NS-A tröllskessa))
 				      (ADJP (ADJ-A ferlig))))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.615))
 
 ( (IP-MAT (IP-MAT (VBPI Stígr)
 		  (NP-SBJ (PRO-N hún))
@@ -10315,7 +10315,7 @@
 	  (CONJP (CONJ en)
 		 (IP-MAT (NP-SBJ (NS-N þjóhnappar))
 			 (VBPI berir)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.616))
 
 ( (IP-MAT (N-N Ok)
 	  (CP-ADV (C er)
@@ -10344,7 +10344,7 @@
 		      (VB bíða)
 		      (NP-OB1 (PRO-G mín)))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.617))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hringr))
 	  (VBDI mælti)
@@ -10365,7 +10365,7 @@
 						     (NP-SBJ (NS-N hýbýli)
 							     (NP-POS (PRO-N þín)))))))
 	  (. ?)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.618))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hún))
 	  (VBPI segir)
@@ -10378,7 +10378,7 @@
 		      (IP-INF-SPE (NP-OB1 (PRO-A þat))
 				  (TO at)
 				  (VB vita)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.619))
 
 ( (IP-MAT-SPE (NEG Ek)
 	      (VBPS heiti)
@@ -10396,7 +10396,7 @@
 					      (NP-POS (PRO-G okkar))))
 				      (PP (P í)
 					  (NP (N-D kör)))))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.620))
 
 ( (IP-MAT-SPE (IP-MAT-SPE (BEPI Er)
 			  (NP-SBJ (PRO-N ek))
@@ -10408,7 +10408,7 @@
 					 (NP-POS (PRO-G okkar)))
 				 (BEPI er)
 				 (ADJP (ADJ-N dauð))))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.621))
 
 ( (IP-MAT (NP-SBJ (NPRS-N Atsetr))
 	  (VBPI eigum)
@@ -10417,7 +10417,7 @@
 	      (NP (NPR-D Fljótsdal)))
 	  (ADVP-LOC (ADV hér))
 	  (RP fram)
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.622))
 
 ( (IP-MAT (IP-IMP-SPE (HVPI Höfum)
 		      (NP-OB1 (N-A vit))
@@ -10437,7 +10437,7 @@
 			      (PP (P á)
 				  (NP (NS-D haustum)))
 			      (NP-OB1 (N-A fé) (N21 ok) (N22 hross)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.623))
 
 ( (IP-MAT-SPE (HVPI Hefi)
 	      (NP-SBJ (PRO-N ek))
@@ -10462,7 +10462,7 @@
 						      (NP (N-G snæðu)))
 						  (PP (P á)
 						      (NP (N-A morgun))))))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.624))
 
 ( (IP-MAT-SPE (IP-MAT-SPE (HVPI Hefir)
 			  (ADVP (ADV þó))
@@ -10491,7 +10491,7 @@
 								   (ADV eftir)
 								   (IP-SMC-SPE (ADJP (ADV ólifat))))))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.625))
 
 ( (IP-MAT (PP (P At)
 	      (IP-SMC (NP-SBJ (PRO-D því))
@@ -10500,7 +10500,7 @@
 	  (NP-SBJ (PRO-N hún))
 	  (PP (P á)
 	      (NP (NPR-D Hrana)))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.626))
 
 ( (IP-MAT (CONJ en)
 	  (NP-SBJ (PRO-N hann))
@@ -10511,7 +10511,7 @@
 	      (NP (PRO-A hana)))
 	  (PP (P undir)
 	      (NP (NS-D höndum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.627))
 
 ( (IP-MAT (VBDI Þrýsti)
 	  (NP-SBJ (PRO-N hún))
@@ -10530,7 +10530,7 @@
 					 (ADJP-LOC (ADJ-N nær) (N-N aflvana))
 					 (PP (P fyrir)
 					     (NP (PRO-D henni)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.628))
 
 ( (IP-MAT (ADJS-N Verst)
 	  (NP-SBJ (PRO-N hann))
@@ -10563,7 +10563,7 @@
 										  (CP-REL (C er)
 											  (IP-SUB (ADVP-LOC (ADV þar))
 												  (VBDI stóð)))))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.629))
 
 ( (IP-MAT (NP-OB1 (PRO-A Þat))
 	  (VBPI finnr)
@@ -10576,7 +10576,7 @@
 			      (NP-OB1 (PRO-D honum))
 			      (PP (P á)
 				  (NP (N-A steininn)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.630))
 
 ( (IP-MAT (NP-LFD (N-N Ok)
 		  (CP-ADV (C er)
@@ -10603,7 +10603,7 @@
 	  (NP-OB1 (N-D bakinu))
 	  (PP (P við)
 	      (NP (N-D steininum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.631))
 
 ( (IP-MAT (VBPI Neytir)
 	  (NP-SBJ (PRO-N hann))
@@ -10620,7 +10620,7 @@
 	      (N-A ok))
 	  (VBPI hryggbrýtr)
 	  (NP-OB1 (PRO-A hana))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.632))
 
 ( (IP-MAT (ADVP-TMP (ADV Þá))
 	  (VBPI segir)
@@ -10644,7 +10644,7 @@
 						     (NP (ONE-D einum) (N-D manni)))
 					      (VAN drepnar)
 					      (RD verða))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.633))
 
 ( (IP-MAT-SPE (CP-ADV-SPE (IP-SUB-SPE (HVPI Hefir)
 				      (NP-SBJ (PRO-N þú))
@@ -10658,7 +10658,7 @@
 	      (NP-OB1 (N-A hrós))
 	      (HV hafa)
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.634))
 
 ( (IP-MAT (MDPI Vill)
 	  (ADVP-TMP (ADV nú))
@@ -10668,7 +10668,7 @@
 	  (NP-MSR (ADVR lengr))
 	  (NP-OB1 (N-A raus)
 		  (NP-POS (PRO-G hennar)))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.635))
 
 ( (IP-MAT (CONJ en)
 	  (MDDI gat)
@@ -10691,7 +10691,7 @@
 						      (NP-SBJ (PRO-N hann))
 						      (VB hræra)
 						      (NP-ADT (FP nema) (NS-D höndum))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.636))
 
 ( (IP-MAT (VBPI Brýst)
 	  (NP-SBJ (PRO-N hann))
@@ -10702,7 +10702,7 @@
 	      (P til)
 	      (CP-ADV (IP-SUB (NP-SBJ (PRO-N hann))
 			      (VBPI losnar))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.637))
 
 ( (IP-MAT (HVPI Hefir)
 	  (NP-SBJ (PRO-N hún))
@@ -10712,7 +10712,7 @@
 	      (NP (PRO-D honum)))
 	  (NP-OB1 (NS-A klæði)
 		  (NP-POS (PRO-G hans)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.638))
 
 ( (IP-MAT (CONJ Ok)
 	  (ADVP-TMP (ADV nú))
@@ -10732,7 +10732,7 @@
 						    (PP (P í)
 							(NP (N-D tuski)
 							    (NP-POS (PRO-G þeirra)))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.639))
 
 ( (IP-MAT (VBI Grípr)
 	  (NP-SBJ-RSP (PRO-N hann))
@@ -10769,7 +10769,7 @@
 					      (IP-SUB (PP (P úr)
 							  (NP (PRO-D honum)))
 						      (VBDI gaus))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.640))
 
 ( (IP-MAT (CONJ En)
 	  (PP (P eftir)
@@ -10782,7 +10782,7 @@
 		      (IP-SUB (ADVP-TMP (ADV þá))
 			      (VBPI stirðr)
 			      (NP-OB1 (N-A mjök)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.641))
 
 ( (IP-MAT (VBPI Gengr)
 	  (NP-SBJ (PRO-N hann))
@@ -10792,12 +10792,12 @@
 		  (NP-SBJ (N-A selit) (N-A ok)))
 	      (VBPI leggst)
 	      (RP niðr))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.642))
 
 ( (META (NP (LS (NUM-N 7))
 	    (NUM-N .))
 	(NP (N-N Heimkoma)
-	    (NP-POS (NPR-G Hrana)))))
+	    (NP-POS (NPR-G Hrana)))) (ID 1824.HRANA.NAR-SAG,.643))
 
 ( (IP-IMP (PP (P Um)
 	      (NP (N-A morguninn)))
@@ -10840,7 +10840,7 @@
 				  (ADVP-TMP (ADV þegar))
 				  (PP (P fyrir)
 				      (NP (N-A rismál))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.644))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI liggr)
@@ -10848,13 +10848,13 @@
 	  (PP (NP-MSR (Q-N allt))
 	      (P til)
 	      (NP (N-G hádegis)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.645))
 
 ( (IP-MAT (ADVP-TMP (ADV Svo))
 	  (VBPI ríss)
 	  (NP-SBJ (PRO-N hann))
 	  (RP upp)
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.646))
 
 ( (IP-MAT (VBPI Sjá)
 	  (NP-SBJ (PRO-N þær))
@@ -10865,7 +10865,7 @@
 		  (VAN-A rifin)
 		  (PP (P í)
 		      (ADVP (N-A sundr))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.647))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI lætr)
@@ -10888,7 +10888,7 @@
 		  (CONJP (IP-SUB (VBPI finnr)
 				 (ADVP-TMP (ADV nú))
 				 (NP-OB1 (NPR-A Helga)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.648))
 
 ( (IP-MAT (VBPI Fagnar)
 	  (NP-SBJ (N-N bóndi))
@@ -10897,7 +10897,7 @@
 	  (NP-OB1 (N-A ok))
 	  (ADJP-SPR (ADJ-N spyrr)
 		    (NP-POS (NS-G tíðenda)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.649))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBPI segir)
@@ -10911,7 +10911,7 @@
 						  (NP-PRN (NPR-G Nípu)
 							  (N-G ok)
 							  (NP-POS (PRO-G sín)))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.650))
 
 ( (IP-MAT (VBPI Þykkir)
 	  (NP-SBJ (NPR-N Helga))
@@ -10924,7 +10924,7 @@
 	      (NP (Q-D mörgum) (ADJ-D fögrum) (NS-D orðum)))
 	  (NP-OB1 (N-A framgöngu)
 		  (NP-POS (PRO-A sína)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.651))
 
 ( (IP-MAT (VBDI Sýndi)
 	  (NP-SBJ (NPR-N Hrani))
@@ -10952,7 +10952,7 @@
 					      (NP (NS-A hnykla)))
 					  (ADV saman)
 					  (N22 hlaupit))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.652))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (BEPI er)
@@ -10967,7 +10967,7 @@
 			      (RD verða)
 			      (PP (P í)
 				  (NP (NPR-D Króksseli)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.653))
 
 ( (IP-MAT (BEPI Er)
 	  (ADVP (ADV svo))
@@ -10975,7 +10975,7 @@
 	  (ADVP-DIR (ADV heim))
 	  (PP (P ór)
 	      (NP (N-D selinu)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.654))
 
 ( (IP-IMP-SPE (VBPI Berr)
 	      (ADVP-TMP (ADV nú))
@@ -10985,7 +10985,7 @@
 	      (PP (PP (P at)
 		      (NP (NP-POS (PRO-D sinni))))
 		  (NP-MSR (ADVR framar)))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.655))
 
 ( (IP-MAT (CONJ En)
 	  (PP (P um)
@@ -10995,7 +10995,7 @@
 	  (PP (P í)
 	      (NP (NS-A fjallgöngur)))
 	  (CONJP (NP (N-A ok) (N-D fjárleit)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.656))
 
 ( (IP-MAT (BEPI Er)
 	  (ADVP-LOC (ADV þar))
@@ -11003,7 +11003,7 @@
 	  (ADJP (ONE-N einn))
 	  (PP (P með)
 	      (NP (OTHER-D öðrum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.657))
 
 ( (IP-MAT (LS (LS (NUM-N 8))
 	      (NUM-N .))
@@ -11011,13 +11011,13 @@
 		  (NP-PRN (NPR-N Hrani)))
 	  (VBDI unnu)
 	  (PP (P á)
-	      (NP (NS-D tröllum)))))
+	      (NP (NS-D tröllum)))) (ID 1824.HRANA.NAR-SAG,.658))
 
 ( (IP-MAT (NP-SBJ (N-N Maðr))
 	  (BEPI er)
 	  (VAN nefndr)
 	  (NP-PRD (NPR-N Sölvi))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.659))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI bjó)
@@ -11025,7 +11025,7 @@
 	      (NP (NPRS-D Stóruvöllum)
 		  (PP (P í)
 		      (NP (NPR-D Bárðardal)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.660))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI átti)
@@ -11034,7 +11034,7 @@
 		  (CP-REL (C er)
 			  (IP-SUB (NP-PRD (NPR-N Einarr))
 				  (VBDI hét))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.661))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (BEDI var)
@@ -11046,7 +11046,7 @@
 				  (IP-SUB (ADVP-LOC (ADV þar))
 					  (VBDI uxu)
 					  (RP upp)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.662))
 
 ( (IP-MAT (ADVP-TMP (ADV Þá))
 	  (VBDI bjó)
@@ -11055,7 +11055,7 @@
 	      (NP (NPRS-D Hofgörðum)
 		  (PP (P í)
 		      (NP (NPR-D Rangárdal)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.663))
 
 ( (IP-MAT (NP-SBJ (NP-POS (PRO-G Hans))
 		  (N-N sonr))
@@ -11066,7 +11066,7 @@
 		  (NP-PRN (Q-N mikill)
 			  (N-N maðr)
 			  (ADJP (N-N ok) (ADJ-N sterkr))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.664))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI gekk)
@@ -11082,7 +11082,7 @@
 			      (ADVP (ADV vel))
 			      (PP (P með)
 				  (NP (PRO-D þeim))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.665))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI fór)
@@ -11091,7 +11091,7 @@
 	      (NP (N-A fjárleit)))
 	  (PP (P með)
 	      (NP (D-D hinum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.666))
 
 ( (IP-MAT (VBPI Fylgjast)
 	  (NP-SBJ (PRO-N þeir))
@@ -11110,7 +11110,7 @@
 		  (IP-INF (TO at)
 			  (VB ganga)
 			  (NP-DIR (NPR-A Fljótsdal))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.667))
 
 ( (IP-MAT (CP-ADV (C Sem)
 		  (IP-SUB (NP-SBJ (PRO-N þeir))
@@ -11134,7 +11134,7 @@
 				(VBDI sá)
 				(PP (P frá)
 				    (NP (PRO-D sér))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.668))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBPI segir)
@@ -11157,7 +11157,7 @@
 					      (IP-SUB-SPE (NP (NS-D höndum))
 							  (VBPI kemr)))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.669))
 
 ( (IP-MAT (NP-OB1 (N-A Ok))
 	  (ADVP (ADV svo))
@@ -11182,7 +11182,7 @@
 			 (ADVP-TMP (ADV svo))
 			 (PP (ADVP (ADV þar))
 			     (P at))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.670))
 
 ( (IP-MAT (N-N Ok)
 	  (CP-ADV (C er)
@@ -11196,7 +11196,7 @@
 	  (VBPI ferr)
 	  (NP-SBJ (NPR-N Einarr))
 	  (IP-INF (TO at) (VB líta) (RP út))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.671))
 
 ( (IP-MAT (VBPI Sér)
 	  (NP-SBJ (PRO-N hann))
@@ -11225,7 +11225,7 @@
 									 (PP (P at)
 									     (NP (N-D byrgi)
 										 (NP-POS (PRO-G þeirra))))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.672))
 
 ( (IP-MAT (IP-MAT (NP-SBJ (PRO-N Hann))
 		  (VBPI segir)
@@ -11244,7 +11244,7 @@
 			 (NP-SBJ (D-N hinir) (NUM-N tveir))
 			 (PP (P með)
 			     (NP (PRO-D honum)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.673))
 
 ( (IP-MAT (IP-MAT (PP (P Í)
 		      (NP (D-D þessu)))
@@ -11263,7 +11263,7 @@
 			 (VBPI snýr)
 			 (PP (P at)
 			     (NP (NPR-D Einari)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.674))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (BEPI er)
@@ -11279,7 +11279,7 @@
 			  (IP-SUB (NP-SBJ (PRO-N þau))
 				  (VBPI sviptast)
 				  (NP-MSR (ADV lengi)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.675))
 
 ( (IP-MAT (VBPI Finnr)
 	  (NP-SBJ (PRO-N hann))
@@ -11291,7 +11291,7 @@
 				  (NP-MSR (Q-D miklu))
 				  (QR-A meira))
 			  (NP-OB2 (D-D hinni))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.676))
 
 ( (IP-MAT (VBPI Bregðr)
 	  (NP-SBJ (PRO-N hann))
@@ -11311,7 +11311,7 @@
 			      (PP (ADV ofan)
 				  (P á)
 				  (NP (PRO-D henni))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.677))
 
 ( (IP-MAT-SPE (HVPI Hefir)
 	      (NP-SBJ (PRO-N hann))
@@ -11351,7 +11351,7 @@
 										       (ADJP-SPR (ADJ-D föstum))
 										       (PP (P at)
 											   (NP (PRO-D sér)))))))))))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.678))
 
 ( (IP-MAT (IP-SUB (MDPI Getr)
 		  (NP-SBJ (PRO-N hann))
@@ -11377,7 +11377,7 @@
 				  (NP-OB1 (D-D hinum) (Q-D báðum))
 				  (PP (P undir)
 				      (NP (N-A sik))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.679))
 
 ( (IP-MAT (NP-SBJ (NPR-N Grípr) (PRO-N hann))
 	  (ADVP-TMP (ADV nú))
@@ -11420,7 +11420,7 @@
 						     (NP (PRO-D sér)))
 						 (PP (P um)
 						     (NP (N-A stund))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.680))
 
 ( (IP-MAT (CONJ En)
 	  (NP-SBJ (NPR-N Einarr))
@@ -11450,7 +11450,7 @@
 		      (BEDI var)
 		      (NP-SBJ (PRO-N hann))
 		      (ADJP (ADJ-N dauðr)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.681))
 
 ( (IP-MAT (VBPI Ferr)
 	  (ADVP-TMP (ADV nú))
@@ -11468,13 +11468,13 @@
 			  (NP-SBJ (PRO-N hann))
 			  (ADVP-TMP (ADV þá))
 			  (RP við)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.682))
 
 ( (IP-MAT (BEDI Var)
 	  (NP-SBJ (PRO-D honum))
 	  (IP-SMC (NP-SBJ (N-N mjök))
 		  (ADJP (ADJ-N óþægt)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.683))
 
 ( (IP-MAT (VBPI Sækir)
 	  (ADVP-TMP (ADV nú))
@@ -11483,14 +11483,14 @@
 			  (NP-PRN (N-A ok)))
 		  (N-A gefr)
 		  (NP-COM (PRO-D honum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.684))
 
 ( (IP-MAT (ADVP (ADV Svo))
 	  (VBPI batnar)
 	  (NP-SBJ (NPR-D Hrana))
 	  (ADVP (ADV smám) (ADV saman))
 	  (NP-OB1 (N-N víman))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.685))
 
 ( (IP-MAT-SPE (VBPI Birtir)
 	      (ADVP-TMP (ADV nú))
@@ -11499,7 +11499,7 @@
 	      (NP-SBJ (N-N ok))
 	      (VBPI kemr)
 	      (NP-SBJ (ADJ-N gott) (N-N veðr))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.686))
 
 ( (IP-MAT (BEDI Vóru)
 	  (NP-SBJ (PRO-N þeir))
@@ -11514,13 +11514,13 @@
 	  (NP-OB1 (N-A ok) (D-A þær))
 	  (PP (P í)
 	      (NP (OTHER-D öðrum) (N-D stað)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.687))
 
 ( (IP-MAT (VBPI Heita)
 	  (ADVP-LOC (ADV þar))
 	  (ADVP-TMP (ADV síðan))
 	  (NP-SBJ (NPRS-N Skessudysjar))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.688))
 
 ( (IP-MAT (PP (P Eftir)
 	      (NP (D-A þetta)))
@@ -11537,7 +11537,7 @@
 			      (NP-SBJ (PRO-N þeir))
 			      (PP (P at)
 				  (NP (NS-D gljúfrum) (Q-D nokkurum)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.689))
 
 ( (IP-MAT (BEDI Var)
 	  (ADVP-LOC (ADV þar))
@@ -11546,7 +11546,7 @@
 	      (N-N ok)
 	      (ADJP (ADJ-N illt)
 		    (NP-POS (N-G atgöngu))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.690))
 
 ( (IP-MAT (VBPI Sjá)
 	  (NP-SBJ (PRO-N þeir))
@@ -11559,7 +11559,7 @@
 				  (RP á)
 				  (PP (P í)
 				      (NP (ONE-D einum) (N-D stað)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.691))
 
 ( (IP-MAT (VBPI Klifra)
 	  (NP-SBJ (PRO-N þeir))
@@ -11567,7 +11567,7 @@
 	  (IP-INF (NP-OB1 (N-A ok))
 		  (VB vaða)
 		  (ADVP-DIR (ADV þangat)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.692))
 
 ( (IP-MAT (CP-ADV (C Er)
 		  (IP-SUB (NP-SBJ (PRO-N þeir))
@@ -11579,7 +11579,7 @@
 	  (NP-SBJ (ADJ-N dyrr) (NS-N ok) (N-N hurð))
 	  (PP (P í)
 	      (NP (NUM-A hálfa) (N-A gátt)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.693))
 
 ( (IP-MAT (VBPI Ganga)
 	  (NP-SBJ (PRO-N þeir))
@@ -11597,7 +11597,7 @@
 			      (ADVP-TMP (ADV enn) (ADV nú))
 			      (NP-OB1 (N21-A dyrr) (N-A ok) (N-A járnhurð))
 			      (RP fyrir))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.694))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI heyra)
@@ -11611,7 +11611,7 @@
 			      (IP-INF (NP-OB1 (SUCH-A þvílíkt))
 				      (VBN heyrt)
 				      (HV hafa)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.695))
 
 ( (IP-MAT (VBPI Leitast)
 	  (NP-SBJ (PRO-N þeir))
@@ -11637,7 +11637,7 @@
 			     (CP-ADV (IP-SUB (NP-SBJ (PRO-N hún))
 					     (VBDI hrökk)
 					     (RP upp))))
-			 (. .)))))
+			 (. .)))) (ID 1824.HRANA.NAR-SAG,.696))
 
 ( (IP-MAT (BEDI Var)
 	  (ADVP-LOC (ADV þar))
@@ -11653,7 +11653,7 @@
 				  (BEDI var)
 				  (PP (ADVP (ADV austan))
 				      (P til)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.697))
 
 ( (IP-MAT (PP (P Í)
 	      (NP (PRO-D því)))
@@ -11666,7 +11666,7 @@
 		      (ADJP (ADJP (ADV næsta) (ADJ-N stórr))
 			    (N-N ok)
 			    (ADJ-N illúðligr)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.698))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBPI spyrr)
@@ -11716,7 +11716,7 @@
 								    (NP-OB1 (N-A höfuð)
 									    (NP-POS (NPR-G Hrana)))))))))
 	  (. ?)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.699))
 
 ( (IP-MAT (NP (PRO-A Þat))
 	  (VBDI þóttust)
@@ -11728,7 +11728,7 @@
 				      (MDDS mundi)
 				      (ADJP (ADJ-N blindr))
 				      (BE vera))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.700))
 
 ( (IP-MAT (VBPI Hleypr)
 	  (ADVP-TMP (ADV nú))
@@ -11775,14 +11775,14 @@
 					     (, ,)
 					     (CP-REL (C er)
 						     (IP-SUB (RP fyrir) (RDDI varð))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.701))
 
 ( (IP-MAT (VBDI Drapst)
 	  (NP-SBJ (PRO-N hann))
 	  (ADVP-TMP (ADV svo))
 	  (PP (P um)
 	      (NP (NS-A síðir)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.702))
 
 ( (IP-MAT (VBDI Fór)
 	  (ADVP-TMP (ADV þá))
@@ -11813,7 +11813,7 @@
 									      (MDDI gátu)
 									      (VBN komizt)
 									      (RP með))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.703))
 
 ( (IP-MAT (VBDI Gekk)
 	  (NP-SBJ (PRO-D þeim))
@@ -11821,7 +11821,7 @@
 	  (IP-INF (ADVP-DIR (ADV þaðan))
 		  (TO at)
 		  (VB fara))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.704))
 
 ( (IP-MAT (VBDI Lágu)
 	  (NP-SBJ (PRO-N þeir))
@@ -11829,7 +11829,7 @@
 	  (ADVP (ADV nærri))
 	  (PP (P um)
 	      (NP (N-A nóttina) (ADV eftir)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.705))
 
 ( (IP-MAT (CONJ En)
 	  (PP (P um)
@@ -11841,7 +11841,7 @@
 	  (PP (P með)
 	      (NP (N-A bagga)
 		  (NP-POS (PRO-A sína))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.706))
 
 ( (IP-MAT (NP (Q-A Enga) (VAG-A lifandi) (N-A skepnu))
 	  (VBPI sjá)
@@ -11853,7 +11853,7 @@
 		  (VBDI gengu)
 		  (ADVP-TMP (ADV síðan))
 		  (ADVP-DIR (ADV heim)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.707))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI segja)
@@ -11864,7 +11864,7 @@
 	  (PP (P frá)
 	      (NP (NS-D ferðum)
 		  (NP-POS (PRO-D sínum))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.708))
 
 ( (IP-MAT (VBDI Þótti)
 	  (NP-SBJ (Q-D öllum) (NS-D mönnum))
@@ -11874,7 +11874,7 @@
 	  (IP-PPL (VAN-D lofuðu)
 		  (NP-OB1 (N-A hreysti)
 			  (NP-POS (NPR-G Hrana))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.709))
 
 ( (IP-MAT (NP-OB1 (Q-A Mikit) (N-A fé))
 	  (VBDI vantaði)
@@ -11899,7 +11899,7 @@
 					      (NEG eigi)
 					      (ADJP (ADJ-N varir))
 					      (RP við))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.710))
 
 ( (IP-MAT (VBPI Líðr)
 	  (ADVP-TMP (ADV nú))
@@ -11911,11 +11911,11 @@
 			  (ADJP (ADJ-N berr))
 			  (PP (P til)
 			      (NP (NS-G tíðenda)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.711))
 
 ( (META (NP (NUM-N 9) (NUM-N .))
 	(NP (N-N Draumr)
-	    (NP-POS (NPR-N Hrana)))))
+	    (NP-POS (NPR-N Hrana)))) (ID 1824.HRANA.NAR-SAG,.712))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú)
 		    (CP-REL (C sem)
@@ -11942,7 +11942,7 @@
 					      (NP-PRN-ELAB (NP-PRN (NS-G höfðingja))
 							   (CONJP (NP (NP-MSR (N-A ok))
 								      (N-A siðferði))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.713))
 
 ( (IP-MAT (NP-SBJ (ES Þat))
 	  (BEDI var)
@@ -11973,12 +11973,12 @@
 					      (NP (N-D túni)))
 					  (PP (P á)
 					      (NP (NPRS-D Helgastöðum)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.714))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBPI lítr)
 	  (NP-OB1 (N-A mann) (ADJ-A gamlan))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.715))
 
 ( (IP-MAT (CONJ en)
 	  (PP (P þó)
@@ -11994,7 +11994,7 @@
 			  (VB spyrja)
 			  (PP (P at)
 			      (NP (N-D nafni)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.716))
 
 ( (IP-MAT (NP-SBJ (N-N Komumaðr))
 	  (VBPI tekr)
@@ -12005,7 +12005,7 @@
 	  (VBPI kveðst)
 	  (IP-INF (NP-PRD (NPR-N Þórir))
 		  (VB heita))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.717))
 
 ( (IP-MAT-SPE (" ")
 	      (ADJP (ADJ-N Óspurt))
@@ -12025,7 +12025,7 @@
 				  (BEPI ert)
 				  (NP-PRD (N-N dóttursonr)
 					  (NP-POS (PRO-N minn)))))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.718))
 
 ( (CP-QUE (VBI Stendr)
 	  (NP-SBJ (PRO-N þú))
@@ -12055,7 +12055,7 @@
 						     (NP-MSR (ADVR framar)
 							     (PP (P en)
 								 (CP-CMP (IP-SUB (VBN komit) (BEPI er)))))))))))
-	  (. ?)))
+	  (. ?)) (ID 1824.HRANA.NAR-SAG,.719))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV Nú))
 	      (BEPI er)
@@ -12088,7 +12088,7 @@
 																 (NP (N-G frægðar)))
 															     (VB vinna))))))))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.720))
 
 ( (IP-MAT (NP (CONJ Ok))
 	  (RDDI urðu)
@@ -12097,50 +12097,50 @@
 	  (NP (NS-N ljóð))
 	  (PP (P af)
 	      (NP (N-D munni)))
-	  (. :)))
+	  (. :)) (ID 1824.HRANA.NAR-SAG,.721))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N Þér))
 	      (RDPI verðr)
 	      (ADVP-LOC (ADV frami))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.722))
 
-( (IP-MAT (VBDI Farðu) (. ,)))
+( (IP-MAT (VBDI Farðu) (. ,)) (ID 1824.HRANA.NAR-SAG,.723))
 
 ( (IP-MAT (VBPI fljótr)
 	  (PP (P at)
 	      (NP (NP-POS (N-G hildar))
 		  (NS-D mótum)))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.724))
 
 ( (FRAG (NP (NS-N Fjörgynjar))
 	(PP (P frá)
-	    (NP (N-D ofbergi)))))
+	    (NP (N-D ofbergi)))) (ID 1824.HRANA.NAR-SAG,.725))
 
 ( (IP-MAT (VBPI flotnum)
 	  (PP (P á)
 	      (NP (NS-A byrgota)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.726))
 
-( (QTP (NP (FW Herteits) (ADJ-N harða) (N-N snæra))))
+( (QTP (NP (FW Herteits) (ADJ-N harða) (N-N snæra))) (ID 1824.HRANA.NAR-SAG,.727))
 
 ( (QTP (NP (CONJ ok)
 	   (N-N hryðja)
 	   (NP-POS (NP-POS (PRO-G þíns))
-		   (N-G tugviðar)))))
+		   (N-G tugviðar)))) (ID 1824.HRANA.NAR-SAG,.728))
 
 ( (IP-MAT (VBPI fellir)
 	  (NP-OB1 (NP-POS (NS-G sæmána))
-		  (N-A fjallit))))
+		  (N-A fjallit))) (ID 1824.HRANA.NAR-SAG,.729))
 
 ( (IP-MAT (NP-SBJ (NS-G fólka))
 	  (RP á)
 	  (VBDI þóftu)
 	  (NP (NS-D kjálkum))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.730))
 
 ( (IP-MAT (NP-OB1 (FW Illvættum))
 	  (HVPI hefir)
-	  (VBN hallat)))
+	  (VBN hallat)) (ID 1824.HRANA.NAR-SAG,.731))
 
 ( (QTP (NP (N-N hreysti)
 	   (NP-POS (PRO-N þín)))
@@ -12148,39 +12148,39 @@
        (NP-VOC (NS-N börr)
 	       (NP-POS (N-G ljóss)
 		       (NP-POS (NPR-G Rínar))))
-       (. .)))
+       (. .)) (ID 1824.HRANA.NAR-SAG,.732))
 
 ( (CODE (NP (NP-POS (NPR-G Galta) (N-G hels))
 	    (N-A gin))
 	(PP (P í)
-	    (NP (NS-A veltir)))))
+	    (NP (NS-A veltir)))) (ID 1824.HRANA.NAR-SAG,.733))
 
 ( (IP-MAT (CONJ ok)
 	  (VBDI glópum)
 	  (NP-OB1 (PRO-D þeim))
 	  (PP (P með)
 	      (NP (N-D hljópu)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.734))
 
 ( (IP-MAT-SPE (NP-OB1 (N-N Ágang))
 	      (MDPI mun)
 	      (ADVP (ADVR eins))
-	      (NP-SBJ (NS-D víkingum))))
+	      (NP-SBJ (NS-D víkingum))) (ID 1824.HRANA.NAR-SAG,.735))
 
 ( (IP-MAT (VBPI orka)
 	  (NP-OB2 (NPR-D Hrani))
-	  (NP-OB1 (N-A bana))))
+	  (NP-OB1 (N-A bana))) (ID 1824.HRANA.NAR-SAG,.736))
 
 ( (IP-MAT (VBPI bandgoðs)
 	  (PP (P í)
-	      (NP (ADJ-D bráðum) (N-D vindi)))))
+	      (NP (ADJ-D bráðum) (N-D vindi)))) (ID 1824.HRANA.NAR-SAG,.737))
 
 ( (IP-MAT (NP-SBJ (CONJ ok))
 	  (VBPI blik)
 	  (NP-SBJ (NP-POS (N-G sjóðs))
 		  (N-N fága)
 		  (Q-N mikit))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.738))
 
 ( (IP-MAT (IP-MAT (PP (P At)
 		      (IP-SMC (ADVP (ADV svo))
@@ -12194,7 +12194,7 @@
 				 (CP-THT (IP-SUB (NP-MSR (N-N ok))
 						 (MDDS mundi)
 						 (NP-SBJ (NS-N vísurnar)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.739))
 
 ( (IP-MAT (VBPI Segir)
 	  (NP-SBJ (PRO-N hann))
@@ -12202,7 +12202,7 @@
 	  (NP-OB2 (NPR-A Helga))
 	  (PP (P frá)
 	      (NP (N-D draumnum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.740))
 
 ( (IP-MAT (NP-SBJ (NPR-N Helgi))
 	  (VBDI mælti)
@@ -12235,7 +12235,7 @@
 										 (PP (P um)
 										     (NP (D-A þessi) (NS-A efni)))))))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.741))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBDI kvaðst)
@@ -12252,7 +12252,7 @@
 				  (PP (P í)
 				      (NP (N-A þat)
 					  (NP-POS (PRO-A sinn)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.742))
 
 ( (IP-MAT (LS (NUM-N 10))
 	  (NUM .)
@@ -12260,7 +12260,7 @@
 		  (NP-PRN (N-N ok) (NPR-N Einarr)))
 	  (VBDI bjuggust)
 	  (PP (P til)
-	      (NP (N-G utanfarar)))))
+	      (NP (N-G utanfarar)))) (ID 1824.HRANA.NAR-SAG,.743))
 
 ( (IP-MAT (CONJ En)
 	  (IP-MAT (PP (NP-MSR (ADJ-D stuttu))
@@ -12310,7 +12310,7 @@
 	  (" ")
 	  (IP-MAT-PRN (VBPI segir)
 		      (NP-SBJ (PRO-N hann)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.744))
 
 ( (IP-MAT (NP-SBJ (NPR-N Egill))
 	  (VBPI svarar)
@@ -12368,7 +12368,7 @@
 								      (NP (PRO-D þér)))))
 							  (VB liggja)
 							  (NP-SBJ (Q-A nokkura) (N-A gæfu)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.745))
 
 ( (IP-MAT-SPE (VBPI Þykkir)
 	      (NP-SBJ (PRO-D mér))
@@ -12385,7 +12385,7 @@
 					  (NP (N-G utanferðar)))
 				      (PP (P með)
 					  (NP (PRO-D þér)))))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.746))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N Þit))
 	      (BEPI eruð)
@@ -12398,7 +12398,7 @@
 			  (CP-ADV-SPE (IP-SUB-SPE (NP-SBJ (Q-D nokkuru))
 						  (BEPS sé)
 						  (IP-INF-SPE (RP at) (MD mæta))))))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.747))
 
 ( (IP-MAT (NP-SBJ (ES Þat))
 	  (BEPI er)
@@ -12444,7 +12444,7 @@
 					      (ADVP (ADV vel))
 					      (RP niðr)
 					      (VBN komit))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.748))
 
 ( (IP-MAT-SPE (CONJ En)
 	      (NP-SBJ (N-N ætlan)
@@ -12468,7 +12468,7 @@
 							     (NP (NPR-G Íslands)))
 							 (VB koma)
 							 (ADVP-TMP (ADV síðan))))))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.749))
 
 ( (IP-MAT-SPE (ADVP-TMP (ADV Nú))
 	      (MDDS vilda)
@@ -12493,7 +12493,7 @@
 								      (PP (P þótt)
 									  (CP-ADV-SPE (IP-SUB-SPE (NEG eigi) (RP aftr) (VBDS kæmir)))))))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.750))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBDI gladdist)
@@ -12505,7 +12505,7 @@
 	  (NP-OB2 (N-D föður)
 		  (NP-POS (PRO-D sínum)))
 	  (ADVP (ADV blíðliga))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.751))
 
 ( (IP-MAT (VBPI Skilja)
 	  (NP-SBJ (PRO-N þeir))
@@ -12513,7 +12513,7 @@
 	  (PP (P at)
 	      (IP-SMC (ADVP (ADV svo))
 		      (VAN-D mæltu)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.752))
 
 ( (IP-MAT (VBPI Ferr)
 	  (ADVP-TMP (ADV nú))
@@ -12531,7 +12531,7 @@
 				      (NP-PRN (NS-A tillögur)
 					      (NP-POS (N-G föður)
 						      (NP-POS (PRO-G síns)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.753))
 
 ( (IP-MAT (NP-SBJ (NPR-D Einari))
 	  (VBDI leizt)
@@ -12544,7 +12544,7 @@
 			      (PP (P með)
 				  (NP (PRO-D honum)))
 			      (VB fara)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.754))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI kemr)
@@ -12588,7 +12588,7 @@
 									  (CONJP (CONJ né)
 										 (IP-SUB (ADVP (ADVR heldr))
 											 (NP-SBJ (NPR-N Einarr))))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.755))
 
 ( (IP-MAT-SPE (" ")
 	      (ADVP-TMP (ADV Þá))
@@ -12614,7 +12614,7 @@
 	      (CP-ADV-SPE (C sem)
 			  (IP-SUB-SPE (NP-SBJ (PRO-N ykkr)
 					      (NP-PRN (NS-D feðgum)))))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.756))
 
 ( (IP-IMP-SPE (RDPI Verðr)
 	      (NP-SBJ (PRO-D mér))
@@ -12646,7 +12646,7 @@
 														(VBDI hreysti)
 														(NP-OB1 (N-A ok))
 														(NP-ADT (NS-D listum))))))))))))
-	      (. ,)))
+	      (. ,)) (ID 1824.HRANA.NAR-SAG,.757))
 
 ( (IP-MAT-SPE (CONJ en)
 	      (ADVP (ADV þó))
@@ -12675,7 +12675,7 @@
 							      (CP-ADV-SPE (C sem)
 									  (IP-SUB-SPE (NP-OB1 (QR-D fleirum) (OTHER-D öðrum)))))))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.758))
 
 ( (IP-MAT-SPE (" ")
 	      (ADVP (ADV Vel))
@@ -12691,7 +12691,7 @@
 	      (IP-PPL-SPE (NP (N-A ok) (ADJ-D slitu))
 			  (ADVP (ADV svo))
 			  (VAN talit))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.759))
 
 ( (META (NP (NP (NUM-N 11))
 	    (NUM-N .))
@@ -12701,7 +12701,7 @@
 	(NP-OB2 (PRO-D sér))
 	(NP-OB1 (N-A far))
 	(PP (P með)
-	    (NP (NPR-D Kaupa-Rauði)))))
+	    (NP (NPR-D Kaupa-Rauði)))) (ID 1824.HRANA.NAR-SAG,.760))
 
 ( (IP-MAT (NP-PRD (ADJ-N Rauðr))
 	  (BEPI er)
@@ -12709,7 +12709,7 @@
 	  (VAN nefndr)
 	  (, ,)
 	  (CONJP (IP-MAT (ADJP (ADJ-N suðreyskr))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.761))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (BEDI var)
@@ -12720,14 +12720,14 @@
 			      (HVDI hafði)
 			      (NP-OB1 (NP-POS (Q-G ýmissa) (NS-G landa))
 				      (N-A vöru)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.762))
 
 ( (IP-MAT (BEDI Var)
 	  (NP-SBJ (PRO-N hann))
 	  (PP (NP (PRO-D því)))
 	  (VAN auknefndr)
 	  (IP-SMC (NP-PRD (NPR-N Kaupa-Rauðr)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.763))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI kom)
@@ -12735,7 +12735,7 @@
 	  (PP (P á)
 	      (NP (NPR-A Skjálfandafjörð)))
 	  (ADVP-TMP (ADV snemma))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.764))
 
 ( (IP-MAT (NP-SBJ (NUM-N Tvö) (NS-N skip))
 	  (VBDI kómu)
@@ -12744,7 +12744,7 @@
 	      (ADVP (ADVR eins)))
 	  (PP (P á)
 	      (NP (NPR-A Eyjafjörð)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.765))
 
 ( (IP-MAT (CONJ En)
 	  (CP-ADV (C sem)
@@ -12761,7 +12761,7 @@
 	  (IP-INF-PRP (TO at)
 		      (VB finna)
 		      (NP-OB1 (NS-A kaupmenn)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.766))
 
 ( (IP-MAT (RDDI Urðu)
 	  (ADVP-TMP (ADV nú))
@@ -12793,7 +12793,7 @@
 				      (NP-OB1 (N-A ok)
 					      (NP-POS (N-G vöru)
 						      (NP-POS (PRO-G hans))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.767))
 
 ( (IP-MAT (VBDI Kómu)
 	  (NP-SBJ (PRO-N þeir)
@@ -12838,7 +12838,7 @@
 										  (NP (N-A ok)))
 									      (NEG eigi)
 									      (ADJP (ADVR svo) (ADJ-N þæglyndir)))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.768))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (DODI gerði)
@@ -12874,7 +12874,7 @@
 					      (VBN skort)
 					      (PP (P á)
 						  (NP (N-D skotsilfri)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.769))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þeir)
 		  (NP-PRN (NPR-N Egill) (CONJ ok) (NPR-N Helgi)))
@@ -12895,14 +12895,14 @@
 		  (ADJ-D góðum)
 		  (NP-POS (N-G hjartans))
 		  (NS-D óskum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.770))
 
 ( (META (NP (NUM-N 12) (NUM-N .))
 	(NP-SBJ (PRO-N Þeir)
 		(NP-PRN (NPR-N Rauðr)))
 	(VBDI kómu)
 	(PP (P til)
-	    (NP (NPR-G Suðreyja)))))
+	    (NP (NPR-G Suðreyja)))) (ID 1824.HRANA.NAR-SAG,.771))
 
 ( (IP-MAT (ADVP-TMP (NP-MSR (ADJ-D Skömmu))
 		    (P eftir)
@@ -12928,7 +12928,7 @@
 			      (NP-SBJ (PRO-N þeir))
 			      (PP (P í)
 				  (NP (N-A haf)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.772))
 
 ( (IP-MAT (CONJ En)
 	  (NP-SBJ (PRO-A þat))
@@ -12942,7 +12942,7 @@
 				      (NP-POS (PRO-G þeirra)))
 			      (VBDI tók)
 			      (IP-INF (TO at) (VB minnka)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.773))
 
 ( (IP-MAT (VBDI Áttu)
 	  (NP-SBJ (PRO-N þeir))
@@ -12953,7 +12953,7 @@
 		(CP-REL (IP-SUB (NP-SBJ (N-N útivist))
 				(RDDI varð)
 				(NP-SBJ (ADJ-N löng) (N-N ok) (ADJ-N þver)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.774))
 
 ( (IP-MAT (VBDI Gengu)
 	  (ADVP-TMP (ADV nú))
@@ -12962,7 +12962,7 @@
 	  (RP fram)
 	  (PP (P í)
 	      (NP (D-D því) (N-D verki)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.775))
 
 ( (IP-MAT (CONJ En)
 	  (CP-ADV (C sem)
@@ -12993,7 +12993,7 @@
 		      (NP (D-D þeim) (N-D öfund)))
 		  (PP (P við)
 		      (NP (NS-A fóstbræðr))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.776))
 
 ( (IP-MAT (CONJ En)
 	  (CONJ bæði)
@@ -13025,7 +13025,7 @@
 									     (NP (NP (NS-D vopnaskiptum))
 										 (CONJP (CONJ eða)
 											(NP (OTHER-D öðrum) (NS-D atvikum) (ADJ-D stórfelldum)))))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.777))
 
 ( (IP-MAT (CONJ En)
 	  (NP-TMP (ONE-A eitt) (N-A sinn))
@@ -13096,7 +13096,7 @@
 																			    (PP (P í)
 																				(NP (N-A samför)
 																				    (NP-POS (PRO-A vora))))))))))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.778))
 
 ( (IP-MAT-SPE (NP-ADV (OTHER-G Annars))
 	      (VBPI held)
@@ -13109,7 +13109,7 @@
 				      (PP (P til)
 					  (NP (NS-G mótparta)))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.779))
 
 ( (IP-MAT (PP (P Eftir)
 	      (NP (D-A þetta)))
@@ -13120,7 +13120,7 @@
 	      (NP (NS-D hnýfilyrðum)
 		  (NP-POS (NP-POS (NPR-G Rauðs))
 			  (NS-G manna))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.780))
 
 ( (IP-MAT (CONJ En)
 	  (PP (P um)
@@ -13131,7 +13131,7 @@
 	  (VBDI náðu)
 	  (NP-SBJ (PRO-N þeir))
 	  (NP-OB1 (NPR-A Suðreyjum))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.781))
 
 ( (IP-MAT (BEDI Var)
 	  (NP-SBJ (N-D kaupmanni))
@@ -13152,14 +13152,14 @@
 			      (BEDS væri)
 			      (NP-PRD (N-N mál)
 				      (CP-EOP (IP-INF (TO at) (VB skilja))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.782))
 
 ( (META (NP (NUM-N 13) (NUM-N .))
 	(PP (PP (P Frá)
 		(NP (NPR-D Signýju))
 		(CONJP (CONJ ok) (NPR-D Ölrúnu))
 		(N-A ok))
-	    (NP-PRN (D-D þeim) (NS-D fóstbræðrum)))))
+	    (NP-PRN (D-D þeim) (NS-D fóstbræðrum)))) (ID 1824.HRANA.NAR-SAG,.783))
 
 ( (IP-MAT (NP-SBJ (ES Þat))
 	  (BEPI er)
@@ -13185,7 +13185,7 @@
 				  (NP-PRN (N-A hánefr))
 				  (PP (P at)
 				      (NP (N-D viðrnafni))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.784))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (VBDI átti)
@@ -13195,14 +13195,14 @@
 		  (CP-REL (C er)
 			  (IP-SUB (NP-PRD (NPR-N Geirþrúðr))
 				  (VBDI hét))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.785))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þau))
 	  (VBDI tóku)
 	  (ADVP (ADV vel))
 	  (PP (P við)
 	      (NP (NS-D gestum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.786))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þeir))
 	  (VBDI sýndu)
@@ -13210,7 +13210,7 @@
 			  (IP-SMC (NP-PRD (ADJ-A óáleitna) (N-A ok))))
 		  (ADJP (ADJ-A þæga)
 			(NP (Q-D hverjum) (N-D manni))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.787))
 
 ( (IP-MAT (NP-SBJ (NS-N Hjónin))
 	  (VBDI áttu)
@@ -13220,7 +13220,7 @@
 		  (CP-REL (C er)
 			  (IP-SUB (NP-PRD (NPR-N Signý))
 				  (VBDI hét))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.788))
 
 ( (IP-MAT (IP-MAT (BEDI Var)
 		  (NP-SBJ (PRO-N hún))
@@ -13243,7 +13243,7 @@
 			      (ADVP-LOC (ADV þar))
 			      (PP (P í)
 				  (NP (N-D grennd))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.789))
 
 ( (IP-MAT (BEDI Var)
 	  (NP-SBJ (PRO-N hún))
@@ -13252,7 +13252,7 @@
 	  (IP-SMC (ADJP (ADJ-N ljósbrá)))
 	  (PP (P at)
 	      (NP (N-D tilnafni)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.790))
 
 ( (IP-MAT (ADVP-TMP (ADV Brátt))
 	  (VBDI fannst)
@@ -13272,14 +13272,14 @@
 						      (NP-OB1 (PRO-D því))
 						      (PP (P með)
 							  (NP (N-D kurteisi) (N22 ok) (N22 blíðu)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.791))
 
 ( (IP-MAT (PP (P Í)
 	      (NP (NS-D húsum)
 		  (NP-POS (NPR-G Högna) (NPR-G hánefs))))
 	  (BEDI vóru)
 	  (NP-SBJ (N-N ok) (NUM-N tvær) (NS-N mæðgur))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.792))
 
 ( (IP-MAT (VBDI Hét)
 	  (NP-SBJ (D-N sú) (ADJR-N eldri))
@@ -13291,7 +13291,7 @@
 		  (IP-SUB (ADVP-TMP (ADV þá))
 			  (BEDI var)
 			  (ADJP (ADJ-N nýfulltíða))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.793))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hún))
 	  (BEDI var)
@@ -13332,7 +13332,7 @@
 											    (ADJP (ADJ-N enskar))
 											    (PP (P at)
 												(NP (N-D ætt)))))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.794))
 
 ( (IP-MAT (NP-PRD (NPR-N Gautr))
 	  (VBDI hét)
@@ -13344,7 +13344,7 @@
 		  (, ,)
 		  (RRC (VAN kallaðr)
 		       (IP-SMC (NP-PRD (D-N inn) (ADJ-N stórhenti)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.795))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (BEDI var)
@@ -13361,7 +13361,7 @@
 					  (BEDI vóru)
 					  (ADJP (ADJ-N fulltíða))
 					  (QS-N flestir)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.796))
 
 ( (IP-MAT (NP-SBJ (ES Þat))
 	  (VBDI bar)
@@ -13395,7 +13395,7 @@
 			      (NP (ONE-D einum) (N-D stað)))
 			  (PP (P við)
 			      (NP (NPR-A England)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.797))
 
 ( (IP-MAT (CONJ En)
 	  (CP-ADV (C sem)
@@ -13426,7 +13426,7 @@
 	  (NP-PRD (N-N ok)
 		  (Q-N fátt)
 		  (NP-POS (OTHERS-G annarra) (NS-G karlmanna)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.798))
 
 ( (IP-MAT (NP-SBJ (NS-N Feðgar))
 	  (HVDI höfðu)
@@ -13439,7 +13439,7 @@
 	      (NP (N-D landit)))
 	  (PP (P í)
 	      (NP (Q-D einhverjum) (N-D stað)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.799))
 
 ( (IP-MAT (IP-MAT (NP-SBJ (NS-N Mæðgur))
 		  (BEDI vóru)
@@ -13459,7 +13459,7 @@
 						   (PP (P til)
 						       (NP (NP-POS (NPR-G Gríms))
 							   (NS-G ferða))))))))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.800))
 
 ( (IP-MAT (CONJ en)
 	  (NP-OB1 (PRO-N hann)
@@ -13502,7 +13502,7 @@
 						 (NP (N-D grennd)))
 					     (HVDI höfðu)
 					     (VBN tekit))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.801))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBPI siglir)
@@ -13531,7 +13531,7 @@
 	  (NP-SBJ (NS-N hermenn))
 	  (PP (P á)
 	      (NP (NUM-D þrem) (NS-D skipum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.802))
 
 ( (IP-MAT (HVDI Höfðu)
 	  (NEG eigi)
@@ -13553,7 +13553,7 @@
 			      (, ,)
 			      (CP-REL (C er)
 				      (IP-SUB (RP fyrir) (BEDI var))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.803))
 
 ( (IP-MAT (VBDI Sló)
 	  (ADVP-TMP (ADV nú))
@@ -13562,7 +13562,7 @@
 	  (PP (P með)
 	      (NP (PRO-D þeim)
 		  (NP-PRN (NPR-D Grími))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.804))
 
 ( (IP-MAT (VBDI Féll)
 	  (NP-SBJ (PRO-N hann))
@@ -13571,7 +13571,7 @@
 			  (NP-POS (PRO-G hans))))
 	  (PP (P í)
 	      (NP (D-D þeirri) (N-D orrustu)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.805))
 
 ( (IP-MAT (BEDI Var)
 	  (ADVP-TMP (ADV þá))
@@ -13589,7 +13589,7 @@
 					      (PP (P á)
 						  (NP (PRO-A hann)))
 					      (VB bíta)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.806))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þeir)
 		  (NP-PRN (NPR-N Eysteinn)))
@@ -13622,7 +13622,7 @@
 				  (NP (NPRS-D Suðreyjum)))
 			      (PP (P með)
 				  (NP (Q-D nokkurum) (N-D fjárhlut))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.807))
 
 ( (IP-MAT (ADVP-TMP (ADV Þá))
 	  (VBDI staðnæmdust)
@@ -13631,7 +13631,7 @@
 	  (PP (P hjá)
 	      (NP (PRO-D þeim)
 		  (NP-PRN (NPR-D Högna) (N-A ok) (NPR-D Geirþrúði))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.808))
 
 ( (IP-MAT (IP-MAT (NP-SBJ (NPR-N Einarr))
 		  (VBDI lagði)
@@ -13649,7 +13649,7 @@
 			      (PP (P en)
 				  (CP-CMP (IP-SUB (PP (P hjá)
 						      (NP (PRO-D þeim) (NS-D stallsystrum))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.809))
 
 ( (IP-MAT (IP-MAT (BEDI Var)
 		  (ADVP-LOC (ADV þar))
@@ -13664,21 +13664,21 @@
 		      (ADVP (ADV svo))
 		      (PP (P at)
 			  (NP (N-D sumarkomu))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.810))
 
 ( (META (NP (NUM-N 14) (NUM-N .))
 	(PP (P Af)
 	    (NP (N-D framgöngu)
 		(NPR-G Hrana)
 		(NP-PRN (N-A ok)
-			(NP-POS (NPR-G Einars)))))))
+			(NP-POS (NPR-G Einars)))))) (ID 1824.HRANA.NAR-SAG,.811))
 
 ( (IP-MAT (NP-SBJ (NS-N Bræðr) (NUM-N tveir))
 	  (BEPI eru)
 	  (VAN nefndir)
 	  (PP (P til)
 	      (NP (N-G sögunnar)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.812))
 
 ( (IP-MAT (IP-MAT (VBDI Hét)
 		  (NP-SBJ (OTHER-N annarr))
@@ -13696,7 +13696,7 @@
 	  (HVDI höfðu)
 	  (NP-TMP (NS-D stundum))
 	  (NP-OB1 (N-A berserksgang))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.813))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þeir))
 	  (VBDI herjuðu)
@@ -13714,7 +13714,7 @@
 			      (BEDI var)
 			      (PP (P í)
 				  (NP (N-D námi))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.814))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þeir))
 	  (VBDI stýrðu)
@@ -13730,7 +13730,7 @@
 						  (NP-TMP (ADJS-A fyrsta)
 							  (N-A dag)
 							  (NP-POS (N-G sumars))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.815))
 
 ( (IP-MAT (ADVP-TMP (ADV Þá))
 	  (BEDI var)
@@ -13757,7 +13757,7 @@
 			  (, ,)
 			  (PP (P ásamt)
 			      (NP (Q-D allmörgum) (ADV þar) (ADJ-D innlendum)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.816))
 
 ( (IP-MAT (NP-SBJ (NS-N Eyjamenn))
 	  (VBDI sáu)
@@ -13781,7 +13781,7 @@
 				      (NP-SBJ (NS-N gestir) (D-N þessir))
 				      (N-A mjök)
 				      (ADVP (ADV óþýðliga)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.817))
 
 ( (IP-MAT (BEDI Var)
 	  (ADVP-TMP (ADV nú))
@@ -13806,7 +13806,7 @@
 					  (NP-PRN (NPR-N Arnhöfði)
 						  (NP-PRN (N-N ok)
 							  (NP-POS (NPRS-N Hildir)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.818))
 
 ( (IP-MAT (PP (P Við)
 	      (NP (PRO-A þetta)))
@@ -13819,7 +13819,7 @@
 	      (NP (NPR-N Hrani)
 		  (NP-PRN (N-N ok))
 		  (NP-POS (NPR-G Einarr))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.819))
 
 ( (IP-MAT (VBPI Tekr)
 	  (ADVP-TMP (ADV nú))
@@ -13838,7 +13838,7 @@
 				  (NP-VOC (NPR-N Einarr)
 					  (NP-POS (PRO-N minn)))))
 	  (. .)
-	  (" ")))
+	  (" ")) (ID 1824.HRANA.NAR-SAG,.820))
 
 ( (IP-MAT (NP-SBJ (NPR-N Einarr))
 	  (VBPI svarar)
@@ -13859,7 +13859,7 @@
 		      (IP-INF-SPE (ADVP (ADV eftir))
 				  (TO at)
 				  (VB sitja)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.821))
 
 ( (IP-MAT-SPE (MDDI Vildi)
 	      (NP-SBJ (PRO-N ek))
@@ -13879,7 +13879,7 @@
 				      (PP (P ef)
 					  (CP-ADV-SPE (IP-SUB-SPE (RP á) (VBPI liggr))))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.822))
 
 ( (IP-MAT (VBDI Gengu)
 	  (NP-SBJ (NS-N menn))
@@ -13897,7 +13897,7 @@
 		      (RP á)
 		      (CP-CMP (C sem)
 			      (IP-SUB (RP til) (BEDI var) (VAN getit))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.823))
 
 ( (IP-MAT (BEDI Var)
 	  (PP (NP (PRO-D því)))
@@ -13909,7 +13909,7 @@
 			  (NP-PRN (NPR-D Hrana) (CONJ ok) (NPR-D Einari)))))
 	  (PP (P úr)
 	      (NP (ADJS-D næstu) (NS-D stöðum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.824))
 
 ( (IP-MAT (NP-SBJ (NS-A Víkingana))
 	  (VBDI bar)
@@ -13925,7 +13925,7 @@
 				    (BEDI var)
 				    (NP-PRD (N-N ok))
 				    (NP-PRN (D-N hinir) (Q-N allir)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.825))
 
 ( (IP-MAT (HVDI Höfðu)
 	  (NP-SBJ (PRO-N þeir))
@@ -13936,7 +13936,7 @@
 	      (NP (NP-POS (NS-G manna))
 		  (N-A ádráttinn)))
 	  (, ,)
-	  (ADVP-TMP (ADVR fyrr))))
+	  (ADVP-TMP (ADVR fyrr))) (ID 1824.HRANA.NAR-SAG,.826))
 
 ( (IP-MAT (CONJ en)
 	  (NP-SBJ (PRO-N þeir))
@@ -13949,7 +13949,7 @@
 			  (IP-SUB (NP-SBJ (N-N fólkit))
 				  (VBDI stóð)
 				  (PP (P undir))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.827))
 
 ( (IP-MAT (BEDI Var)
 	  (ADVP-LOC (ADV þar))
@@ -13960,7 +13960,7 @@
 			     (NUM-N tveir)
 			     (NPRS-N Bárðdælingar)
 			     (NP-PRN (N-N ok) (NUM-N átján) (NS-N menn) (OTHERS-N aðrir)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.828))
 
 ( (IP-MAT (BEDI Vóru)
 	  (ADVP-TMP (ADV þá))
@@ -13968,7 +13968,7 @@
 	  (ADJP (ADJS-N vígligastir))
 	  (PP (P af)
 	      (NP (Q-D öllum) (PRO-D þeim)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.829))
 
 ( (IP-MAT (PP (P Með)
 	      (NP (NPR-D Rauði)))
@@ -13990,14 +13990,14 @@
 			      (NEG ekki)
 			      (PP (P í)
 				  (NP (D-D þeirri) (N-D list))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.830))
 
 ( (IP-MAT (BEDI Var)
 	  (NP-SBJ (PRO-N hann))
 	  (PP (NP (PRO-D því)))
 	  (NP-PRD (NPR-N Dal-Þórðr))
 	  (VAN kallaðr)
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.831))
 
 ( (IP-MAT (NP-SBJ (Q-N Nokkurir))
 	  (BEDI vóru)
@@ -14009,7 +14009,7 @@
 				  (NP (PRO-D honum)))
 			      (HVDI höfðu)
 			      (VBN lært))))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.832))
 
 ( (IP-MAT (CONJ en)
 	  (VBDI kunnu)
@@ -14019,7 +14019,7 @@
 	      (ADJP (ADJ-G jafns)
 		    (PP (P við)
 			(NP (PRO-A hann)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.833))
 
 ( (IP-MAT (CONJ En)
 	  (CP-ADV (C sem)
@@ -14051,7 +14051,7 @@
 							 (NP (N-D hnappi)))
 						     (, ,)
 						     (NP-VOC (NS-N eyjamenn))))))
-	  (. ?)))
+	  (. ?)) (ID 1824.HRANA.NAR-SAG,.834))
 
 ( (IP-MAT (NP-SBJ (PRO-N Vit)
 		  (NP-PRN (NS-N bræðr)
@@ -14068,7 +14068,7 @@
 		      (ADVP-DIR (ADV heim)))
 	  (, ,)
 	  (NP-VOC (NPR-N Kaupa-Rauðr))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.835))
 
 ( (IP-MAT-SPE (NP-SBJ (PRO-N Þú))
 	      (BEPI ert)
@@ -14081,7 +14081,7 @@
 				 (PP (P við)
 				     (NP (NS-D gestum)))))
 	      (. ,)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.836))
 
 ( (IP-MAT-SPE (" ")
 	      (ADVP (ADVR Svo))
@@ -14098,7 +14098,7 @@
 	      (" ")
 	      (IP-MAT-PRN (VBDI sagði)
 			  (NP-SBJ (NPR-N Rauðr)))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.837))
 
 ( (IP-MAT-SPE (" ")
 	      (ADVP-TMP (ADV Nú))
@@ -14113,7 +14113,7 @@
 	      (" ")
 	      (IP-MAT-PRN (VBDI sagði)
 			  (NP-SBJ (NPR-N Hildir)))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.838))
 
 ( (IP-MAT-SPE (" ")
 	      (ADVP (ADV Líkt))
@@ -14128,7 +14128,7 @@
 	      (" ")
 	      (IP-MAT-PRN (VBPI segir)
 			  (NP-SBJ (NPR-N Rauðr)))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.839))
 
 ( (IP-MAT-SPE (" ")
 	      (IP-MAT-SPE (NEG Eigi)
@@ -14163,7 +14163,7 @@
 						     (IP-SUB-SPE (VBPI heitir)
 								 (NP-PRD (NPR-N Svaf)))))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.840))
 
 ( (IP-MAT (VBDI Tóku)
 	  (ADVP-TMP (ADV þá))
@@ -14173,7 +14173,7 @@
 		  (ADVP (ADV æsiliga))
 		  (NP-SBJ (N-A ok))
 		  (VBDI grenjuðu))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.841))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þeir)
 		  (NP-PRN (NP-PRN (NPR-N Hrani)
@@ -14187,7 +14187,7 @@
 	  (PP (P at)
 	      (NP (D-D þeim)
 		  (NP-PRN (NS-D bræðrum))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.842))
 
 ( (IP-MAT-SPE (" ")
 	      (NP-SBJ (PRO-N Við))
@@ -14202,7 +14202,7 @@
 	      (" ")
 	      (IP-MAT-PRN (VBPI segir)
 			  (NP-SBJ (NPR-N Hrani)))
-	      (. .)))
+	      (. .)) (ID 1824.HRANA.NAR-SAG,.843))
 
 ( (IP-MAT (IP-MAT (NP-SBJ (NPR-N Arnhöfði))
 		  (VBPI snýr)
@@ -14214,16 +14214,16 @@
 		 (IP-MAT (NP-SBJ (NPR-N Hildir))
 			 (PP (P at)
 			     (NP (NPR-D Einari)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.844))
 
 ( (IP-MAT (VBPI Höggr)
 	  (NP-SBJ (NPR-N Arnhöfði))
 	  (PP (P í)
 	      (NP (N-A skjöld)
 		  (NP-POS (NPR-G Hrana))))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.845))
 
-( (IP-MAT (CONJ en) (VBDI tók) (NEG eigi) (RP á) (. .)))
+( (IP-MAT (CONJ en) (VBDI tók) (NEG eigi) (RP á) (. .)) (ID 1824.HRANA.NAR-SAG,.846))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBDI hjó)
@@ -14233,7 +14233,7 @@
 	  (N-A skjöld)
 	  (PP (P fyrir)
 	      (NP (NPR-A Arnhöfða)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.847))
 
 ( (IP-MAT (IP-MAT (PP (P Í)
 		      (NP (OTHER-A annat) (N-A sinn)))
@@ -14252,14 +14252,14 @@
 		 (IP-MAT (NEG eigi)
 			 (VBDI særðist)
 			 (NP-SBJ (PRO-N hann))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.848))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBDI hjó)
 	  (NP-OB1 (N-A ok))
 	  (PP (P í)
 	      (NP (ADJ-A annat) (N-A sinn)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.849))
 
 ( (IP-MAT (VBDI Kom)
 	  (NP-SBJ (D-N þat) (N-N högg))
@@ -14279,7 +14279,7 @@
 		      (NP-MSR (ADVR framar))
 		      (PP (P af)
 			  (NP (PRO-D honum))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.850))
 
 ( (IP-MAT (CONJ En)
 	  (NP-SBJ (N-N sameign)
@@ -14301,7 +14301,7 @@
 				(NP-OB1 (PRO-A hann))
 				(PP (P í)
 				    (NP (ADJS-D fyrsta) (N-D bragði))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.851))
 
 ( (IP-MAT (NP-SBJ (NPR-N Einarr))
 	  (VBDI hjó)
@@ -14314,14 +14314,14 @@
 		  (PP (P af)
 		      (NP (N-D skildi)
 			  (NP-POS (PRO-G hans)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.852))
 
 ( (IP-MAT (NP-SBJ (N-N Berserkrinn))
 	  (VBDI hjó)
 	  (NP-OB1 (N-A aftr))
 	  (PP (P til)
 	      (NP (PRO-G hans)))
-	  (. ,)))
+	  (. ,)) (ID 1824.HRANA.NAR-SAG,.853))
 
 ( (IP-MAT (CONJ en)
 	  (NP-SBJ (PRO-N hann))
@@ -14350,7 +14350,7 @@
 				    (VBDI laut)
 				    (PP (P eftir)
 					(NP (D-D þessu) (ADJ-D jötunliga) (N-D höggi)))))
-		 (. .))))
+		 (. .))) (ID 1824.HRANA.NAR-SAG,.854))
 
 ( (IP-MAT (PP (P Á)
 	      (ADVP (ADV meðan)))
@@ -14373,7 +14373,7 @@
 			  (NP (N-D sögunni)))
 		      (CP-ADV (C sem)
 			      (IP-SUB (NP-SBJ (D-N hinn)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.855))
 
 ( (IP-MAT (CONJ En)
 	  (PP (P á)
@@ -14395,7 +14395,7 @@
 				  (VB berast)
 				  (PP (P á)
 				      (NP (PRO-A þá))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.856))
 
 ( (IP-MAT (VBDI Skaut)
 	  (ADVP-TMP (ADV þá))
@@ -14406,7 +14406,7 @@
 	  (NP-OB1 (Q-A margan) (N-D skelmi))
 	  (PP (P til)
 	      (NP (N-G bana)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.857))
 
 ( (IP-MAT (CONJ En)
 	  (CP-ADV (C sem)
@@ -14432,7 +14432,7 @@
 	  (NP-OB1 (N-A hlut)
 		  (NP-POS (NS-G manna)
 			  (NP-POS (PRO-G sinna))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.858))
 
 ( (IP-MAT (CONJ En)
 	  (CP-ADV (C er)
@@ -14458,7 +14458,7 @@
 	  (VAN-D lögðu)
 	  (PP (P at)
 	      (NP (NPRS-D Suðreyingum)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.859))
 
 ( (IP-MAT (VBDI Tóku)
 	  (NP-SBJ (NPRS-N Íslendingar))
@@ -14467,7 +14467,7 @@
 	  (ADVP (ADV drengiliga))
 	  (PP (P við)
 	      (NP (PRO-D þeim)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.860))
 
 ( (IP-MAT (NP-SBJ (NS-N Bogmenn))
 	  (VBDI spöruðu)
@@ -14475,14 +14475,14 @@
 	  (NEG eigi)
 	  (ADVP (ADVR heldr))
 	  (NP-OB1 (NS-A skotin))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.861))
 
 ( (IP-MAT (VBDI Harðnaði)
 	  (ADVP-TMP (ADV þá))
 	  (NP-SBJ (N-N orrustan))
 	  (PP (P at)
 	      (ADJP (ADJ-D nýju)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.862))
 
 ( (IP-MAT (VBDI Tóku)
 	  (ADVP-TMP (ADV þá))
@@ -14491,13 +14491,13 @@
 		  (VB særast)
 		  (IP-INF (NP-SBJ (N-A ok))
 			  (VB falla)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.863))
 
 ( (IP-MAT (RDDI Varð)
 	  (NP-SBJ (NP-POS (PRO-G þeirra))
 		  (N-N framgangr))
 	  (NP-PRD (N-N linr))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.864))
 
 ( (IP-MAT (CONJ En)
 	  (NP-SBJ (PRO-N þeir)
@@ -14520,7 +14520,7 @@
 					     (VB flýja)
 					     (PP (P til)
 						 (NP (N-G skips))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.865))
 
 ( (IP-MAT (NP-SBJ (NS-N Fóstbræðr))
 	  (VBDI vörðu)
@@ -14533,14 +14533,14 @@
 			      (VBDI stóð)
 			      (ADVP (ADV eftir))
 			      (ADVP-TMP (ADVS síðast)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.866))
 
 ( (IP-MAT (BEDI Var)
 	  (ADVP-TMP (ADV þá))
 	  (NP-SBJ (N-N dagr))
 	  (PP (P á)
 	      (NP (N-D enda)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.867))
 
 ( (IP-MAT (HVDI Hafði)
 	  (NP-SBJ (N-N orrustan))
@@ -14549,7 +14549,7 @@
 	      (NP (PRO-D því)))
 	  (PP (P fyrir)
 	      (NP (N-A miðdegi)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.868))
 
 ( (IP-MAT (IP-MAT (VBDI Féllu)
 		  (ADVP-LOC (ADV þar))
@@ -14567,7 +14567,7 @@
 		 (IP-MAT (PP (P af)
 			     (NP (ADJ-D suðreyskum)))
 			 (NP-OB1 (NUM-A sjö))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.869))
 
 ( (IP-MAT (NP-SBJ (Q-N Lítit))
 	  (BEPI er)
@@ -14582,7 +14582,7 @@
 				    (BEDI var)
 				    (NEG eigi)
 				    (NP-PRD (N-N bardagamaðr)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.870))
 
 ( (IP-MAT (IP-MAT (BEDI Vóru)
 		  (ADVP-TMP (ADV nú))
@@ -14595,7 +14595,7 @@
 		 (IP-MAT (NP-SBJ (ADJP (ADV ákafliga) (VAN lúnir))
 				 (N-N ok)
 				 (N-N móðir))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.871))
 
 ( (IP-MAT (VBDI Fóru)
 	  (ADVP-TMP (ADV þá))
@@ -14633,7 +14633,7 @@
 			     (IP-MAT (NP-SBJ (OTHER-N aðrir))
 				     (VBDI dysjuðu)
 				     (NP-OB1 (N-A val)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.872))
 
 ( (IP-MAT (ADVP-TMP (ADV Nú))
 	  (VBDI lögðu)
@@ -14666,7 +14666,7 @@
 			  (CONJP (N-A ok)
 				 (IP-SUB (ADVP (ADV svo))
 					 (RDDI varð)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.873))
 
 ( (IP-MAT (VBDI Lofuðu)
 	  (ADVP-TMP (ADV nú))
@@ -14691,7 +14691,7 @@
 					  (NP-SBJ (PRO-N þeir))
 					  (ADVP (ADVR svo) (ADV vel))
 					  (VBN dugat)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.874))
 
 ( (IP-MAT (BEDI Vóru)
 	  (ADVP-TMP (ADV nú))
@@ -14702,7 +14702,7 @@
 		(ADV lystugt)
 		(PP (P eftir)
 		    (NP (Q-A allan) (D-A þenna) (N-A fjárfeng))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.875))
 
 ( (IP-MAT (VBDI Kvað)
 	  (ADVP-TMP (ADV nú))
@@ -14717,13 +14717,13 @@
 	  (PP (P í)
 	      (NP (N-D drauminum)))
 	  (ADVP-TMP (ADV forðum))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.876))
 
 ( (IP-MAT (NP-SBJ (LS (NUM-N 15) (ADJ-N .))
 		  (NP-SBJ (NPR-N Hrani)))
 	  (VBDI staðfestist)
 	  (PP (P í)
-	      (NP (NPRS-D Suðreyjum)))))
+	      (NP (NPRS-D Suðreyjum)))) (ID 1824.HRANA.NAR-SAG,.877))
 
 ( (IP-MAT (NP-TMP (Q-D Fám)
 		  (NS-D dögum)
@@ -14731,7 +14731,7 @@
 		      (NP (D-A þetta))))
 	  (VBDI sigldi)
 	  (NP-SBJ (NPR-N Rauðr))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.878))
 
 ( (IP-MAT (CONJ En)
 	  (NP-TMP (ADJS-A næsta) (N-A dag) (ADV eftir))
@@ -14739,7 +14739,7 @@
 	  (NP-SBJ (N-N skip))
 	  (PP (P til)
 	      (NP (NS-G eyjanna)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.879))
 
 ( (IP-MAT (BEDI Vóru)
 	  (VAN þat)
@@ -14760,7 +14760,7 @@
 							  (NP (NPRS-D Suðreyjum)))
 						      (IP-PPL (NP-SBJ (ADJ-N heilt) (N-N ok))
 							      (VAG lifandi))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.880))
 
 ( (IP-MAT (VBDI Fór)
 	  (ADVP-TMP (ADV þá))
@@ -14777,7 +14777,7 @@
 		      (NP-SBJ (N-D frásögn))
 		      (PP (P um)
 			  (NP (PRO-A hann))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.881))
 
 ( (IP-MAT (NP-SBJ (ES Þat))
 	  (BEPI er)
@@ -14801,7 +14801,7 @@
 						  (BEDI var)
 						  (ADJP (NP-CMP (OTHERS-D öðrum))
 							(ADJR-N frægri)))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.882))
 
 ( (IP-MAT (HVDI Hafði)
 	  (NP-SBJ (PRO-N hann))
@@ -14831,7 +14831,7 @@
 							      (VB sjá)
 							      (PP (P af)
 								  (NP (PRO-D honum))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.883))
 
 ( (IP-MAT-SPE (" ")
 	      (BEPI Er)
@@ -14864,7 +14864,7 @@
 							     (PP (P í)
 								 (NP (D-D þessu) (N-D takmarki)))))))
 	      (. .)
-	      (" ")))
+	      (" ")) (ID 1824.HRANA.NAR-SAG,.884))
 
 ( (IP-MAT (VBDI Féllst)
 	  (NP-SBJ (PRO-N hann))
@@ -14880,13 +14880,13 @@
 		  (VB eiga)
 		  (NP-OB1 (PRO-A hana))
 		  (NP-TMP (D-A þetta) (N-A sumar)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.885))
 
 ( (IP-MAT (NP-SBJ (N-N Samvist)
 		  (NP-POS (PRO-G þeirra)))
 	  (RDDI varð)
 	  (ADJP (ADJ-N góð) (N-N ok) (ADJ-N löng))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.886))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (BEDI var)
@@ -14953,7 +14953,7 @@
 												  (ADJ-N fimi)))
 										  (, ,)
 										  (NP-PRN (Q-N báðir) (ADJ-N íslenzkir))))))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.887))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þeir))
 	  (VBDI fylgdu)
@@ -14961,7 +14961,7 @@
 	  (ADVP (ADV ævilangt))
 	  (PP (P eftir)
 	      (NP (PRO-A þat)))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.888))
 
 ( (IP-MAT (NP-SBJ (PRO-N Hann))
 	  (HVDI hafði)
@@ -14970,7 +14970,7 @@
 	  (PP (P af)
 	      (NP (N-D skipbroti)
 		  (NP-POS (PRO-G þeirra))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.889))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBDI kom)
@@ -14985,18 +14985,18 @@
 					(NP-POS (PRO-G hans)))
 				(HVDI hafði)
 				(NP-OB1 (N-A spát)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.890))
 
 ( (IP-MAT (NP-SBJ (PRO-N Þau)
 		  (NP-PRN (NPR-N Signý)))
 	  (VBDI áttu)
 	  (NP-OB1 (ONE-A eina) (N-A dóttur))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.891))
 
 ( (QTP (NP (FW Hallveigu))
        (PP (P at)
 	   (NP (N-D heiti)))
-       (. .)))
+       (. .)) (ID 1824.HRANA.NAR-SAG,.892))
 
 ( (IP-MAT (NP-SBJ (QR-N Fleiri)
 		  (NP-POS (NS-G barna)))
@@ -15009,7 +15009,7 @@
 			  (PP (RP upp)
 			      (P á)
 			      (ADJP (ADJ-A víst)))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.893))
 
 ( (IP-MAT (NP-SBJ (NPR-N Hrani))
 	  (VBDI andaðist)
@@ -15020,7 +15020,7 @@
 		    (CP-REL (IP-SUB (ADJP (ADJ-N gamall))
 				    (BEDI var)
 				    (RDN orðinn))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.894))
 
 ( (IP-MAT (HVDI Hafði)
 	  (NP-SBJ (PRO-N hann))
@@ -15043,7 +15043,7 @@
 				      (ADVP-LOC (CP-FRL (WADVP (WADV áðr))
 							(IP-SUB (NP-SBJ (PRO-N hann))
 								(VBDI sigldi)))))))))
-	  (. .)))
+	  (. .)) (ID 1824.HRANA.NAR-SAG,.895))
 
 ( (IP-MAT (NP-SBJ (PRO-N Ok))
 	  (VBPI endar)
